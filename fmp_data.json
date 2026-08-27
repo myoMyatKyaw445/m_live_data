@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "166937",
+    "home_name": "Mindil Aces",
+    "home_img": "https://s.fmp.live/live/teams/logos/40692.png",
+    "away_name": "University Azzurri FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/56838.png",
+    "league": "Australia Darwin Premier League",
+    "match_time": "2026-08-27T15:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Mindil Aces VS University Azzurri FC",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8e176ffb009bc39f544331.m3u8?auth_key=1787845562-0-0-ca0cf4a82495a322224caa2cb62e2032"
+      }
+    ]
+  },
+  {
+    "id": "167499",
+    "home_name": "Spain U18",
+    "home_img": "https://s.fmp.live/live/teams/logos/26963.png",
+    "away_name": "Uzbekistan U17",
+    "away_img": "https://s.fmp.live/live/teams/logos/11692.png",
+    "league": "International Friendly",
+    "match_time": "2026-08-27T14:40:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Spain U18 VS Uzbekistan U17",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8fa131250dd16277eddda3.m3u8?auth_key=1787845562-0-0-96e264bd53bcf9d7d93ec283111ee6cb"
+      }
+    ]
+  }
+]
