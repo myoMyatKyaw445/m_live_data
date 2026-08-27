@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "id": "148678",
+    "home_name": "FK Kaspiy Aktau B",
+    "home_img": "https://s.fmp.live/live/teams/logos/92937.png",
+    "away_name": "Akademiya Ontustik",
+    "away_img": "https://s.fmp.live/live/teams/logos/45343.png",
+    "league": "Kazakhstan Division 1",
+    "match_time": "2026-08-27T19:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "FK Kaspiy Aktau B VS Akademiya Ontustik",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abe0.m3u8?auth_key=1787858281-0-0-78543f7605b155695d4662fab0dc1640"
+      }
+    ]
+  },
+  {
+    "id": "145341",
+    "home_name": "Aral Nukus",
+    "home_img": "https://s.fmp.live/live/teams/logos/32948.png",
+    "away_name": "FC Kattaqorgon",
+    "away_img": "https://s.fmp.live/live/teams/logos/87782.png",
+    "league": "Uzbekistan Pro League",
+    "match_time": "2026-08-27T19:00:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Aral Nukus VS ကတ်တာကော်ရ်ဂွန်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a68cb6515d865a0118e37a0.m3u8?auth_key=1787858281-0-0-c0cd73a9805808d91d76a3db285a9091"
+      }
+    ]
+  },
+  {
+    "id": "148675",
+    "home_name": "Kairat Almaty II",
+    "home_img": "https://s.fmp.live/live/teams/logos/64267.png",
+    "away_name": "FK Arys",
+    "away_img": "https://s.fmp.live/live/teams/logos/74468.png",
+    "league": "Kazakhstan Division 1",
+    "match_time": "2026-08-27T18:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Kairat Almaty II VS အက်ဖ်ကေ အာရစ်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abe3.m3u8?auth_key=1787858281-0-0-1f8ddad8c17ae69be3b1953f68afd53a"
+      }
+    ]
+  },
+  {
+    "id": "147622",
+    "home_name": "Sadarakpat",
+    "home_img": "https://s.fmp.live/live/teams/logos/89349.png",
+    "away_name": "FC Syunik",
+    "away_img": "https://s.fmp.live/live/teams/logos/20907.png",
+    "league": "Armenian Cup",
+    "match_time": "2026-08-27T18:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "ဆာဒါရတ်ပတ် VS FC Syunik",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6cbf8a37ef0c148eaaca38.m3u8?auth_key=1787858281-0-0-0e350d51f15f5963f2dd5721f0714850"
+      }
+    ]
+  }
+]
