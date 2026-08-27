@@ -1,1 +1,97 @@
-[]
+[
+  {
+    "id": "145341",
+    "home_name": "Aral Nukus",
+    "home_img": "https://s.fmp.live/live/teams/logos/32948.png",
+    "away_name": "FC Kattaqorgon",
+    "away_img": "https://s.fmp.live/live/teams/logos/87782.png",
+    "league": "Uzbekistan Pro League",
+    "match_time": "2026-08-27T19:00:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Aral Nukus VS ကတ်တာကော်ရ်ဂွန်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a68cb6515d865a0118e37a0.m3u8?auth_key=1787855521-0-0-af66b87c10f3aba26c45459c54aec656"
+      }
+    ]
+  },
+  {
+    "id": "148675",
+    "home_name": "Kairat Almaty II",
+    "home_img": "https://s.fmp.live/live/teams/logos/64267.png",
+    "away_name": "FK Arys",
+    "away_img": "https://s.fmp.live/live/teams/logos/74468.png",
+    "league": "Kazakhstan Division 1",
+    "match_time": "2026-08-27T18:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Kairat Almaty II VS အက်ဖ်ကေ အာရစ်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abe3.m3u8?auth_key=1787855521-0-0-880f624943118e6af84596ab5401042f"
+      }
+    ]
+  },
+  {
+    "id": "147622",
+    "home_name": "Sadarakpat",
+    "home_img": "https://s.fmp.live/live/teams/logos/89349.png",
+    "away_name": "FC Syunik",
+    "away_img": "https://s.fmp.live/live/teams/logos/20907.png",
+    "league": "Armenian Cup",
+    "match_time": "2026-08-27T18:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "ဆာဒါရတ်ပတ် VS FC Syunik",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6cbf8a37ef0c148eaaca38.m3u8?auth_key=1787855521-0-0-d99c01cb1e2413c06c8049588c0eb8f0"
+      }
+    ]
+  },
+  {
+    "id": "166938",
+    "home_name": "Hellenic AC",
+    "home_img": "https://s.fmp.live/live/teams/logos/40605.png",
+    "away_name": "Garuda FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/57456.png",
+    "league": "Australia Darwin Premier League",
+    "match_time": "2026-08-27T17:40:00+08:00",
+    "match_status": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Hellenic AC VS Garuda FC",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8e176ffb009bc39f544332.m3u8?auth_key=1787855521-0-0-569fe287f6046b341fbf84eb35f740a7"
+      }
+    ]
+  },
+  {
+    "id": "148680",
+    "home_name": "FK Yelimay Semey B",
+    "home_img": "https://s.fmp.live/live/teams/logos/92950.png",
+    "away_name": "FC Shakhtyor Karagandy",
+    "away_img": "https://s.fmp.live/live/teams/logos/17426.png",
+    "league": "Kazakhstan Division 1",
+    "match_time": "2026-08-27T17:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "FK Yelimay Semey B VS FC Shakhtyor Karagandy",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abde.m3u8?auth_key=1787855521-0-0-eff3112511bb5f761f00e0f64a1f9462"
+      }
+    ]
+  }
+]
