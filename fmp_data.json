@@ -150,5 +150,89 @@
         "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edae.m3u8?auth_key=1787870581-0-0-6e12f5af450f768bcb36d45697f4b592"
       }
     ]
+  },
+  {
+    "id": "149190",
+    "home_name": "Falu BS FK",
+    "home_img": "https://s.fmp.live/live/teams/logos/12552.png",
+    "away_name": "Brommapojkarna",
+    "away_img": "https://s.fmp.live/live/teams/logos/11575.png",
+    "league": "Sweden Cup",
+    "match_time": "2026-08-27T22:00:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": []
+  },
+  {
+    "id": "150440",
+    "home_name": "Maccabi Tel Aviv",
+    "home_img": "https://s.fmp.live/live/teams/logos/10400.png",
+    "away_name": "Lugano",
+    "away_img": "https://s.fmp.live/live/teams/logos/10642.png",
+    "league": "UEFA Europa Conference League",
+    "match_time": "2026-08-27T22:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": []
+  },
+  {
+    "id": "149402",
+    "home_name": "Ararat-Armenia FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/41977.png",
+    "away_name": "CS Universitatea Craiova",
+    "away_img": "https://s.fmp.live/live/teams/logos/23992.png",
+    "league": "UEFA Europa League",
+    "match_time": "2026-08-27T22:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": []
+  },
+  {
+    "id": "163026",
+    "home_name": "Najma Manama",
+    "home_img": "https://s.fmp.live/live/teams/logos/17499.png",
+    "away_name": "Al Khaldiya",
+    "away_img": "https://s.fmp.live/live/teams/logos/59206.png",
+    "league": "Bahrain Premier League",
+    "match_time": "2026-08-27T22:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FIRST_HALF",
+    "links": []
+  },
+  {
+    "id": "149188",
+    "home_name": "Jeddah Sports Club",
+    "home_img": "https://s.fmp.live/live/teams/logos/21470.png",
+    "away_name": "Al Najma(KSA)",
+    "away_img": "https://s.fmp.live/live/teams/logos/22391.png",
+    "league": "Saudi Arabia Division 1",
+    "match_time": "2026-08-27T22:50:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": []
+  },
+  {
+    "id": "149193",
+    "home_name": "Lindo FF",
+    "home_img": "https://s.fmp.live/live/teams/logos/19779.jpg",
+    "away_name": "Malmo FF",
+    "away_img": "https://s.fmp.live/live/teams/logos/10120.png",
+    "league": "Sweden Cup",
+    "match_time": "2026-08-27T23:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": []
   }
 ]
