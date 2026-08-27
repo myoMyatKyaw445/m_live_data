@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "id": "149452",
+    "home_name": "KuPs",
+    "home_img": "https://s.fmp.live/live/teams/logos/10744.png",
+    "away_name": "Shamrock Rovers",
+    "away_img": "https://s.fmp.live/live/teams/logos/10333.png",
+    "league": "UEFA Europa Conference League",
+    "match_time": "2026-08-27T21:30:00+08:00",
+    "match_status": false,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FINISHED",
+    "links": [
+      {
+        "name": "ချန်ပီယံလိပ် မဲခွဲပွဲ -တိုက်ရိုက် Live ",
+        "url": "https://alpull.mmchari.xyz/live/live_49182_lud.m3u8?auth_key=1787862825-0-0-63f9720ff2842e3591d78eba12ebc5d7"
+      }
+    ]
+  },
+  {
+    "id": "158446",
+    "home_name": "Baumit Jablonec",
+    "home_img": "https://s.fmp.live/live/teams/logos/10799.png",
+    "away_name": "Rangers",
+    "away_img": "https://s.fmp.live/live/teams/logos/10423.png",
+    "league": "UEFA Europa Conference League",
+    "match_time": "2026-08-27T22:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "ဂျာဘလိုနက်စ် Vs ရိန်းဂျား",
+        "url": "https://alpull.mmchari.xyz/live/live_49185_lud.m3u8?auth_key=1787855049-0-0-8ae0da4671f72b19614d11d8783a4cb1"
+      }
+    ]
+  },
+  {
+    "id": "150438",
+    "home_name": "Qarabag",
+    "home_img": "https://s.fmp.live/live/teams/logos/12345.png",
+    "away_name": "FC Twente Enschede",
+    "away_img": "https://s.fmp.live/live/teams/logos/10079.png",
+    "league": "UEFA Europa Conference League",
+    "match_time": "2026-08-27T22:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "ကွာရာဘတ် vs အက်ဖ်စီ တွမ်တီး",
+        "url": "https://alpull.mmchari.xyz/live/live_49186_lud.m3u8?auth_key=1787856342-0-0-1cae27d57c123c0a47b1957f50538e34"
+      }
+    ]
+  },
+  {
+    "id": "157713",
+    "home_name": "El Mokawloon El Arab",
+    "home_img": "https://s.fmp.live/live/teams/logos/14921.png",
+    "away_name": "Al Masry",
+    "away_img": "https://s.fmp.live/live/teams/logos/17208.png",
+    "league": "Egyptian Premier League",
+    "match_time": "2026-08-27T23:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "El Mokawloon El Arab VS အယ်လ် မက်စရီ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7fdd656b72017e6296b6c9.m3u8?auth_key=1787872562-0-0-57de43ce5800d42e74a009ab94b464de"
+      }
+    ]
+  },
+  {
+    "id": "149441",
+    "home_name": "Omonia Nicosia FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/10950.png",
+    "away_name": "Sint-Truidense",
+    "away_img": "https://s.fmp.live/live/teams/logos/10294.png",
+    "league": "UEFA Europa League",
+    "match_time": "2026-08-27T23:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "အိုမိုနီယာ နီကိုဆီယာ အက်ဖ်စီ VS စိန့်-ထရူဒဲန်ဆဲ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf6.m3u8?auth_key=1787872562-0-0-47cd3abfe9bfccb423ba16a3a508abc1"
+      }
+    ]
+  },
+  {
+    "id": "149442",
+    "home_name": "FC Viktoria Plzen",
+    "home_img": "https://s.fmp.live/live/teams/logos/12143.png",
+    "away_name": "Crvena Zvezda",
+    "away_img": "https://s.fmp.live/live/teams/logos/10820.png",
+    "league": "UEFA Europa League",
+    "match_time": "2026-08-27T23:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "အက်ဖ်စီ ဗစ်တိုးရီးယား ပလ်ဇန် VS ခရဗေနာ ဇဗက်ဇဒါ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf5.m3u8?auth_key=1787872562-0-0-57d96f1ded5527e755547a157e591562"
+      }
+    ]
+  },
+  {
+    "id": "149445",
+    "home_name": "Red Bull Salzburg",
+    "home_img": "https://s.fmp.live/live/teams/logos/10000.png",
+    "away_name": "Mjallby AIF",
+    "away_img": "https://s.fmp.live/live/teams/logos/11393.png",
+    "league": "UEFA Europa League",
+    "match_time": "2026-08-27T23:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ရက်ဘူလ် ဆားလ်စ်ဘတ် VS မီယဲလ်ဘီ အေ အိုင် အက်ဖ်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf2.m3u8?auth_key=1787872562-0-0-bbab5c5cb39a3cbc5ccd1163ebe21dea"
+      }
+    ]
+  },
+  {
+    "id": "149454",
+    "home_name": "Riga FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/33141.png",
+    "away_name": "KI Klaksvik",
+    "away_img": "https://s.fmp.live/live/teams/logos/26521.png",
+    "league": "UEFA Europa Conference League",
+    "match_time": "2026-08-27T23:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ရီဂါ အက်ဖ်စီ VS KI Klaksvik",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c0b.m3u8?auth_key=1787872562-0-0-34665520c20ffe215fe5557a4f7d9a79"
+      }
+    ]
+  }
+]
