@@ -150,5 +150,61 @@
         "url": "https://alpull.mmchari.xyz/sla/1-6a88b562fbc4c8ef093724f4.m3u8?auth_key=1787869742-0-0-4f00a6b26af2141ef8163531953ba498"
       }
     ]
+  },
+  {
+    "id": "149190",
+    "home_name": "Falu BS FK",
+    "home_img": "https://s.fmp.live/live/teams/logos/12552.png",
+    "away_name": "Brommapojkarna",
+    "away_img": "https://s.fmp.live/live/teams/logos/11575.png",
+    "league": "Sweden Cup",
+    "match_time": "2026-08-27T22:00:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "HALF_TIME",
+    "links": []
+  },
+  {
+    "id": "163027",
+    "home_name": "Sitra",
+    "home_img": "https://s.fmp.live/live/teams/logos/22220.png",
+    "away_name": "Malkiya",
+    "away_img": "https://s.fmp.live/live/teams/logos/17936.png",
+    "league": "Bahrain Premier League",
+    "match_time": "2026-08-27T22:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": []
+  },
+  {
+    "id": "150440",
+    "home_name": "Maccabi Tel Aviv",
+    "home_img": "https://s.fmp.live/live/teams/logos/10400.png",
+    "away_name": "Lugano",
+    "away_img": "https://s.fmp.live/live/teams/logos/10642.png",
+    "league": "UEFA Europa Conference League",
+    "match_time": "2026-08-27T22:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": []
+  },
+  {
+    "id": "149402",
+    "home_name": "Ararat-Armenia FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/41977.png",
+    "away_name": "CS Universitatea Craiova",
+    "away_img": "https://s.fmp.live/live/teams/logos/23992.png",
+    "league": "UEFA Europa League",
+    "match_time": "2026-08-27T22:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": []
   }
 ]
