@@ -7,10 +7,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/10079.png",
     "league": "UEFA Europa Conference League",
     "match_time": "2026-08-27T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ကွာရာဘတ် vs အက်ဖ်စီ တွမ်တီး",
@@ -26,10 +26,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/10423.png",
     "league": "UEFA Europa Conference League",
     "match_time": "2026-08-27T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဂျာဘလိုနက်စ် Vs ရိန်းဂျား",
@@ -57,6 +57,63 @@
     ]
   },
   {
+    "id": "167588",
+    "home_name": "Beitar Kfar Saba Shlomi",
+    "home_img": "https://s.fmp.live/live/teams/logos/10954.png",
+    "away_name": "Hapoel Hod HaSharon",
+    "away_img": "https://s.fmp.live/live/teams/logos/30069.png",
+    "league": "Israel Cup",
+    "match_time": "2026-08-27T23:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Beitar Kfar Saba Shlomi VS Hapoel Hod HaSharon",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8fe784cf074f0d502d76d9.m3u8?auth_key=1787869801-0-0-c560e3e686d893268b38c2de2f845540"
+      }
+    ]
+  },
+  {
+    "id": "163489",
+    "home_name": "Al-Sahel",
+    "home_img": "https://s.fmp.live/live/teams/logos/16727.png",
+    "away_name": "Al-Salibikhaet",
+    "away_img": "https://s.fmp.live/live/teams/logos/15353.png",
+    "league": "Kuwaiti Premier League",
+    "match_time": "2026-08-27T22:15:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Al-Sahel VS Al-Salibikhaet",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a89eac006a083c458928202.m3u8?auth_key=1787869801-0-0-29c9d934bc1c5514c1d1fb5d4287f94e"
+      }
+    ]
+  },
+  {
+    "id": "162989",
+    "home_name": "Ham-Kam U19",
+    "home_img": "https://s.fmp.live/live/teams/logos/23482.png",
+    "away_name": "Rosenborg U19",
+    "away_img": "https://s.fmp.live/live/teams/logos/11585.png",
+    "league": "Norwegian Junior U19",
+    "match_time": "2026-08-27T21:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Ham-Kam U19 VS Rosenborg U19",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a88a750eeaf4f1e6a3e136a.m3u8?auth_key=1787869801-0-0-a7926a4c5108149bb8c83b1c027a4534"
+      }
+    ]
+  },
+  {
     "id": "158103",
     "home_name": "Dinamo Saint Petersburg",
     "home_img": "https://s.fmp.live/live/teams/logos/51160.png",
@@ -71,7 +128,7 @@
     "links": [
       {
         "name": "Dinamo Saint Petersburg VS FC Dinamo-Vologda",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7fc14a8b0323bfec319da2.m3u8?auth_key=1787869742-0-0-d50a7b436a70d69dfa61ec8b050586f8"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7fc14a8b0323bfec319da2.m3u8?auth_key=1787869801-0-0-d69af55bffbe5574b160cd1edb69d13e"
       }
     ]
   },
@@ -90,64 +147,7 @@
     "links": [
       {
         "name": "Husqvarna VS ဂျိုင်းစ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edae.m3u8?auth_key=1787869742-0-0-dc76305536569b725643bf3656da3fb0"
-      }
-    ]
-  },
-  {
-    "id": "149193",
-    "home_name": "Lindo FF",
-    "home_img": "https://s.fmp.live/live/teams/logos/19779.jpg",
-    "away_name": "Malmo FF",
-    "away_img": "https://s.fmp.live/live/teams/logos/10120.png",
-    "league": "Sweden Cup",
-    "match_time": "2026-08-27T23:00:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Lindo FF VS မော်လ်မို အက်ဖ်အက်ဖ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edad.m3u8?auth_key=1787869742-0-0-d5858db69fd0da4327e18ebf62e272a1"
-      }
-    ]
-  },
-  {
-    "id": "149188",
-    "home_name": "Jeddah Sports Club",
-    "home_img": "https://s.fmp.live/live/teams/logos/21470.png",
-    "away_name": "Al Najma(KSA)",
-    "away_img": "https://s.fmp.live/live/teams/logos/22391.png",
-    "league": "Saudi Arabia Division 1",
-    "match_time": "2026-08-27T22:50:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "ဂျစ်ဒါ စပို့စ်ကလပ် VS အယ်လ် နာဂျ်မာ အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edaa.m3u8?auth_key=1787869742-0-0-5f2065f08e6af855c264536d460b2b6e"
-      }
-    ]
-  },
-  {
-    "id": "163026",
-    "home_name": "Najma Manama",
-    "home_img": "https://s.fmp.live/live/teams/logos/17499.png",
-    "away_name": "Al Khaldiya",
-    "away_img": "https://s.fmp.live/live/teams/logos/59206.png",
-    "league": "Bahrain Premier League",
-    "match_time": "2026-08-27T22:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "နာ့ဂျ်မာ မာနာမာ VS Al Khaldiya",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a88b562fbc4c8ef093724f4.m3u8?auth_key=1787869742-0-0-4f00a6b26af2141ef8163531953ba498"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edae.m3u8?auth_key=1787869801-0-0-61b5b3e96379c6de83afc7d86aac1001"
       }
     ]
   },
