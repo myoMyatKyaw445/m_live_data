@@ -7,14 +7,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/11840.png",
     "league": "English Football League Cup",
     "match_time": "2026-08-28T01:00:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ချဲလ်ဆီး VS လူတန် တောင်း",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7acf8ddc0bfe20cd4f813a.m3u8?auth_key=1787877061-0-0-0e9e67efdd06d1d21a9723b731dcc6a0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7acf8ddc0bfe20cd4f813a.m3u8?auth_key=1787877122-0-0-475d21cc549f70c8a00446af033c6bdf"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဆဲလ်တာဗီဂို VS စီအေ အိုဆာဆူနာ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a60e240d7f718fae4958889.m3u8?auth_key=1787877061-0-0-01473826f831529554d01a2fa7e7cdcd"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a60e240d7f718fae4958889.m3u8?auth_key=1787877122-0-0-1ebab14be2b2dc67f80959fb415b48c6"
       }
     ]
   },
@@ -45,14 +45,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/15859.png",
     "league": "UEFA Europa Conference League",
     "match_time": "2026-08-28T01:00:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဘိုရက် ဘန်ဂျာ လူကာ VS Vikingur Reykjavik",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c0e.m3u8?auth_key=1787877061-0-0-a185a8098b72084943baf3817d627cce"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c0e.m3u8?auth_key=1787877122-0-0-49e00cce39479316dc4582ba3ccfd566"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "အန်ဒါလဲ့ချ် VS  ကိုင်းရတ် အယ်လ်မာတီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf1.m3u8?auth_key=1787877061-0-0-33160ac05e0a06c007fb8a0cfa2f3093"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf1.m3u8?auth_key=1787877122-0-0-59e114457dd1c0489649bbb31fc37987"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "ဘရိုက်တန် VS Tromso IL",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c05.m3u8?auth_key=1787877061-0-0-4f1cbf248433e147639208b92b4b2b5d"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c05.m3u8?auth_key=1787877122-0-0-c81d4005018b281ddda99180999fc1c6"
       }
     ]
   },
@@ -102,14 +102,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/10203.png",
     "league": "UEFA Europa Conference League",
     "match_time": "2026-08-28T01:00:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "အောက် စ ထ ရီး ယား ဗီ(န်) VS စပို့တင်း ဘရာဂါ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bfa.m3u8?auth_key=1787877061-0-0-1200abd48b43f5ee182830bcfc9be11d"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bfa.m3u8?auth_key=1787877122-0-0-9eae659cb510d31b8faa7a2275fb1724"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "ပီရာမစ်စ် အက်ဖ်စီ VS Abou Qir Fertilizers SC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7fdd656b72017e6296b6c8.m3u8?auth_key=1787877061-0-0-60391051e83b3631255ab10c4a43f6e2"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7fdd656b72017e6296b6c8.m3u8?auth_key=1787877122-0-0-3bbb62aeb8484c81217310451252c2a1"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "Tigre Reserves VS Gimnasia Mendoza Reserves",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a88b562fbc4c8ef093724f7.m3u8?auth_key=1787877061-0-0-c78a097dfbbeb501ac11094687ad789d"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a88b562fbc4c8ef093724f7.m3u8?auth_key=1787877122-0-0-30d31018d157bd8045c84aee3b0df522"
       }
     ]
   },
@@ -166,7 +166,7 @@
     "links": [
       {
         "name": "စီအက်စ်ကေအေ ဆိုဖီယာ VS အိုအက်ဖ်အိုင် ခရီးတီး အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bed.m3u8?auth_key=1787877061-0-0-d21dd58906d7f683f1419b5d9c144a56"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bed.m3u8?auth_key=1787877122-0-0-32370b17f4e4ec9d015cbbc95964711d"
       }
     ]
   },
@@ -185,7 +185,7 @@
     "links": [
       {
         "name": "Deportivo Riestra Reserves VS Defensa y Justicia Reserves",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a88b562fbc4c8ef093724fa.m3u8?auth_key=1787877061-0-0-108488f16b2d60f85d2ef9059c2c90a1"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a88b562fbc4c8ef093724fa.m3u8?auth_key=1787877122-0-0-4b0860dc7b98bf06145d6ec6ccdf1b6f"
       }
     ]
   },
@@ -204,7 +204,7 @@
     "links": [
       {
         "name": "Rosario Central Reserves VS Barracas Central Reserves",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a88b562fbc4c8ef093724f8.m3u8?auth_key=1787877061-0-0-b5c7769b0caa330f3998621afaff4cc7"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a88b562fbc4c8ef093724f8.m3u8?auth_key=1787877122-0-0-1605f1762d4646d609b80beaf5378103"
       }
     ]
   },
@@ -223,7 +223,7 @@
     "links": [
       {
         "name": "အောဟူးစ် အေဂျီအက်ဖ် VS ဘင်ဖီကာ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bee.m3u8?auth_key=1787877061-0-0-b89848f3edd25630929a116f25599475"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bee.m3u8?auth_key=1787877122-0-0-1cdea58b42c5890b7a6f50992d008b47"
       }
     ]
   },
@@ -242,7 +242,7 @@
     "links": [
       {
         "name": "စိန့် ဂါလန် VS နော်ရှားလန်း",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bfd.m3u8?auth_key=1787877061-0-0-b1a066464d69dfa8c567efd19dd5ef35"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bfd.m3u8?auth_key=1787877122-0-0-6cde4bb75c4dd3c2b90029cc54f8dd31"
       }
     ]
   },
@@ -261,7 +261,7 @@
     "links": [
       {
         "name": "အေအက်ဖ်စီ အေဂျက်စ် VS စီယွန်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bfb.m3u8?auth_key=1787877061-0-0-a4c03993c71f9bf4749d0472c27cb307"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bfb.m3u8?auth_key=1787877122-0-0-20ee1d3226642053694d1cab77de559c"
       }
     ]
   },
@@ -280,7 +280,7 @@
     "links": [
       {
         "name": "ထွန်း VS လေ့ခ် ပို့ဇနန်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf0.m3u8?auth_key=1787877061-0-0-1d8fda3474d4a5622bba83a75edc5abe"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf0.m3u8?auth_key=1787877122-0-0-5a2262a71a316a10093652bf799b26f7"
       }
     ]
   },
@@ -299,7 +299,7 @@
     "links": [
       {
         "name": "ဗေလီ VS Silkeborg",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7fb32c5d79ffdae2daefb5.m3u8?auth_key=1787877061-0-0-fc7c527c708005af210a1d100e5b4d77"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7fb32c5d79ffdae2daefb5.m3u8?auth_key=1787877122-0-0-d9dca485fdcfbcdf01f85c30c8f46916"
       }
     ]
   },
@@ -318,7 +318,7 @@
     "links": [
       {
         "name": "El Mokawloon El Arab VS အယ်လ် မက်စရီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7fdd656b72017e6296b6c9.m3u8?auth_key=1787877061-0-0-c6b4a114a748cf483ac5c957ad0bf403"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7fdd656b72017e6296b6c9.m3u8?auth_key=1787877122-0-0-b6f3ce20bd5e808b7d89dc5757e1a770"
       }
     ]
   },
@@ -337,7 +337,7 @@
     "links": [
       {
         "name": "အိုမိုနီယာ နီကိုဆီယာ အက်ဖ်စီ VS စိန့်-ထရူဒဲန်ဆဲ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf6.m3u8?auth_key=1787877061-0-0-1103968ac901d31b81101c81179acbb8"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf6.m3u8?auth_key=1787877122-0-0-edf97fec230a4ce68fa93cf5f60f2df0"
       }
     ]
   },
@@ -356,7 +356,7 @@
     "links": [
       {
         "name": "အက်ဖ်စီ ဗစ်တိုးရီးယား ပလ်ဇန် VS ခရဗေနာ ဇဗက်ဇဒါ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf5.m3u8?auth_key=1787877061-0-0-f7d96a0788769d54360cdb49ab0e28e0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf5.m3u8?auth_key=1787877122-0-0-aaf48952ad0ac9de22309455375b0ee0"
       }
     ]
   },
@@ -375,7 +375,7 @@
     "links": [
       {
         "name": "ရက်ဘူလ် ဆားလ်စ်ဘတ် VS မီယဲလ်ဘီ အေ အိုင် အက်ဖ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf2.m3u8?auth_key=1787877061-0-0-564e93eae308b784d6c16d2a520270f6"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf2.m3u8?auth_key=1787877122-0-0-930d63566a602574935870c613f6a9c2"
       }
     ]
   },
@@ -394,7 +394,7 @@
     "links": [
       {
         "name": "Kauno Zalgiris VS ဘီဆစ်တက်စ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bef.m3u8?auth_key=1787877061-0-0-25ae3a8bdf50276de4d1daf3d174a097"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bef.m3u8?auth_key=1787877122-0-0-f2506005c1a1023b37b93549d15dde41"
       }
     ]
   },
@@ -413,7 +413,7 @@
     "links": [
       {
         "name": "ရီဂါ အက်ဖ်စီ VS KI Klaksvik",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c0b.m3u8?auth_key=1787877061-0-0-2ccd03561968ce66bfb7e3cb99b0a618"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c0b.m3u8?auth_key=1787877122-0-0-89dda791252387547eec6796a7981087"
       }
     ]
   },
@@ -432,7 +432,7 @@
     "links": [
       {
         "name": "အက်စီ ကိုပင်ဟေဂင် VS အင်တာ တာကူ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c07.m3u8?auth_key=1787877061-0-0-234949c2c7d616a084e82f64f16df8ac"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c07.m3u8?auth_key=1787877122-0-0-f8634a2bc51fb7b078a9b55fcb8a41c2"
       }
     ]
   },
@@ -451,7 +451,7 @@
     "links": [
       {
         "name": "ဘရန် VS ပီအေအိုကေ ဆာလိုနီကီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c01.m3u8?auth_key=1787877061-0-0-2536bce7d66ac0cc714e9ea6a4927d9c"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c01.m3u8?auth_key=1787877122-0-0-f51e17531bea6a21e4d4d04c5f7d4652"
       }
     ]
   },
@@ -470,7 +470,7 @@
     "links": [
       {
         "name": "ပါဖို့စ် အက်ဖ်စီ VS အက်ဖ် စီ ဒီ နာ မို စီး တီး",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bfc.m3u8?auth_key=1787877061-0-0-23a6843431065abc6b38003d51dbc9ea"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bfc.m3u8?auth_key=1787877122-0-0-12085cf5e429bba31cb9761e697fa618"
       }
     ]
   },
@@ -489,7 +489,7 @@
     "links": [
       {
         "name": "Lillestrom VS အက် ညာ တီ ယာ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf4.m3u8?auth_key=1787877061-0-0-8ea9518d5be61af483e1d247ad945f75"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24bf4.m3u8?auth_key=1787877122-0-0-09ca794172e3646d7d5067134b82b891"
       }
     ]
   },
@@ -508,7 +508,7 @@
     "links": [
       {
         "name": "အေအက်စ် မိုနာကို VS ဂွန်းနိခ် ဇာဘဇဲ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c08.m3u8?auth_key=1787877061-0-0-319613e7b0f1f684acaca0638d8c7639"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c08.m3u8?auth_key=1787877122-0-0-9c3cec732fcd743109adf3b9162ab88c"
       }
     ]
   },
@@ -527,7 +527,7 @@
     "links": [
       {
         "name": "အက်စ်စီ ဖရိုင်းဘတ် VS မားသားဝဲလ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c09.m3u8?auth_key=1787877061-0-0-9c6e81bdf9ac9d02640d5bf1642e8f93"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a71f77232d7e68a25e24c09.m3u8?auth_key=1787877122-0-0-46168ae333b46687ebfb574ad4904ffd"
       }
     ]
   },
@@ -546,7 +546,7 @@
     "links": [
       {
         "name": "Dinamo Saint Petersburg VS FC Dinamo-Vologda",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7fc14a8b0323bfec319da2.m3u8?auth_key=1787877061-0-0-592ed6d64346444c6be0e35e4ec0f25e"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7fc14a8b0323bfec319da2.m3u8?auth_key=1787877122-0-0-1a08cfc070fbbbdb45814d84428f35f2"
       }
     ]
   }
