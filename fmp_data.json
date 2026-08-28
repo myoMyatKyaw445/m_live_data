@@ -7,14 +7,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/16657.png",
     "league": "CONCACAF Central American Cup",
     "match_time": "2026-08-28T09:00:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 2,
     "awayScore": 1,
-    "status": "SECOND_HALF",
+    "status": "FINISHED",
     "links": [
       {
         "name": "CD Olimpia VS Deportivo Saprissa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787912702-0-0-3d9b02193901f7586f31c5cabf8458ab"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787912762-0-0-4be825d39029bc0d7ebee524fc90ffdb"
       }
     ]
   }
