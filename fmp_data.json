@@ -2,96 +2,85 @@
   {
     "id": "49267",
     "home_name": "Never Give Up Academy",
-    "home_img": "https://s.fmp.live/live/teams/logos/91533.png",
+    "home_img": "",
     "away_name": "Le Messager Ngozi",
-    "away_img": "https://s.fmp.live/live/teams/logos/20619.png",
-    "league": "Burundi Premier League",
-    "match_time": "2026-08-28T17:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Never Give Up Academy VS Le Messager Ngozi",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7848a23d248e0fcb1f65ab.m3u8?auth_key=1787942462-0-0-05b14f08ab31c852dc1996dde3350738"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49268",
-    "home_name": "Kolos Kovalivka II",
-    "home_img": "https://s.fmp.live/live/teams/logos/75778.png",
-    "away_name": "SC Poltava",
-    "away_img": "https://s.fmp.live/live/teams/logos/51937.png",
-    "league": "Ukrainian First League",
-    "match_time": "2026-08-28T17:30:00+08:00",
-    "match_status": true,
+    "home_name": "ကိုလော့စ် ကိုဗာလိဗ်ကာ ၂",
+    "home_img": "",
+    "away_name": "အက်စ်စီ ပိုလ်တာဗာ",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ကိုလော့စ် ကိုဗာလိဗ်ကာ ၂ VS အက်စ်စီ ပိုလ်တာဗာ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891e19.m3u8?auth_key=1787942462-0-0-181736d3805f5e7f764acc80ef7931a0"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49269",
     "home_name": "Sabah FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/15260.png",
+    "home_img": "",
     "away_name": "Penang FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/19986.png",
-    "league": "Malaysian Super League",
-    "match_time": "2026-08-28T18:00:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Sabah FC VS Penang FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb8.m3u8?auth_key=1787942462-0-0-1db1e270a089126aa9a8cd08b7768a00"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49270",
-    "home_name": "Dinamo Moscow Youth",
-    "home_img": "https://s.fmp.live/live/teams/logos/20213.png",
+    "home_name": "ဒိုင်နမို မော်စကို",
+    "home_img": "",
     "away_name": "Konopliev Youth",
-    "away_img": "https://s.fmp.live/live/teams/logos/58204.svg",
-    "league": "RUS M-League",
-    "match_time": "2026-08-28T18:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ဒိုင်နမို မော်စကို VS Konopliev Youth",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edc3.m3u8?auth_key=1787942462-0-0-6636a569dc05b3e8e12bb3e3b6c09bfa"
-      }
-    ]
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
+  },
+  {
+    "id": "49271",
+    "home_name": "FC Pari Nizhniy Novgorod Youth",
+    "home_img": "",
+    "away_name": "Fakel Youth",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49272",
-    "home_name": "Kolos Kovalivka",
-    "home_img": "https://s.fmp.live/live/teams/logos/12922.png",
-    "away_name": "Obolon Kyiv",
-    "away_img": "https://s.fmp.live/live/teams/logos/11003.png",
-    "league": "Ukrainian Premier League",
-    "match_time": "2026-08-28T19:00:00+08:00",
-    "match_status": true,
+    "home_name": "အက်ဖ်စီ ကိုးလော့စ် ကိုဗာလီဗ်ကာ",
+    "home_img": "",
+    "away_name": "အိုဘိုလွန် ကီးယက်ဗ်",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "အက်ဖ်စီ ကိုးလော့စ် ကိုဗာလီဗ်ကာ VS အိုဘိုလွန် ကီးယက်ဗ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a01.m3u8?auth_key=1787942462-0-0-ea085e48f24f2770b106bae463a351fd"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   }
 ]
