@@ -2,29 +2,77 @@
   {
     "id": "49258",
     "home_name": "Chinland FC",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/49696.png",
     "away_name": "Yadanarbon FC",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/25533.png",
+    "league": "Myanmar Professional League",
+    "match_time": "2026-08-28T16:00:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Chinland FC VS Yadanarbon FC",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d278.m3u8?auth_key=1787932742-0-0-871e0a8869e5948291a3c90afea0b952"
+      }
+    ]
   },
   {
     "id": "49260",
     "home_name": "Lokomotiv Kyiv",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/45155.png",
     "away_name": "Fenix Mariupol",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
+    "away_img": "https://s.fmp.live/live/teams/logos/57924.png",
+    "league": "Ukrainian First League",
+    "match_time": "2026-08-28T15:55:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Lokomotiv Kyiv VS Fenix Mariupol",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891e17.m3u8?auth_key=1787932742-0-0-69e29883c7f76a8f02ed6373314552ca"
+      }
+    ]
+  },
+  {
+    "id": "49261",
+    "home_name": "Suwon FC Women",
+    "home_img": "https://s.fmp.live/live/teams/logos/23804.png",
+    "away_name": "Seoul Amazones Women",
+    "away_img": "https://s.fmp.live/live/teams/logos/23974.png",
+    "league": "Korean WK League",
+    "match_time": "2026-08-28T16:30:00+08:00",
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Suwon FC Women VS Seoul Amazones Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb9.m3u8?auth_key=1787932742-0-0-79aa9a4f7f1ceb38e38b5ada29d1b82f"
+      }
+    ]
+  },
+  {
+    "id": "49262",
+    "home_name": "Almaz Antey Youth",
+    "home_img": "https://s.fmp.live/live/teams/logos/92599.png",
+    "away_name": "CSKA Moscow  Reserves",
+    "away_img": "https://s.fmp.live/live/teams/logos/21342.png",
+    "league": "RUS M-League",
+    "match_time": "2026-08-28T16:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Almaz Antey Youth VS CSKA Moscow  Reserves",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edc5.m3u8?auth_key=1787932742-0-0-a598febd5a52b1170144e3d47e06e04f"
+      }
+    ]
   }
 ]
