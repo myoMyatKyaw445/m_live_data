@@ -14,20 +14,6 @@
     "links": []
   },
   {
-    "id": "49268",
-    "home_name": "ကိုလော့စ် ကိုဗာလိဗ်ကာ ၂",
-    "home_img": "",
-    "away_name": "အက်စ်စီ ပိုလ်တာဗာ",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
-  },
-  {
     "id": "49269",
     "home_name": "Sabah FC",
     "home_img": "",
@@ -74,6 +60,20 @@
     "home_name": "အက်ဖ်စီ ကိုးလော့စ် ကိုဗာလီဗ်ကာ",
     "home_img": "",
     "away_name": "အိုဘိုလွန် ကီးယက်ဗ်",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
+  },
+  {
+    "id": "49273",
+    "home_name": "Pakhtakor II",
+    "home_img": "",
+    "away_name": "ကီဇီရစ် ဘောလုံးကလပ်",
     "away_img": "",
     "league": "League",
     "match_time": "",
