@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "CD Olimpia VS Deportivo Saprissa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787905682-0-0-1b13292518ace760d7b6700b8b665c2b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787905743-0-0-07eac2c4e0376556f575863c5e578e7f"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဒီ ပေါ့ တီ ဗို မစ် ခို VS Alianza FC (PAN)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbf9.m3u8?auth_key=1787905682-0-0-0711525b8a98941c50c5ddb74ffc6d4d"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbf9.m3u8?auth_key=1787905743-0-0-9c81455f26301f213efb69b6e2a279ce"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Internacional de Bogota VS Deportivo Pasto",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787905682-0-0-1de9a12ded4eb1977019ae6a54a96347"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787905743-0-0-7af0c2f763face7570bf436f4c30357c"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Alebrijes de Oaxaca VS Club Deportivo Tapatío",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb6.m3u8?auth_key=1787905682-0-0-7db16cf620ee02cc0900cc175d4d1052"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb6.m3u8?auth_key=1787905743-0-0-68bfdb1f64e6fab80c5cc28a8493dcd8"
       }
     ]
   },
@@ -90,26 +90,7 @@
     "links": [
       {
         "name": "Cancun FC VS Club Atletico La Paz",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb5.m3u8?auth_key=1787905682-0-0-8ddd0aa3ffe5c3f8f9612796962af806"
-      }
-    ]
-  },
-  {
-    "id": "151942",
-    "home_name": "CA Platense",
-    "home_img": "https://s.fmp.live/live/teams/logos/21171.png",
-    "away_name": "Instituto de Córdoba",
-    "away_img": "https://s.fmp.live/live/teams/logos/13335.png",
-    "league": "Copa Argentina",
-    "match_time": "2026-08-28T06:45:00+08:00",
-    "match_status": false,
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "PENALTY_SHOOTOUT",
-    "links": [
-      {
-        "name": "CA Platense VS Instituto de Córdoba",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c34848692467520f0.m3u8?auth_key=1787905682-0-0-a68be6408b85c7dd7a0c440577aa4bcc"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb5.m3u8?auth_key=1787905743-0-0-69dd4572e6f791b0556de5d3f17c450a"
       }
     ]
   }
