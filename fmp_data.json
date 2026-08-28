@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Internacional de Bogota VS Deportivo Pasto",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787904961-0-0-df805289185acfec6a94a004581bc795"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787905021-0-0-8beeed9d39748377cb117cb40e891963"
       }
     ]
   },
@@ -27,13 +27,13 @@
     "league": "Mexico Ascenso MX",
     "match_time": "2026-08-28T07:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Alebrijes de Oaxaca VS Club Deportivo Tapatío",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb6.m3u8?auth_key=1787904961-0-0-665fdc56f86fb8750d03d5300f3de870"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb6.m3u8?auth_key=1787905021-0-0-dd223f1a70752cbbb872c983b6b9d293"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Cancun FC VS Club Atletico La Paz",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb5.m3u8?auth_key=1787904961-0-0-434023516d42d297664e69e508d274f2"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb5.m3u8?auth_key=1787905021-0-0-4585eeafb8ca41ecee3f7295afe59afd"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "ဘိုလီဗာ VS အာကာဒေးမီးယား ဒယ်လ် ဘာလွန်ပီအေး ဘိုလီးဗီးယားနို",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7fdd656b72017e6296b6ce.m3u8?auth_key=1787904961-0-0-9f719f1d8fe191d65de6589a0f84645a"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7fdd656b72017e6296b6ce.m3u8?auth_key=1787905021-0-0-39de3319818b2a166d46daaf89205bc1"
       }
     ]
   },
@@ -83,14 +83,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/13335.png",
     "league": "Copa Argentina",
     "match_time": "2026-08-28T06:45:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 1,
     "awayScore": 1,
-    "status": "SECOND_HALF",
+    "status": "FINISHED",
     "links": [
       {
         "name": "CA Platense VS Instituto de Córdoba",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c34848692467520f0.m3u8?auth_key=1787904961-0-0-fbb8d4f03ad424be4ce8c55673198015"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c34848692467520f0.m3u8?auth_key=1787905021-0-0-39267df601bb97e6f49d231d274951f9"
       }
     ]
   }
