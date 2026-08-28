@@ -7,14 +7,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/16657.png",
     "league": "CONCACAF Central American Cup",
     "match_time": "2026-08-28T09:00:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "CD Olimpia VS Deportivo Saprissa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787905861-0-0-3d7ceedd80c077ee1dd34cb4ba3b7938"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787905922-0-0-20ab34c0a1b5ce5fbf62978f5d5739f8"
       }
     ]
   },
@@ -26,14 +26,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/37494.png",
     "league": "CONCACAF Central American Cup",
     "match_time": "2026-08-28T09:00:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဒီ ပေါ့ တီ ဗို မစ် ခို VS Alianza FC (PAN)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbf9.m3u8?auth_key=1787905861-0-0-b0e2d616608db6916cc200e10b9af2bd"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbf9.m3u8?auth_key=1787905922-0-0-7703457542c30e7cd0cd18cb0ca292a8"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Internacional de Bogota VS Deportivo Pasto",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787905861-0-0-66f48015664f29b80bf9f3238dcf9aa0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787905922-0-0-beb2cd5f5ed871928198963f3d443c4b"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Alebrijes de Oaxaca VS Club Deportivo Tapatío",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb6.m3u8?auth_key=1787905861-0-0-98be54f49d3087584c8829e99688881c"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb6.m3u8?auth_key=1787905922-0-0-6b4e4b6cd4b4bf0a8fb161c3ccc91f10"
       }
     ]
   },
