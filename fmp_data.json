@@ -1,40 +1,30 @@
 [
   {
-    "id": "150889",
-    "home_name": "Lokomotiv Kyiv",
-    "home_img": "https://s.fmp.live/live/teams/logos/45155.png",
-    "away_name": "Fenix Mariupol",
-    "away_img": "https://s.fmp.live/live/teams/logos/57924.png",
-    "league": "Ukrainian First League",
-    "match_time": "2026-08-28T15:55:00+08:00",
-    "match_status": true,
+    "id": "49258",
+    "home_name": "Chinland FC",
+    "home_img": "",
+    "away_name": "Yadanarbon FC",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Lokomotiv Kyiv VS Fenix Mariupol",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891e17.m3u8?auth_key=1787932381-0-0-be5f6f8433e845a0be38da6a7f030dd7"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
-    "id": "163490",
-    "home_name": "Chinland FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/49696.png",
-    "away_name": "Yadanarbon FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/25533.png",
-    "league": "Myanmar Professional League",
-    "match_time": "2026-08-28T16:00:00+08:00",
-    "match_status": true,
+    "id": "49260",
+    "home_name": "Lokomotiv Kyiv",
+    "home_img": "",
+    "away_name": "Fenix Mariupol",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Chinland FC VS Yadanarbon FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d278.m3u8?auth_key=1787932381-0-0-4363d911db23ae926812b34bdf36deda"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   }
 ]
