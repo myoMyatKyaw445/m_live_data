@@ -9,12 +9,12 @@
     "match_time": "2026-08-28T09:00:00+08:00",
     "match_status": true,
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "CD Olimpia VS Deportivo Saprissa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787911442-0-0-0bfcab6a216d73acadc20b011a309b95"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787911502-0-0-7653fb33cb1e877a381b26cfbc6c93c1"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဒီ ပေါ့ တီ ဗို မစ် ခို VS Alianza FC (PAN)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbf9.m3u8?auth_key=1787911442-0-0-9f35576060569e64ce5221b973b3f1a8"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbf9.m3u8?auth_key=1787911502-0-0-fbb589645849e17fbd80875946953188"
       }
     ]
   }
