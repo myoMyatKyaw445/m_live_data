@@ -8,13 +8,13 @@
     "league": "CONCACAF Central American Cup",
     "match_time": "2026-08-28T09:00:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "CD Olimpia VS Deportivo Saprissa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787906582-0-0-503fb60cf864203aae540e18cb091991"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787906642-0-0-5c58fcf0bdef996fd3155c2e90d2de91"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဒီ ပေါ့ တီ ဗို မစ် ခို VS Alianza FC (PAN)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbf9.m3u8?auth_key=1787906582-0-0-999843fa01c6ddf56d904c0b4d84406a"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbf9.m3u8?auth_key=1787906642-0-0-a3959cf156dd18dff208efc8cb161fdf"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Internacional de Bogota VS Deportivo Pasto",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787906582-0-0-c15796ab28528444f2c3a5e06639c457"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787906642-0-0-bef0c9326cf53e359f9fd2194ecd70e1"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Alebrijes de Oaxaca VS Club Deportivo Tapatío",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb6.m3u8?auth_key=1787906582-0-0-82c7b3dd7e3d6667f6f1ef4d04207692"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb6.m3u8?auth_key=1787906642-0-0-096d749a07ae9cb9fca3cf5608d83e5c"
       }
     ]
   },
@@ -84,13 +84,13 @@
     "league": "Mexico Ascenso MX",
     "match_time": "2026-08-28T07:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 2,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Cancun FC VS Club Atletico La Paz",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb5.m3u8?auth_key=1787906582-0-0-e9c2c43a2dd79ed9927729146e945846"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb5.m3u8?auth_key=1787906642-0-0-a18cded31bc160e9a067e52b990a4dd0"
       }
     ]
   }
