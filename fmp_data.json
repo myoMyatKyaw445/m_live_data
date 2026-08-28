@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "CD Olimpia VS Deportivo Saprissa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787907961-0-0-7dfee0ae029c2e6769612790112cc801"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbfa.m3u8?auth_key=1787908022-0-0-7a8f227f5cc19c60db86dd0dbccc6d20"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဒီ ပေါ့ တီ ဗို မစ် ခို VS Alianza FC (PAN)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbf9.m3u8?auth_key=1787907961-0-0-8eb9fc8c7664c5c749d72eb018d208b0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6e1116348486924602dbf9.m3u8?auth_key=1787908022-0-0-e0c4debe7571589affda2afc1e0c928b"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Internacional de Bogota VS Deportivo Pasto",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787907961-0-0-3fedbc7b69f527d62b698fb7db995ebc"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787908022-0-0-0b3358c7884b09252ea02ff8ed2df432"
       }
     ]
   },
@@ -64,14 +64,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/71325.png",
     "league": "Mexico Ascenso MX",
     "match_time": "2026-08-28T07:30:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 1,
     "awayScore": 2,
-    "status": "SECOND_HALF",
+    "status": "FINISHED",
     "links": [
       {
         "name": "Cancun FC VS Club Atletico La Paz",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb5.m3u8?auth_key=1787907961-0-0-5e4718bd6d6d4be6aee6e94c1c685f7f"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb5.m3u8?auth_key=1787908022-0-0-6483096fcb53ef8c30bc929eee679f58"
       }
     ]
   }
