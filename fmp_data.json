@@ -2,113 +2,324 @@
   {
     "id": "49282",
     "home_name": "Bumamuru",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/51005.png",
     "away_name": "Musongati FC",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "away_img": "https://s.fmp.live/live/teams/logos/49445.png",
+    "league": "Burundi Premier League",
+    "match_time": "2026-08-28T20:15:00+08:00",
+    "match_status": true,
+    "homeScore": 2,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Bumamuru VS Musongati FC",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7848a23d248e0fcb1f65ac.m3u8?auth_key=1787953322-0-0-c48cfc386e63ece905986599d84717c0"
+      }
+    ]
   },
   {
     "id": "49283",
     "home_name": "Dubai United",
-    "home_img": "",
-    "away_name": "အစ်တီဟာ့ဒ် ကာလ်ဘာ အက်ဖ်စီ",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "home_img": "https://s.fmp.live/live/teams/logos/60082.png",
+    "away_name": "Ittihad Kalba FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/20384.png",
+    "league": "United Arab Emirates Adnoc Pro-League",
+    "match_time": "2026-08-28T20:25:00+08:00",
+    "match_status": true,
+    "homeScore": 3,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Dubai United VS အစ်တီဟာ့ဒ် ကာလ်ဘာ အက်ဖ်စီ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a747e503cfa46773fa1ce8f.m3u8?auth_key=1787953322-0-0-ef249fa1b3b839d344daa159145e9ad7"
+      }
+    ]
   },
   {
     "id": "49284",
     "home_name": "ZFK Masinac Women",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/36926.png",
     "away_name": "ZFK Radnicki 1923 Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/47894.png",
+    "league": "Serbian Women's League",
+    "match_time": "2026-08-28T20:30:00+08:00",
+    "match_status": true,
+    "homeScore": 4,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "ZFK Masinac Women VS ZFK Radnicki 1923 Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a902dce5d732f70fc16f3c6.m3u8?auth_key=1787953322-0-0-28a7069acf29119468767d3f18676cbd"
+      }
+    ]
   },
   {
     "id": "49285",
     "home_name": "FK Gazalkent",
-    "home_img": "",
-    "away_name": "ဖာဂါနာ တက္ကသိုလ်",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "home_img": "https://s.fmp.live/live/teams/logos/92449.png",
+    "away_name": "FarDU",
+    "away_img": "https://s.fmp.live/live/teams/logos/81770.png",
+    "league": "Uzbekistan Pro League",
+    "match_time": "2026-08-28T20:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "FK Gazalkent VS ဖာဂါနာ တက္ကသိုလ်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a68cb6515d865a0118e379e.m3u8?auth_key=1787953322-0-0-2e535bd314f4279f292e14adfcc7564a"
+      }
+    ]
   },
   {
     "id": "49286",
     "home_name": "Spartak Moscow Youth",
-    "home_img": "",
-    "away_name": "အက်ဖ်-စီ ရိုဒီနာ မော်စကို လူငယ်အသင်း",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "home_img": "https://s.fmp.live/live/teams/logos/20212.png",
+    "away_name": "FC Rodina Moscow Youth",
+    "away_img": "https://s.fmp.live/live/teams/logos/91471.png",
+    "league": "RUS M-League",
+    "match_time": "2026-08-28T20:30:00+08:00",
+    "match_status": true,
+    "homeScore": 3,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Spartak Moscow Youth VS အက်ဖ်-စီ ရိုဒီနာ မော်စကို လူငယ်အသင်း",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edbf.m3u8?auth_key=1787953322-0-0-594bd3ba04134f081788c45e22e70a15"
+      }
+    ]
   },
   {
     "id": "49287",
     "home_name": "Khan Tengri FC",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/69981.png",
     "away_name": "Astana B",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "away_img": "https://s.fmp.live/live/teams/logos/50923.png",
+    "league": "Kazakhstan Division 1",
+    "match_time": "2026-08-28T20:30:00+08:00",
+    "match_status": true,
+    "homeScore": 3,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Khan Tengri FC VS Astana B",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abe2.m3u8?auth_key=1787953322-0-0-c366a3ccd724ada8705fdd38dab4f5c1"
+      }
+    ]
   },
   {
     "id": "49288",
     "home_name": "Olympic El Qanal",
-    "home_img": "",
-    "away_name": "အယ်လ် ဂူးနာ",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "home_img": "https://s.fmp.live/live/teams/logos/12041.png",
+    "away_name": "El Gounah",
+    "away_img": "https://s.fmp.live/live/teams/logos/22801.png",
+    "league": "Egyptian Premier League",
+    "match_time": "2026-08-28T20:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Olympic El Qanal VS အယ်လ် ဂူးနာ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7fdd656b72017e6296b6d1.m3u8?auth_key=1787953322-0-0-4133855db7269646207710f060b25b67"
+      }
+    ]
   },
   {
     "id": "49289",
-    "home_name": "အင်ပီ",
-    "home_img": "",
-    "away_name": "ဝါဒီ ဒေဂလာ အက်စ်စီ",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "home_name": "Enppi",
+    "home_img": "https://s.fmp.live/live/teams/logos/23009.png",
+    "away_name": "Wadi Degla SC",
+    "away_img": "https://s.fmp.live/live/teams/logos/24643.png",
+    "league": "Egyptian Premier League",
+    "match_time": "2026-08-28T20:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "အင်ပီ VS ဝါဒီ ဒေဂလာ အက်စ်စီ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7fdd656b72017e6296b6d0.m3u8?auth_key=1787953322-0-0-cccbfd2cc4fe0a178aa4ed0161359c9b"
+      }
+    ]
+  },
+  {
+    "id": "49291",
+    "home_name": "NK Sesvete",
+    "home_img": "https://s.fmp.live/live/teams/logos/18065.png",
+    "away_name": "NK Dugopolje",
+    "away_img": "https://s.fmp.live/live/teams/logos/10660.png",
+    "league": "Croatian First Football League",
+    "match_time": "2026-08-28T21:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "NK Sesvete VS NK Dugopolje",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a84eb12b6fa125e7d3fa297.m3u8?auth_key=1787953322-0-0-066573f0e31f13d643b85f88d00568ae"
+      }
+    ]
+  },
+  {
+    "id": "49292",
+    "home_name": "FK Vitebsk",
+    "home_img": "https://s.fmp.live/live/teams/logos/14779.png",
+    "away_name": "Naftan Novopolotsk",
+    "away_img": "https://s.fmp.live/live/teams/logos/11951.png",
+    "league": "Belarusian Premier League",
+    "match_time": "2026-08-28T21:30:00+08:00",
+    "match_status": true,
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "အက်ဖ်ကေ ဗိုက်တက်စ်ခ် VS နာဖ်တန် နိုဗိုပိုလော့စခ်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a0d.m3u8?auth_key=1787953322-0-0-51eb32a6f7fc4663f4735fa8c9a039d0"
+      }
+    ]
+  },
+  {
+    "id": "49293",
+    "home_name": "Carlos Mannucci W",
+    "home_img": "https://s.fmp.live/live/teams/logos/65349.png",
+    "away_name": "Defensores Del Ilucan (W)",
+    "away_img": "https://s.fmp.live/live/teams/logos/74756.png",
+    "league": "PER Liga Femenina",
+    "match_time": "2026-08-28T21:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Carlos Mannucci W VS ဒီဖန်ဆိုရေးစ် ဒဲလ် အီလူကန် (အမျိုးသမီး)",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7c12f6fbc4c8ef09bfc98c.m3u8?auth_key=1787953322-0-0-d73e9d7335fda7b8adbd0c26da1003c0"
+      }
+    ]
+  },
+  {
+    "id": "49294",
+    "home_name": "DFK Dainava Alytus",
+    "home_img": "https://s.fmp.live/live/teams/logos/27559.png",
+    "away_name": "FK Zalgiris Vilnius B",
+    "away_img": "https://s.fmp.live/live/teams/logos/24218.png",
+    "league": "Lithuanian I Lyga",
+    "match_time": "2026-08-28T21:40:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "DFK Dainava Alytus VS FK Zalgiris Vilnius B",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a747e503cfa46773fa1ce90.m3u8?auth_key=1787953322-0-0-6505060efcdb84b491f5ca25e50a60c2"
+      }
+    ]
+  },
+  {
+    "id": "49296",
+    "home_name": "Al-Ittifaq Dubai",
+    "home_img": "https://s.fmp.live/live/teams/logos/59584.png",
+    "away_name": "Al Orooba(UAE)",
+    "away_img": "https://s.fmp.live/live/teams/logos/20385.png",
+    "league": "United Arab Emirates Division 1 Group A",
+    "match_time": "2026-08-28T21:35:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Al-Ittifaq Dubai VS Al Orooba(UAE)",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22ede8.m3u8?auth_key=1787953322-0-0-4cc1770777d62ee7ac64b8744333951c"
+      }
+    ]
+  },
+  {
+    "id": "49297",
+    "home_name": "Slovan Ljubljana",
+    "home_img": "https://s.fmp.live/live/teams/logos/50426.png",
+    "away_name": "ND Ilirija 1911",
+    "away_img": "https://s.fmp.live/live/teams/logos/65784.png",
+    "league": "Slovenia 2.Liga",
+    "match_time": "2026-08-28T21:30:00+08:00",
+    "match_status": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Slovan Ljubljana VS ND Ilirija 1911",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957b2.m3u8?auth_key=1787953322-0-0-c03dd6010d1d274b562def2c7071962c"
+      }
+    ]
+  },
+  {
+    "id": "49298",
+    "home_name": "Parma U20",
+    "home_img": "https://s.fmp.live/live/teams/logos/27606.png",
+    "away_name": "Sassuolo U20",
+    "away_img": "https://s.fmp.live/live/teams/logos/32606.png",
+    "league": "Italian Campionato Primavera 1",
+    "match_time": "2026-08-28T21:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Parma U20 VS Sassuolo U20",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368e6.m3u8?auth_key=1787953322-0-0-4e228d143265c5a6edfecc028524dea6"
+      }
+    ]
+  },
+  {
+    "id": "49299",
+    "home_name": "KTP Kotka",
+    "home_img": "https://s.fmp.live/live/teams/logos/25725.png",
+    "away_name": "FC Haka",
+    "away_img": "https://s.fmp.live/live/teams/logos/10541.png",
+    "league": "Finnish Ykkosliiga",
+    "match_time": "2026-08-28T22:00:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "KTP Kotka VS အက်ဖ်စီ ဟာကာ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22ede9.m3u8?auth_key=1787953322-0-0-d642a21c24454109f84bc88626b61637"
+      }
+    ]
+  },
+  {
+    "id": "49300",
+    "home_name": "JaPS",
+    "home_img": "https://s.fmp.live/live/teams/logos/24285.png",
+    "away_name": "Käpylän Pallo",
+    "away_img": "https://s.fmp.live/live/teams/logos/21993.png",
+    "league": "Finnish Ykkosliiga",
+    "match_time": "2026-08-28T22:00:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "JaPS VS Käpylän Pallo",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edea.m3u8?auth_key=1787953322-0-0-7b77e58a4f7aeca46b5cbcd700089a77"
+      }
+    ]
   }
 ]
