@@ -2,85 +2,115 @@
   {
     "id": "49267",
     "home_name": "Never Give Up Academy",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/91533.png",
     "away_name": "Le Messager Ngozi",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/20619.png",
+    "league": "Burundi Premier League",
+    "match_time": "2026-08-28T17:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Never Give Up Academy VS Le Messager Ngozi",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7848a23d248e0fcb1f65ab.m3u8?auth_key=1787942641-0-0-e822a7198391af5026441a39f8e4d39f"
+      }
+    ]
   },
   {
     "id": "49268",
-    "home_name": "ကိုလော့စ် ကိုဗာလိဗ်ကာ ၂",
-    "home_img": "",
-    "away_name": "အက်စ်စီ ပိုလ်တာဗာ",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "home_name": "Kolos Kovalivka II",
+    "home_img": "https://s.fmp.live/live/teams/logos/75778.png",
+    "away_name": "SC Poltava",
+    "away_img": "https://s.fmp.live/live/teams/logos/51937.png",
+    "league": "Ukrainian First League",
+    "match_time": "2026-08-28T17:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "ကိုလော့စ် ကိုဗာလိဗ်ကာ ၂ VS အက်စ်စီ ပိုလ်တာဗာ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891e19.m3u8?auth_key=1787942641-0-0-2d5a309e4c739c4de2e7008008077d93"
+      }
+    ]
   },
   {
     "id": "49269",
     "home_name": "Sabah FC",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/15260.png",
     "away_name": "Penang FC",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "away_img": "https://s.fmp.live/live/teams/logos/19986.png",
+    "league": "Malaysian Super League",
+    "match_time": "2026-08-28T18:00:00+08:00",
+    "match_status": true,
+    "homeScore": 2,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Sabah FC VS Penang FC",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb8.m3u8?auth_key=1787942641-0-0-85a884fdb796d47d3f7062b494d597ef"
+      }
+    ]
   },
   {
     "id": "49270",
-    "home_name": "ဒိုင်နမို မော်စကို",
-    "home_img": "",
+    "home_name": "Dinamo Moscow Youth",
+    "home_img": "https://s.fmp.live/live/teams/logos/20213.png",
     "away_name": "Konopliev Youth",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/58204.svg",
+    "league": "RUS M-League",
+    "match_time": "2026-08-28T18:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "ဒိုင်နမို မော်စကို VS Konopliev Youth",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edc3.m3u8?auth_key=1787942641-0-0-f4fd87e9fdc5008c461bd4176a8c780a"
+      }
+    ]
   },
   {
     "id": "49271",
     "home_name": "FC Pari Nizhniy Novgorod Youth",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/61773.png",
     "away_name": "Fakel Youth",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/71476.png",
+    "league": "RUS M-League",
+    "match_time": "2026-08-28T18:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "FC Pari Nizhniy Novgorod Youth VS Fakel Youth",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edc1.m3u8?auth_key=1787942641-0-0-75bc1b2e08e5c7aef7c34b21bc2bdc00"
+      }
+    ]
   },
   {
     "id": "49272",
-    "home_name": "အက်ဖ်စီ ကိုးလော့စ် ကိုဗာလီဗ်ကာ",
-    "home_img": "",
-    "away_name": "အိုဘိုလွန် ကီးယက်ဗ်",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "home_name": "Kolos Kovalivka",
+    "home_img": "https://s.fmp.live/live/teams/logos/12922.png",
+    "away_name": "Obolon Kyiv",
+    "away_img": "https://s.fmp.live/live/teams/logos/11003.png",
+    "league": "Ukrainian Premier League",
+    "match_time": "2026-08-28T19:00:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "အက်ဖ်စီ ကိုးလော့စ် ကိုဗာလီဗ်ကာ VS အိုဘိုလွန် ကီးယက်ဗ်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a01.m3u8?auth_key=1787942641-0-0-4144003cd908c064244c75bdbacbf151"
+      }
+    ]
   }
 ]
