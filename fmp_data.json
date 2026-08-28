@@ -156,5 +156,47 @@
       },
       "__typename": "Live"
     }
+  ],
+  "banners": [
+    {
+      "id": "109",
+      "image": "https://s.fmp.live/live/banners/01M0NASEBJDQ2W7NP3RGMX8JZZ.png",
+      "link": "https://iw3653.com/sport",
+      "type": "WEB",
+      "platform": "PC",
+      "__typename": "Banner"
+    },
+    {
+      "id": "103",
+      "image": "https://s.fmp.live/live/banners/01M0J4VR7EESWP5DKFK7JJMBS5.jpg",
+      "link": "https://iw3653.com/sport",
+      "type": "WEB",
+      "platform": "PC",
+      "__typename": "Banner"
+    },
+    {
+      "id": "97",
+      "image": "https://s.fmp.live/live/banners/01M0J1V3REET43TZKY644MR500.jpg",
+      "link": "https://iw3653.com/sport",
+      "type": "WEB",
+      "platform": "PC",
+      "__typename": "Banner"
+    },
+    {
+      "id": "89",
+      "image": "https://s.fmp.live/live/banners/01KZ14WD4VDBG5TEKT4GS17262.gif",
+      "link": "https://iw3653.com/sport",
+      "type": "WEB",
+      "platform": "PC",
+      "__typename": "Banner"
+    },
+    {
+      "id": "85",
+      "image": "https://s.fmp.live/live/banners/01KZ13XD2JC7MKHDEY3H760ZKT.gif",
+      "link": "https://t.me/addlist/0yqcY6b1bMlmYjA1",
+      "type": "WEB",
+      "platform": "PC",
+      "__typename": "Banner"
+    }
   ]
 }
