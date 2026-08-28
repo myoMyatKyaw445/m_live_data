@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Internacional de Bogota VS Deportivo Pasto",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787905501-0-0-975ea6552021e18f88953e005963284e"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd0.m3u8?auth_key=1787905562-0-0-e1d3325122f8e8fdb15ab66f6714e04b"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Alebrijes de Oaxaca VS Club Deportivo Tapatío",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb6.m3u8?auth_key=1787905501-0-0-a81a2ddd87eef6c1f6cede2803783220"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb6.m3u8?auth_key=1787905562-0-0-f4bc9c214cd9a26659dbc44990cde311"
       }
     ]
   },
@@ -52,26 +52,7 @@
     "links": [
       {
         "name": "Cancun FC VS Club Atletico La Paz",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb5.m3u8?auth_key=1787905501-0-0-c9ec4d00111bc0a1fa554543742cbfec"
-      }
-    ]
-  },
-  {
-    "id": "157719",
-    "home_name": "Bolivar",
-    "home_img": "https://s.fmp.live/live/teams/logos/10801.png",
-    "away_name": "Academia del Balompié Boliviano",
-    "away_img": "https://s.fmp.live/live/teams/logos/80220.png",
-    "league": "Bolivian Primera Division",
-    "match_time": "2026-08-28T07:00:00+08:00",
-    "match_status": true,
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ဘိုလီဗာ VS အာကာဒေးမီးယား ဒယ်လ် ဘာလွန်ပီအေး ဘိုလီးဗီးယားနို",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7fdd656b72017e6296b6ce.m3u8?auth_key=1787905501-0-0-54dbd3087960c0424ec9dc06615e0246"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edb5.m3u8?auth_key=1787905562-0-0-c54c75119b563b0c91fd728c89c23477"
       }
     ]
   },
@@ -90,7 +71,7 @@
     "links": [
       {
         "name": "CA Platense VS Instituto de Córdoba",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c34848692467520f0.m3u8?auth_key=1787905501-0-0-904d647345634536070957430b792592"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c34848692467520f0.m3u8?auth_key=1787905562-0-0-ff12203744cd99ef0e96b06fe3c07199"
       }
     ]
   }
