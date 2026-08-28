@@ -1,1 +1,160 @@
-[]
+{
+  "liveList": [
+    {
+      "id": "49258",
+      "title": "Chinland FC VS Yadanarbon FC",
+      "cover": "https://s.fmp.live/live/lives/covers/2026/08/28/0ad29a1c-7310-4b25-b305-f82ff375129b.jpg",
+      "pullUrlM3U8": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d278.m3u8?auth_key=1787929442-0-0-6e4489073b206f87d16af9b00d8cc603",
+      "overseasPullUrlM3U8": null,
+      "pullUrlFLV": null,
+      "overseasPullUrlFLV": null,
+      "pullUrl": null,
+      "streams": [
+        {
+          "quality": "ORIGINAL",
+          "flv": null,
+          "m3u8": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d278.m3u8?auth_key=1787929442-0-0-6e4489073b206f87d16af9b00d8cc603",
+          "__typename": "LiveStreamUrl"
+        },
+        {
+          "quality": "HD_1080P",
+          "flv": null,
+          "m3u8": null,
+          "__typename": "LiveStreamUrl"
+        },
+        {
+          "quality": "HD_720P",
+          "flv": null,
+          "m3u8": null,
+          "__typename": "LiveStreamUrl"
+        },
+        {
+          "quality": "SD_480P",
+          "flv": null,
+          "m3u8": null,
+          "__typename": "LiveStreamUrl"
+        }
+      ],
+      "liveStat": {
+        "likes": 0,
+        "viewers": 6,
+        "__typename": "LiveStat"
+      },
+      "user": {
+        "id": "107",
+        "avatar": "https://s.fmp.live/live/avatars/01KD89EZP2QCVGYNH6S43B550M.jpg",
+        "name": "FMPLIVE",
+        "number": "5347281960",
+        "__typename": "User"
+      },
+      "competition": {
+        "id": "163490",
+        "matchTime": "2026-08-28T15:30:00+08:00",
+        "status": "NOT_STARTED",
+        "homeScore": 0,
+        "awayScore": 0,
+        "homeTeam": {
+          "id": "39285",
+          "nameCn": "治尼兰德",
+          "nameEn": "Chinland FC",
+          "logo": "https://s.fmp.live/live/teams/logos/49696.png",
+          "__typename": "Team"
+        },
+        "awayTeam": {
+          "id": "15533",
+          "nameCn": "雅丹纳博",
+          "nameEn": "Yadanarbon FC",
+          "logo": "https://s.fmp.live/live/teams/logos/25533.png",
+          "__typename": "Team"
+        },
+        "contest": {
+          "id": "1076",
+          "nameCn": "缅甸联赛",
+          "nameEn": "Myanmar Professional League",
+          "logo": "https://s.fmp.live/live/contests/logos/1815.png",
+          "__typename": "Contest"
+        },
+        "__typename": "Competition"
+      },
+      "__typename": "Live"
+    },
+    {
+      "id": "49257",
+      "title": "FK Ural Youth VS Zenit St.Petersburg Youth",
+      "cover": "https://s.fmp.live/live/lives/covers/2026/08/28/73c66c77-ff6f-40c7-85bf-2932508a5694.jpg",
+      "pullUrlM3U8": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edbe.m3u8?auth_key=1787929442-0-0-b5f3d2ac4b3d1bb9de0c102b10d2d337",
+      "overseasPullUrlM3U8": null,
+      "pullUrlFLV": null,
+      "overseasPullUrlFLV": null,
+      "pullUrl": null,
+      "streams": [
+        {
+          "quality": "ORIGINAL",
+          "flv": null,
+          "m3u8": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edbe.m3u8?auth_key=1787929442-0-0-b5f3d2ac4b3d1bb9de0c102b10d2d337",
+          "__typename": "LiveStreamUrl"
+        },
+        {
+          "quality": "HD_1080P",
+          "flv": null,
+          "m3u8": null,
+          "__typename": "LiveStreamUrl"
+        },
+        {
+          "quality": "HD_720P",
+          "flv": null,
+          "m3u8": null,
+          "__typename": "LiveStreamUrl"
+        },
+        {
+          "quality": "SD_480P",
+          "flv": null,
+          "m3u8": null,
+          "__typename": "LiveStreamUrl"
+        }
+      ],
+      "liveStat": {
+        "likes": 0,
+        "viewers": 2,
+        "__typename": "LiveStat"
+      },
+      "user": {
+        "id": "107",
+        "avatar": "https://s.fmp.live/live/avatars/01KD89EZP2QCVGYNH6S43B550M.jpg",
+        "name": "FMPLIVE",
+        "number": "5347281960",
+        "__typename": "User"
+      },
+      "competition": {
+        "id": "149214",
+        "matchTime": "2026-08-28T14:30:00+08:00",
+        "status": "HALF_TIME",
+        "homeScore": 3,
+        "awayScore": 2,
+        "homeTeam": {
+          "id": "16800",
+          "nameCn": "乌拉尔青年队",
+          "nameEn": "FK Ural Youth",
+          "logo": "https://s.fmp.live/live/teams/logos/26800.png",
+          "__typename": "Team"
+        },
+        "awayTeam": {
+          "id": "9191",
+          "nameCn": "圣彼得堡泽尼特青年队",
+          "nameEn": "Zenit St.Petersburg Youth",
+          "logo": "https://s.fmp.live/live/teams/logos/19191.png",
+          "__typename": "Team"
+        },
+        "contest": {
+          "id": "237",
+          "nameCn": "俄罗斯青年冠军联赛",
+          "nameEn": "RUS M-League",
+          "logo": "https://s.fmp.live/live/contests/logos/241.png",
+          "__typename": "Contest"
+        },
+        "__typename": "Competition"
+      },
+      "__typename": "Live"
+    }
+  ]
+}
