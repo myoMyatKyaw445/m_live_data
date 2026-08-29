@@ -2,71 +2,153 @@
   {
     "id": "49420",
     "home_name": "Atlante FC",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/10726.png",
     "away_name": "Club Leon",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/25483.png",
+    "league": "Mexico Liga MX",
+    "match_time": "2026-08-29T08:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "HALF_TIME",
+    "links": [
+      {
+        "name": "Atlante FC VS Club Leon",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368af.m3u8?auth_key=1787994121-0-0-dab2810f8f7dbaeb3bc8a9e0cbe38b4f"
+      }
+    ]
   },
   {
     "id": "49424",
     "home_name": "Wellington Olympic",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/35510.png",
     "away_name": "Waterside Karori",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "away_img": "https://s.fmp.live/live/teams/logos/45514.png",
+    "league": "New Zealand Central Premier League",
+    "match_time": "2026-08-29T08:15:00+08:00",
+    "match_status": true,
+    "homeScore": 2,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Wellington Olympic VS Waterside Karori",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fd.m3u8?auth_key=1787994121-0-0-0682c49ea7b9aa46ce9f15b66f3d4e1e"
+      }
+    ]
   },
   {
     "id": "49425",
     "home_name": "San Diego Wave Women",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/69574.png",
     "away_name": "Racing Louisville Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/60532.png",
+    "league": "United States Women's National Soccer League",
+    "match_time": "2026-08-29T08:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "awayScore": 2,
+    "status": "HALF_TIME",
+    "links": [
+      {
+        "name": "San Diego Wave Women VS Racing Louisville Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368b4.m3u8?auth_key=1787994121-0-0-f49bd5395cba980565a465f8ef47793c"
+      }
+    ]
   },
   {
     "id": "49426",
     "home_name": "Petone FC",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/35540.png",
     "away_name": "Island Bay United",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
+    "away_img": "https://s.fmp.live/live/teams/logos/51735.png",
+    "league": "New Zealand Central Premier League",
+    "match_time": "2026-08-29T09:00:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Petone FC VS Island Bay United",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fc.m3u8?auth_key=1787994121-0-0-8a79a95419c561293c3c477a9039d0b0"
+      }
+    ]
+  },
+  {
+    "id": "49427",
+    "home_name": "Club Tijuana",
+    "home_img": "https://s.fmp.live/live/teams/logos/15655.png",
+    "away_name": "Pumas U.N.A.M.",
+    "away_img": "https://s.fmp.live/live/teams/logos/13194.png",
+    "league": "Mexico Liga MX",
+    "match_time": "2026-08-29T09:40:00+08:00",
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Club Tijuana VS Pumas U.N.A.M.",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368bf.m3u8?auth_key=1787994121-0-0-40cc6d72e1278da9314b82b2bb2fc71d"
+      }
+    ]
+  },
+  {
+    "id": "49428",
+    "home_name": "East Coast Bays",
+    "home_img": "https://s.fmp.live/live/teams/logos/35198.png",
+    "away_name": "Auckland United",
+    "away_img": "https://s.fmp.live/live/teams/logos/56980.png",
+    "league": "New Zealand Northern Premier League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "East Coast Bays VS Auckland United",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a01.m3u8?auth_key=1787994121-0-0-7c49153b625a3a1543f26820c1372a90"
+      }
+    ]
+  },
+  {
+    "id": "49429",
+    "home_name": "Queanbeyan City U23",
+    "home_img": "https://s.fmp.live/live/teams/logos/58055.png",
+    "away_name": "Tuggeranong United U23",
+    "away_img": "https://s.fmp.live/live/teams/logos/57263.png",
+    "league": "Australia Capital Territory U23 League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Queanbeyan City U23 VS Tuggeranong United U23",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a911ce9018287f1ce5b2733.m3u8?auth_key=1787994121-0-0-5cd0a8b67b365f91d12f2160fe702b8d"
+      }
+    ]
   },
   {
     "id": "49430",
     "home_name": "Eastern Suburbs AFC",
-    "home_img": "",
-    "away_name": "အော့ကလန်း အက်ဖ်စီ ရီဇာဗ်",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "home_img": "https://s.fmp.live/live/teams/logos/35199.png",
+    "away_name": "Auckland FC Reserves",
+    "away_img": "https://s.fmp.live/live/teams/logos/87692.png",
+    "league": "New Zealand Northern Premier League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Eastern Suburbs AFC VS အော့ကလန်း အက်ဖ်စီ ရီဇာဗ်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a00.m3u8?auth_key=1787994121-0-0-3ef919590c37c934b51ef6aa4f5555e7"
+      }
+    ]
   }
 ]
