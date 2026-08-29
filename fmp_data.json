@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Necaxa VS Cruz Azul",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368ae.m3u8?auth_key=1787993762-0-0-747202a6d3300fcceafd0cff6f47ba46"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368ae.m3u8?auth_key=1787993942-0-0-6a513048b3ccacdddc343b32d0f00b83"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Atlante FC VS Club Leon",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368af.m3u8?auth_key=1787993762-0-0-c4421f869981f1d2962f551a5883fb7b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368af.m3u8?auth_key=1787993942-0-0-04d0d673c5309fc07b1edbd2caa07066"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Wellington Olympic VS Waterside Karori",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fd.m3u8?auth_key=1787993762-0-0-af6e66b674c6d74ced38362485f509c1"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fd.m3u8?auth_key=1787993942-0-0-e2de6060c5d664e6eda8731e06277e8b"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "San Diego Wave Women VS Racing Louisville Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368b4.m3u8?auth_key=1787993762-0-0-8d84d0159665590a08fea652327447f3"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368b4.m3u8?auth_key=1787993942-0-0-535f001bbdbdcaf51ebde06882bdf91b"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "Petone FC VS Island Bay United",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fc.m3u8?auth_key=1787993762-0-0-4c757611d46f35516064a522771a6c20"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fc.m3u8?auth_key=1787993942-0-0-7130da9ccf1c0ef7d19e05e36cb09946"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "Club Tijuana VS Pumas U.N.A.M.",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368bf.m3u8?auth_key=1787993762-0-0-f8e44500b79bd389ca031c960b7d6984"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368bf.m3u8?auth_key=1787993942-0-0-7f1dd3f9741eb6a692c612631610dbb9"
       }
     ]
   },
@@ -128,7 +128,45 @@
     "links": [
       {
         "name": "East Coast Bays VS Auckland United",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a01.m3u8?auth_key=1787993762-0-0-8045b3f09d52e8f179e367ba940f7ff4"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a01.m3u8?auth_key=1787993942-0-0-40d03c3416766f3d65f44b5e574386a4"
+      }
+    ]
+  },
+  {
+    "id": "49429",
+    "home_name": "Queanbeyan City U23",
+    "home_img": "https://s.fmp.live/live/teams/logos/58055.png",
+    "away_name": "Tuggeranong United U23",
+    "away_img": "https://s.fmp.live/live/teams/logos/57263.png",
+    "league": "Australia Capital Territory U23 League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Queanbeyan City U23 VS Tuggeranong United U23",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a911ce9018287f1ce5b2733.m3u8?auth_key=1787993942-0-0-475e990e473d10248000c641a275081b"
+      }
+    ]
+  },
+  {
+    "id": "49430",
+    "home_name": "Eastern Suburbs AFC",
+    "home_img": "https://s.fmp.live/live/teams/logos/35199.png",
+    "away_name": "Auckland FC Reserves",
+    "away_img": "https://s.fmp.live/live/teams/logos/87692.png",
+    "league": "New Zealand Northern Premier League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Eastern Suburbs AFC VS အော့ကလန်း အက်ဖ်စီ ရီဇာဗ်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a00.m3u8?auth_key=1787993942-0-0-6db45de92dc548a820352f53b414a8b4"
       }
     ]
   }
