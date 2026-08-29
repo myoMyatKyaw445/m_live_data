@@ -1,5 +1,24 @@
 [
   {
+    "id": "49429",
+    "home_name": "Queanbeyan City U23",
+    "home_img": "https://s.fmp.live/live/teams/logos/58055.png",
+    "away_name": "Tuggeranong United U23",
+    "away_img": "https://s.fmp.live/live/teams/logos/57263.png",
+    "league": "Australia Capital Territory U23 League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": false,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "EXTRA_TIME",
+    "links": [
+      {
+        "name": "Queanbeyan City U23 VS Tuggeranong United U23",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a911ce9018287f1ce5b2733.m3u8?auth_key=1788002042-0-0-e3195c9fef4e061f8d0e0788e06b5c4f"
+      }
+    ]
+  },
+  {
     "id": "49434",
     "home_name": "South Hobart",
     "home_img": "https://s.fmp.live/live/teams/logos/28245.png",
@@ -8,13 +27,13 @@
     "league": "Australia Tasmania National Premier League",
     "match_time": "2026-08-29T10:30:00+08:00",
     "match_status": true,
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "South Hobart VS Kingborough Lions",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8dd14e6b72017e6227a97c.m3u8?auth_key=1788001502-0-0-89a126919e4e8957ea288a86bd2de187"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8dd14e6b72017e6227a97c.m3u8?auth_key=1788002042-0-0-103353df8e3c10637967a9548ae4310c"
       }
     ]
   },
@@ -33,7 +52,7 @@
     "links": [
       {
         "name": "Kingborough Lions Women VS Glenorchy Knights Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a90666ce4f896100fc7f44b.m3u8?auth_key=1788001502-0-0-c7aff4ba4ee087920b06b937664243d5"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a90666ce4f896100fc7f44b.m3u8?auth_key=1788002042-0-0-6b87cee6b7af45cd1e1c8a26b21e431a"
       }
     ]
   },
@@ -47,12 +66,12 @@
     "match_time": "2026-08-29T11:00:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Launceston United Women VS Devonport Strikers Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a91390be15cf29d837fab7d.m3u8?auth_key=1788001502-0-0-600289b5c5c1d0e8f9c75481c8c810c0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a91390be15cf29d837fab7d.m3u8?auth_key=1788002042-0-0-4f7f32271df6583b7fbac192c537bf92"
       }
     ]
   },
@@ -71,7 +90,7 @@
     "links": [
       {
         "name": "Wellington Phoenix Reserve VS Upper Hutt City",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fe.m3u8?auth_key=1788001502-0-0-a11aa72999d1c4f1084e0e4556d93f62"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fe.m3u8?auth_key=1788002042-0-0-ed751a5be24c7571874fc2da8251aeeb"
       }
     ]
   },
@@ -90,7 +109,7 @@
     "links": [
       {
         "name": "ဂိုးလ်ကို့စ် နိုက်စ် အမျိုးသမီးအသင်း VS Queensland Lions Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8f151806a083c458c3f016.m3u8?auth_key=1788001502-0-0-65eb0a1541f7075e00f71a5cacb2228b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8f151806a083c458c3f016.m3u8?auth_key=1788002042-0-0-c6c51da4e06f9e1f0ec7ef2079cca9b2"
       }
     ]
   },
@@ -103,13 +122,13 @@
     "league": "National Premier Leagues Victoria",
     "match_time": "2026-08-29T11:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "St Albans Saints VS Dandenong Thunder",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c1.m3u8?auth_key=1788001502-0-0-34d16aa56d552c047dcd4949cf90484b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c1.m3u8?auth_key=1788002042-0-0-1b94700142cd3e506d24f6ee10d74dd2"
       }
     ]
   },
@@ -128,7 +147,7 @@
     "links": [
       {
         "name": "Oakleigh Cannons VS Dandenong City SC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c3.m3u8?auth_key=1788001502-0-0-4bee1586b9435457db8e2dc9803aba21"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c3.m3u8?auth_key=1788002042-0-0-e8d7b8f40ca085e3cdc5384ec3e987d0"
       }
     ]
   },
@@ -147,7 +166,7 @@
     "links": [
       {
         "name": "Avondale FC VS Hume City",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c7.m3u8?auth_key=1788001502-0-0-ee2e47ee018ad56af8a1d953bfbcfd02"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c7.m3u8?auth_key=1788002042-0-0-57a08523bd37906cdc9e6351999547db"
       }
     ]
   },
@@ -160,13 +179,13 @@
     "league": "National Premier Leagues Victoria",
     "match_time": "2026-08-29T11:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Melbourne City NPL VS Green Gully Cavaliers",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c4.m3u8?auth_key=1788001502-0-0-0f685c37799bb76b5f731e418232873a"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c4.m3u8?auth_key=1788002042-0-0-f291abafcacec254d829426a286a97c2"
       }
     ]
   },
@@ -179,13 +198,32 @@
     "league": "National Premier Leagues Victoria",
     "match_time": "2026-08-29T11:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Caroline Springs George Cross VS South Melbourne",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c6.m3u8?auth_key=1788001502-0-0-50f0ddf4800bc24ad56070678fe58a26"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c6.m3u8?auth_key=1788002042-0-0-e531f25f4b857f940becabc8d17e435c"
+      }
+    ]
+  },
+  {
+    "id": "49444",
+    "home_name": "Kahibah FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/45497.png",
+    "away_name": "New Lambton FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/40671.png",
+    "league": "Australia Northern New South Wales Premier League",
+    "match_time": "2026-08-29T10:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Kahibah FC VS New Lambton FC",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a88c371eeaf4f1e6a3edbab.m3u8?auth_key=1788002042-0-0-8f9abd4fc9143a756f048874bd7bc97b"
       }
     ]
   }
