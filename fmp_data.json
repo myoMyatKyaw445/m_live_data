@@ -1,135 +1,86 @@
 [
   {
-    "id": "49418",
-    "home_name": "Boca Juniors",
-    "home_img": "https://s.fmp.live/live/teams/logos/10093.png",
-    "away_name": "Club Atlético Lanús",
-    "away_img": "https://s.fmp.live/live/teams/logos/11532.png",
-    "league": "Argentine Division 1",
-    "match_time": "2026-08-29T07:00:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ဘိုကာ ဂျူနီယာစ် VS Club Atlético Lanús",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891ea7.m3u8?auth_key=1787991782-0-0-0016a945d1dc0191c9f425e41e844625"
-      }
-    ]
-  },
-  {
     "id": "49419",
     "home_name": "Necaxa",
-    "home_img": "https://s.fmp.live/live/teams/logos/15945.png",
+    "home_img": "",
     "away_name": "Cruz Azul",
-    "away_img": "https://s.fmp.live/live/teams/logos/12210.png",
-    "league": "Mexico Liga MX",
-    "match_time": "2026-08-29T07:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 3,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Necaxa VS Cruz Azul",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368ae.m3u8?auth_key=1787991782-0-0-1708d134883f4086dc49c729c635a8c6"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49420",
     "home_name": "Atlante FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/10726.png",
+    "home_img": "",
     "away_name": "Club Leon",
-    "away_img": "https://s.fmp.live/live/teams/logos/25483.png",
-    "league": "Mexico Liga MX",
-    "match_time": "2026-08-29T08:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Atlante FC VS Club Leon",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368af.m3u8?auth_key=1787991782-0-0-7d6e10e64d9579937947eb719546cf09"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49421",
     "home_name": "Union Magdalena",
-    "home_img": "https://s.fmp.live/live/teams/logos/14963.png",
+    "home_img": "",
     "away_name": "Deportes Quindio",
-    "away_img": "https://s.fmp.live/live/teams/logos/14116.png",
-    "league": "Colombian Torneo BetPlay Dimayor",
-    "match_time": "2026-08-29T07:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Union Magdalena VS Deportes Quindio",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891e70.m3u8?auth_key=1787991782-0-0-d1d9e4a7b64b69a6b44ba839995f681b"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49422",
     "home_name": "Juticalpa",
-    "home_img": "https://s.fmp.live/live/teams/logos/19854.png",
+    "home_img": "",
     "away_name": "Lobos UPNFM",
-    "away_img": "https://s.fmp.live/live/teams/logos/41727.png",
-    "league": "Honduras Primera Division",
-    "match_time": "2026-08-29T07:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Juticalpa VS Lobos UPNFM",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368b2.m3u8?auth_key=1787991782-0-0-282ceaec75e6b295c8dea01927fa3b0d"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49424",
     "home_name": "Wellington Olympic",
-    "home_img": "https://s.fmp.live/live/teams/logos/35510.png",
+    "home_img": "",
     "away_name": "Waterside Karori",
-    "away_img": "https://s.fmp.live/live/teams/logos/45514.png",
-    "league": "New Zealand Central Premier League",
-    "match_time": "2026-08-29T08:15:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Wellington Olympic VS Waterside Karori",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fd.m3u8?auth_key=1787991782-0-0-3726f0bf75d9c226079fa52fbc4eba3b"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49425",
     "home_name": "San Diego Wave Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/69574.png",
+    "home_img": "",
     "away_name": "Racing Louisville Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/60532.png",
-    "league": "United States Women's National Soccer League",
-    "match_time": "2026-08-29T08:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "San Diego Wave Women VS Racing Louisville Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368b4.m3u8?auth_key=1787991782-0-0-10736b493b06cb0b6a1984bc5dd58eb9"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   }
 ]
