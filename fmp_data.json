@@ -70,6 +70,20 @@
     "links": []
   },
   {
+    "id": "49429",
+    "home_name": "Queanbeyan City U23",
+    "home_img": "",
+    "away_name": "Tuggeranong United U23",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
+  },
+  {
     "id": "49430",
     "home_name": "Eastern Suburbs AFC",
     "home_img": "",
@@ -88,20 +102,6 @@
     "home_name": "Melville United",
     "home_img": "",
     "away_name": "Auckland City",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
-  },
-  {
-    "id": "49433",
-    "home_name": "Fencibles United",
-    "home_img": "",
-    "away_name": "Western Springs AFC",
     "away_img": "",
     "league": "League",
     "match_time": "",
