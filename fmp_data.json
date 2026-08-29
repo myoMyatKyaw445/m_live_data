@@ -2,113 +2,153 @@
   {
     "id": "49427",
     "home_name": "Club Tijuana",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/15655.png",
     "away_name": "Pumas U.N.A.M.",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "away_img": "https://s.fmp.live/live/teams/logos/13194.png",
+    "league": "Mexico Liga MX",
+    "match_time": "2026-08-29T09:40:00+08:00",
+    "match_status": true,
+    "homeScore": 2,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Club Tijuana VS Pumas U.N.A.M.",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368bf.m3u8?auth_key=1788000962-0-0-b81bf510550c6e0acf935aeb230ce95b"
+      }
+    ]
   },
   {
     "id": "49428",
     "home_name": "East Coast Bays",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/35198.png",
     "away_name": "Auckland United",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/56980.png",
+    "league": "New Zealand Northern Premier League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "awayScore": 3,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "East Coast Bays VS Auckland United",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a01.m3u8?auth_key=1788000962-0-0-b69cddb2bb7130a7759b3ac6c63eeb77"
+      }
+    ]
   },
   {
     "id": "49429",
     "home_name": "Queanbeyan City U23",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/58055.png",
     "away_name": "Tuggeranong United U23",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/57263.png",
+    "league": "Australia Capital Territory U23 League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Queanbeyan City U23 VS Tuggeranong United U23",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a911ce9018287f1ce5b2733.m3u8?auth_key=1788000962-0-0-a6b00dc3a6c725e486fea14aa3fd16f7"
+      }
+    ]
   },
   {
     "id": "49433",
     "home_name": "Fencibles United",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/70388.png",
     "away_name": "Western Springs AFC",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/14734.png",
+    "league": "New Zealand Northern Premier League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": true,
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Fencibles United VS Western Springs AFC",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a02.m3u8?auth_key=1788000962-0-0-64df6e3a67f8e1bf0a2078291faaa30c"
+      }
+    ]
   },
   {
     "id": "49434",
     "home_name": "South Hobart",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/28245.png",
     "away_name": "Kingborough Lions",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/33102.png",
+    "league": "Australia Tasmania National Premier League",
+    "match_time": "2026-08-29T10:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "HALF_TIME",
+    "links": [
+      {
+        "name": "South Hobart VS Kingborough Lions",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8dd14e6b72017e6227a97c.m3u8?auth_key=1788000962-0-0-fa2559e55056082c78c1be0524c257bf"
+      }
+    ]
   },
   {
     "id": "49435",
     "home_name": "Kingborough Lions Women",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/40467.png",
     "away_name": "Glenorchy Knights Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/51799.webp",
+    "league": "Australia Tasmania Women's Premier League",
+    "match_time": "2026-08-29T11:00:00+08:00",
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Kingborough Lions Women VS Glenorchy Knights Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a90666ce4f896100fc7f44b.m3u8?auth_key=1788000962-0-0-06edb0d43d78125ac75eb44d1214bde5"
+      }
+    ]
   },
   {
     "id": "49436",
     "home_name": "Launceston United Women",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/47666.png",
     "away_name": "Devonport Strikers Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/51800.png",
+    "league": "Australia Tasmania Women's Premier League",
+    "match_time": "2026-08-29T11:00:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Launceston United Women VS Devonport Strikers Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a91390be15cf29d837fab7d.m3u8?auth_key=1788000962-0-0-b9e46bbceb03ad3d9458bc217ff04447"
+      }
+    ]
   },
   {
     "id": "49437",
     "home_name": "Wellington Phoenix Reserve",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/14812.png",
     "away_name": "Upper Hutt City",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/46445.png",
+    "league": "New Zealand Central Premier League",
+    "match_time": "2026-08-29T11:00:00+08:00",
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Wellington Phoenix Reserve VS Upper Hutt City",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fe.m3u8?auth_key=1788000962-0-0-361d65366376799d5f67922080fdb6e2"
+      }
+    ]
   }
 ]
