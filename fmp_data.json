@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Atlante FC VS Club Leon",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368af.m3u8?auth_key=1787994301-0-0-a590e79f1596998317be69fdbc260d98"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368af.m3u8?auth_key=1787994481-0-0-1878f5107e4f8cd62d253a860fb10afb"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Wellington Olympic VS Waterside Karori",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fd.m3u8?auth_key=1787994301-0-0-f8659db3663248dd96fd9b7757367df8"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fd.m3u8?auth_key=1787994481-0-0-069ec764640068fbc22e773d876f6bc3"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "San Diego Wave Women VS Racing Louisville Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368b4.m3u8?auth_key=1787994301-0-0-38af38d4c0517eae8878ef831311fb75"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368b4.m3u8?auth_key=1787994481-0-0-9d2d996690b4c37a8837b644c1239561"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Petone FC VS Island Bay United",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fc.m3u8?auth_key=1787994301-0-0-d2e4eed6041f368c14556ac63bea8a45"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fc.m3u8?auth_key=1787994481-0-0-407d4eef9d509d452b7b0dd8d4048bc4"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "Club Tijuana VS Pumas U.N.A.M.",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368bf.m3u8?auth_key=1787994301-0-0-bb2bfaf5530c3ae7c1f4a210bcaa9f7d"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368bf.m3u8?auth_key=1787994481-0-0-59cac5c66e5ce94c741558a050987430"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "East Coast Bays VS Auckland United",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a01.m3u8?auth_key=1787994301-0-0-9fb67c55a6920e0d8b7abf809760f247"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a01.m3u8?auth_key=1787994481-0-0-e4a23afaf777e1df80c981ed98b15e97"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "Queanbeyan City U23 VS Tuggeranong United U23",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a911ce9018287f1ce5b2733.m3u8?auth_key=1787994301-0-0-5248e67b357947f04599d07e04aefdb5"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a911ce9018287f1ce5b2733.m3u8?auth_key=1787994481-0-0-2ccad9e6db7df54fd8f56f97a7edef00"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "Eastern Suburbs AFC VS အော့ကလန်း အက်ဖ်စီ ရီဇာဗ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a00.m3u8?auth_key=1787994301-0-0-21c8a33d9184c409906f1dd64935fe92"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a00.m3u8?auth_key=1787994481-0-0-2e78c2a8d97d50f343c498358c35171f"
       }
     ]
   },
@@ -166,7 +166,26 @@
     "links": [
       {
         "name": "Melville United VS Auckland City",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a04.m3u8?auth_key=1787994301-0-0-40988046d54d07c3634ee91618207823"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce108a04.m3u8?auth_key=1787994481-0-0-07ea36589fc9882200d343045e84d8a9"
+      }
+    ]
+  },
+  {
+    "id": "49432",
+    "home_name": "Tauranga City United",
+    "home_img": "https://s.fmp.live/live/teams/logos/35545.png",
+    "away_name": "Manukau United",
+    "away_img": "https://s.fmp.live/live/teams/logos/40878.png",
+    "league": "New Zealand Northern Premier League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Tauranga City United VS Manukau United",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089ff.m3u8?auth_key=1787994481-0-0-1c28a55ab9796162abea869dd95adf21"
       }
     ]
   }
