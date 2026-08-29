@@ -1,952 +1,114 @@
 [
   {
-    "id": "49321",
-    "home_name": "Neftekhimik Nizhnekamsk",
-    "home_img": "https://s.fmp.live/live/teams/logos/25789.png",
-    "away_name": "FC Ufa",
-    "away_img": "https://s.fmp.live/live/teams/logos/11431.png",
-    "league": "Russian First League",
-    "match_time": "2026-08-28T23:00:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Neftekhimik Nizhnekamsk VS FC Ufa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369fa.m3u8?auth_key=1787962622-0-0-c3b82835b89c7dfcc3dd0bb794f2785f"
-      }
-    ]
-  },
-  {
-    "id": "49322",
-    "home_name": "SKN St.Polten",
-    "home_img": "https://s.fmp.live/live/teams/logos/17327.png",
-    "away_name": "SV Austria Salzburg",
-    "away_img": "https://s.fmp.live/live/teams/logos/14224.png",
-    "league": "Austrian 2.Liga",
-    "match_time": "2026-08-28T23:00:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "အက်စ် ကေ အန် ဆန့် ပို(လ်) တန် VS အက်စ် ဗီ အောက် စ ထ ရီး ယား ဇာ(လ်) ဘတ် ဂ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a695.m3u8?auth_key=1787962622-0-0-5bde738ede2a7bb3f1727a89f14b1468"
-      }
-    ]
-  },
-  {
-    "id": "49323",
-    "home_name": "Al-Wasl SC",
-    "home_img": "https://s.fmp.live/live/teams/logos/21312.png",
-    "away_name": "Shabab Al Ahli",
-    "away_img": "https://s.fmp.live/live/teams/logos/16201.png",
-    "league": "United Arab Emirates Adnoc Pro-League",
-    "match_time": "2026-08-28T23:00:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "အယ်လ်-ဝါဆယ်လ် အက်စ်စီ VS ရှာဘတ် အယ်လ် အာလီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a748c79eaed40cd9982d92f.m3u8?auth_key=1787962622-0-0-2fbdc20490c459eef7734d400e000819"
-      }
-    ]
-  },
-  {
-    "id": "49324",
-    "home_name": "ElfsborgWomen",
-    "home_img": "https://s.fmp.live/live/teams/logos/76601.png",
-    "away_name": "Hacken B Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/74480.png",
-    "league": "Sweden Elitettan",
-    "match_time": "2026-08-28T23:00:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "အဲလ်ဖ်ဘော့ဂ် (အမျိုးသမီး) VS ဟက်ကန် ဘီ အမျိုးသမီး",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f052.m3u8?auth_key=1787962622-0-0-b1740e38b6c2ee3068c1b28954c5e5a5"
-      }
-    ]
-  },
-  {
-    "id": "49326",
-    "home_name": "Racing Santander",
-    "home_img": "https://s.fmp.live/live/teams/logos/10221.png",
-    "away_name": "Elche",
-    "away_img": "https://s.fmp.live/live/teams/logos/10301.png",
-    "league": "Spanish La Liga",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ရာစင် ဆန်တန်ဒဲ့ရ် VS အယ်လ်ချေ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6a1.m3u8?auth_key=1787962622-0-0-a17757abdfef075f530d14ab1d353c91"
-      }
-    ]
-  },
-  {
-    "id": "49327",
-    "home_name": "ASA Aarhus",
-    "home_img": "https://s.fmp.live/live/teams/logos/24650.png",
-    "away_name": "Holstebro BK",
-    "away_img": "https://s.fmp.live/live/teams/logos/11810.png",
-    "league": "Danish Division 3 Group A",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ASA Aarhus VS Holstebro BK",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6b1.m3u8?auth_key=1787962622-0-0-79f01403f5352b4df87050dfa90097e9"
-      }
-    ]
-  },
-  {
-    "id": "49328",
-    "home_name": "Uniao Leiria",
-    "home_img": "https://s.fmp.live/live/teams/logos/13923.png",
-    "away_name": "CD Tondela",
-    "away_img": "https://s.fmp.live/live/teams/logos/32896.png",
-    "league": "Liga Portugal 2",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "အူနီယောင်း ဒေ လေအီရီယား VS စီဒီ တွန်ဒေလာ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f4a.m3u8?auth_key=1787962622-0-0-38e93655e48e60af2339058f75a403f7"
-      }
-    ]
-  },
-  {
-    "id": "49329",
-    "home_name": "Helsingor",
-    "home_img": "https://s.fmp.live/live/teams/logos/11697.png",
-    "away_name": "Ishoj IF",
-    "away_img": "https://s.fmp.live/live/teams/logos/12435.png",
-    "league": "Danish Division 3 Group A",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Helsingor VS Ishoj IF",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6b0.m3u8?auth_key=1787962622-0-0-aa555b157caa302cf4ed6e4265da5acd"
-      }
-    ]
-  },
-  {
-    "id": "49330",
-    "home_name": "Nykobing FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/10676.png",
-    "away_name": "Roskilde",
-    "away_img": "https://s.fmp.live/live/teams/logos/13034.png",
-    "league": "Danish 2nd Division",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Nykobing FC VS Roskilde",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6a3.m3u8?auth_key=1787962622-0-0-79a9694c456eba5fcff1fb1f2a99bbf6"
-      }
-    ]
-  },
-  {
-    "id": "49331",
-    "home_name": "Fremad Amager",
-    "home_img": "https://s.fmp.live/live/teams/logos/10396.png",
-    "away_name": "Thisted FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/12870.png",
-    "league": "Danish 2nd Division",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Fremad Amager VS Thisted FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6a4.m3u8?auth_key=1787962622-0-0-629899ce469ff4be3d4dc7e2fe63f63c"
-      }
-    ]
-  },
-  {
-    "id": "49332",
-    "home_name": "AC Horsens",
-    "home_img": "https://s.fmp.live/live/teams/logos/11214.png",
-    "away_name": "Viborg",
-    "away_img": "https://s.fmp.live/live/teams/logos/10086.png",
-    "league": "Danish Superliga",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "AC Horsens VS ဗီဘော်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6a2.m3u8?auth_key=1787962622-0-0-5c9441874c5cda9c62984c461dd16d1f"
-      }
-    ]
-  },
-  {
-    "id": "49333",
-    "home_name": "Fortuna Dusseldorf",
-    "home_img": "https://s.fmp.live/live/teams/logos/10727.png",
-    "away_name": "VfB Stuttgart II",
-    "away_img": "https://s.fmp.live/live/teams/logos/12567.png",
-    "league": "German 3.Liga",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ဖော်တူနာ ဒူဆဲလ်ဒေါ့ဖ် VS ဖော် အက်ဖ် ဗေ ရှ် တုတ်(တ်) ဂါ(ရ်) တ် ၂",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368fe.m3u8?auth_key=1787962622-0-0-42d2a4bc83e3afcc22cbb3c040bf7f35"
-      }
-    ]
-  },
-  {
-    "id": "49334",
-    "home_name": "IK Uppsala Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/40345.png",
-    "away_name": "Eskilstuna United Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/21453.png",
-    "league": "Sweden Damallsvenskan",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 5,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "IK Uppsala Women VS Eskilstuna United Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f0d.m3u8?auth_key=1787962622-0-0-c568c87f9f04fc4c818f0e105bdf6fbf"
-      }
-    ]
-  },
-  {
-    "id": "49335",
-    "home_name": "Lunds BK",
-    "home_img": "https://s.fmp.live/live/teams/logos/12669.jpg",
-    "away_name": "BK Olympic",
-    "away_img": "https://s.fmp.live/live/teams/logos/18435.jpg",
-    "league": "Sweden Division 1",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Lunds BK VS BK Olympic",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f1d.m3u8?auth_key=1787962622-0-0-b8b405b90a369abe3b6fba1ba093a930"
-      }
-    ]
-  },
-  {
-    "id": "49336",
-    "home_name": "Al Nassr FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/17838.png",
-    "away_name": "Al Taawoun",
-    "away_img": "https://s.fmp.live/live/teams/logos/24550.png",
-    "league": "Saudi Professional League",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "အယ်လ် နာဆာ VS အယ်လ်-တာဝွန်",
-        "url": "https://alpull.mmchari.xyz/live/live_49336_lud.m3u8?auth_key=1787948912-0-0-78a232dcbe222560311b880f760beda3"
-      }
-    ]
-  },
-  {
-    "id": "49337",
-    "home_name": "ZED FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/59443.png",
-    "away_name": "Al Ahly FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/14525.png",
-    "league": "Egyptian Premier League",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "ဇက်ဒ် အက်ဖ်စီ VS အယ်လ် အာလီ အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7feb717cb66c539a1189c0.m3u8?auth_key=1787962622-0-0-281e3a3e1e332da20d2741939824ac53"
-      }
-    ]
-  },
-  {
-    "id": "49338",
-    "home_name": "Ittihad Alexandria SC",
-    "home_img": "https://s.fmp.live/live/teams/logos/14809.png",
-    "away_name": "Ceramica Cleopatra FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/43353.png",
-    "league": "Egyptian Premier League",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "အစ်တီဟဒ် အလက်ဇန်းဒရီးယား အက်စ်စီ VS စီရာမီကာ ကလီယိုပတ်ထရာ အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7feb717cb66c539a1189c1.m3u8?auth_key=1787962622-0-0-67a01d649fd1cffbe975c70b28658db3"
-      }
-    ]
-  },
-  {
-    "id": "49339",
-    "home_name": "FC Gomel",
-    "home_img": "https://s.fmp.live/live/teams/logos/11952.png",
-    "away_name": "FC Belshina Babruisk",
-    "away_img": "https://s.fmp.live/live/teams/logos/26458.png",
-    "league": "Belarusian Premier League",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ဂိုမဲလ် VS FC Belshina Babruisk",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a0f.m3u8?auth_key=1787962622-0-0-cdf62ec72eba3cfc28bf2e4417d4fb8d"
-      }
-    ]
-  },
-  {
-    "id": "49340",
-    "home_name": "SC Kalsdorf",
-    "home_img": "https://s.fmp.live/live/teams/logos/15815.png",
-    "away_name": "SC Weiz",
-    "away_img": "https://s.fmp.live/live/teams/logos/25694.png",
-    "league": "Austrian 3.Liga",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "SC Kalsdorf VS SC Weiz",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6a8.m3u8?auth_key=1787962622-0-0-820db10005f74b94d2dea266dce4d316"
-      }
-    ]
-  },
-  {
-    "id": "49341",
-    "home_name": "Parndorf",
-    "home_img": "https://s.fmp.live/live/teams/logos/15432.png",
-    "away_name": "SC Mannsdorf",
-    "away_img": "https://s.fmp.live/live/teams/logos/30133.png",
-    "league": "Austrian 3.Liga",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Parndorf VS SC Mannsdorf",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6aa.m3u8?auth_key=1787962622-0-0-4f8630a7a03f9060e1dc127ffda3392e"
-      }
-    ]
-  },
-  {
-    "id": "49342",
-    "home_name": "SC Gleisdorf",
-    "home_img": "https://s.fmp.live/live/teams/logos/15811.png",
-    "away_name": "Lafnitz",
-    "away_img": "https://s.fmp.live/live/teams/logos/25693.png",
-    "league": "Austrian 3.Liga",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "SC Gleisdorf VS Lafnitz",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369df.m3u8?auth_key=1787962622-0-0-7c5e7a3d0fa1e3122973297889aaace4"
-      }
-    ]
-  },
-  {
-    "id": "49343",
-    "home_name": "SV Tillmitsch",
-    "home_img": "https://s.fmp.live/live/teams/logos/66520.png",
-    "away_name": "Deutschlandsberger SC",
-    "away_img": "https://s.fmp.live/live/teams/logos/33260.png",
-    "league": "Austrian 3.Liga",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "SV Tillmitsch VS Deutschlandsberger SC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6a7.m3u8?auth_key=1787962622-0-0-45137410e2e1f5b966b498d395b44361"
-      }
-    ]
-  },
-  {
-    "id": "49344",
-    "home_name": "OTSU Hallein",
-    "home_img": "https://s.fmp.live/live/teams/logos/37020.png",
-    "away_name": "SK Vorwarts Steyr",
-    "away_img": "https://s.fmp.live/live/teams/logos/31725.png",
-    "league": "Austrian 3.Liga",
-    "match_time": "2026-08-28T23:45:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "OTSU Hallein VS SK Vorwarts Steyr",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735720325d218e1412efb2.m3u8?auth_key=1787962622-0-0-6e28a3b879668b946f8e456743181c2e"
-      }
-    ]
-  },
-  {
-    "id": "49345",
-    "home_name": "SV Seekirchen",
-    "home_img": "https://s.fmp.live/live/teams/logos/24649.png",
-    "away_name": "Wallern",
-    "away_img": "https://s.fmp.live/live/teams/logos/31735.png",
-    "league": "Austrian 3.Liga",
-    "match_time": "2026-08-28T23:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "SV Seekirchen VS Wallern",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6a5.m3u8?auth_key=1787962622-0-0-1571e9cc1c604c98a0b7a95a348c7ac5"
-      }
-    ]
-  },
-  {
-    "id": "49346",
-    "home_name": "SC Austria Lustenau",
-    "home_img": "https://s.fmp.live/live/teams/logos/14509.png",
-    "away_name": "WSG Tirol",
-    "away_img": "https://s.fmp.live/live/teams/logos/20147.png",
-    "league": "Austrian Bundesliga",
-    "match_time": "2026-08-29T00:00:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "အက်စ် စီ အောက် စ ထ ရီး ယား လု စ် တေ နောက် VS ဒဗလျူ အက်စ် ဂျီ တိုင်ရိုးလ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6b4.m3u8?auth_key=1787962622-0-0-497073e3fc893fd7195a34daa1450625"
-      }
-    ]
-  },
-  {
-    "id": "49347",
-    "home_name": "Yverdon",
-    "home_img": "https://s.fmp.live/live/teams/logos/11923.png",
-    "away_name": "FC Wil 1900",
-    "away_img": "https://s.fmp.live/live/teams/logos/10673.png",
-    "league": "Switzerland Challenge League",
-    "match_time": "2026-08-29T00:00:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Yverdon VS FC Wil 1900",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6b5.m3u8?auth_key=1787962622-0-0-cf2318ee9bd7a97b487ddce82695321e"
-      }
-    ]
-  },
-  {
-    "id": "49348",
-    "home_name": "Winterthur",
-    "home_img": "https://s.fmp.live/live/teams/logos/11778.png",
-    "away_name": "Stade Ouchy",
-    "away_img": "https://s.fmp.live/live/teams/logos/21179.png",
-    "league": "Switzerland Challenge League",
-    "match_time": "2026-08-29T00:00:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ဗင်တာသူရ် VS Stade Ouchy",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6b6.m3u8?auth_key=1787962622-0-0-ff72643cda78dd02d1f753ffe1d53d07"
-      }
-    ]
-  },
-  {
-    "id": "49349",
-    "home_name": "Kriens",
-    "home_img": "https://s.fmp.live/live/teams/logos/15042.png",
-    "away_name": "Stade Nyonnais",
-    "away_img": "https://s.fmp.live/live/teams/logos/18576.png",
-    "league": "Switzerland Challenge League",
-    "match_time": "2026-08-29T00:00:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Kriens VS Stade Nyonnais",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6b7.m3u8?auth_key=1787962622-0-0-6d5de613e0cd7f1480473313f9a7eef4"
-      }
-    ]
-  },
-  {
-    "id": "49350",
-    "home_name": "Kremser",
-    "home_img": "https://s.fmp.live/live/teams/logos/16541.png",
-    "away_name": "SV Horn",
-    "away_img": "https://s.fmp.live/live/teams/logos/23944.png",
-    "league": "Austrian 3.Liga",
-    "match_time": "2026-08-29T00:00:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Kremser VS SV Horn",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6b8.m3u8?auth_key=1787962622-0-0-d08b082c4afe525c96c2077aa94fcb5a"
-      }
-    ]
-  },
-  {
-    "id": "49351",
-    "home_name": "Víkingur Gøta",
-    "home_img": "https://s.fmp.live/live/teams/logos/21507.png",
-    "away_name": "HB Torshavn",
-    "away_img": "https://s.fmp.live/live/teams/logos/13300.png",
-    "league": "Faroe Islands Premier League",
-    "match_time": "2026-08-29T00:00:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Víkingur Gøta VS HB Torshavn",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22edd6.m3u8?auth_key=1787962622-0-0-1a84d8332e7a791dedfadb74c991bdbf"
-      }
-    ]
-  },
-  {
-    "id": "49352",
-    "home_name": "Damac",
-    "home_img": "https://s.fmp.live/live/teams/logos/22380.png",
-    "away_name": "Al-Orobah FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/21472.png",
-    "league": "Saudi Arabia Division 1",
-    "match_time": "2026-08-29T00:20:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ဒါမတ် VS Al-Orobah FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6bd.m3u8?auth_key=1787962622-0-0-bc663bda0e394ba7b48d727718e91410"
-      }
-    ]
-  },
-  {
-    "id": "49354",
-    "home_name": "Al Nassr FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/17838.png",
-    "away_name": "Al Taawoun",
-    "away_img": "https://s.fmp.live/live/teams/logos/24550.png",
-    "league": "Saudi Professional League",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "အယ်လ် နာဆာ အက်ဖ်စီ VS အယ်လ် တာအာဝွန်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6c4.m3u8?auth_key=1787962562-0-0-7ca3f0696d1d1580a15431bd291fa662"
-      }
-    ]
-  },
-  {
-    "id": "49355",
-    "home_name": "Rodez Aveyron",
-    "home_img": "https://s.fmp.live/live/teams/logos/13036.png",
-    "away_name": "Pau FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/11395.png",
-    "league": "French Ligue 2",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ရိုဒဲ့ဇ် အာဗေရွန် VS ပေါ အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6be.m3u8?auth_key=1787962562-0-0-077b0402a26ee0842bb5f8e5ef87feda"
-      }
-    ]
-  },
-  {
-    "id": "49356",
-    "home_name": "Nancy",
-    "home_img": "https://s.fmp.live/live/teams/logos/10644.png",
-    "away_name": "USL Dunkerque",
-    "away_img": "https://s.fmp.live/live/teams/logos/11657.png",
-    "league": "French Ligue 2",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "နမ် စီ VS ယူအက်စ်အယ်လ် ဒဲန်ကာ့ခ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6bf.m3u8?auth_key=1787962562-0-0-5cde764bd5dd289ac82c6092accd6e0f"
-      }
-    ]
-  },
-  {
-    "id": "49357",
-    "home_name": "Montpellier Hérault SC",
-    "home_img": "https://s.fmp.live/live/teams/logos/10914.png",
-    "away_name": "Boulogne",
-    "away_img": "https://s.fmp.live/live/teams/logos/11896.png",
-    "league": "French Ligue 2",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "မွန်ပယ်လီယေး အေးရိုး အက်စ်စီ VS ဘူ လွန် ညဲ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6c0.m3u8?auth_key=1787962562-0-0-efb70a19fef2b696fb30928a070ea6d0"
-      }
-    ]
-  },
-  {
-    "id": "49358",
-    "home_name": "Stade Lavallois MFC",
-    "home_img": "https://s.fmp.live/live/teams/logos/10100.png",
-    "away_name": "Grenoble",
-    "away_img": "https://s.fmp.live/live/teams/logos/10131.png",
-    "league": "French Ligue 2",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "စ်တတ် လာဗာလွား အမ်အက်ဖ်စီ VS ဂရဲနိုဗလ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6c1.m3u8?auth_key=1787962562-0-0-2c7105eee77ca416d2a8b56a873f7616"
-      }
-    ]
-  },
-  {
-    "id": "49359",
-    "home_name": "Clermont",
-    "home_img": "https://s.fmp.live/live/teams/logos/10645.png",
-    "away_name": "Sochaux",
-    "away_img": "https://s.fmp.live/live/teams/logos/10431.png",
-    "league": "French Ligue 2",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ကလဲရ် မွန် VS ဆိုရှိုး",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6c2.m3u8?auth_key=1787962562-0-0-f31e982a141e2c3f939e21fc066e53eb"
-      }
-    ]
-  },
-  {
-    "id": "49360",
-    "home_name": "Groningen",
-    "home_img": "https://s.fmp.live/live/teams/logos/10454.png",
-    "away_name": "Fortuna Sittard",
-    "away_img": "https://s.fmp.live/live/teams/logos/10082.png",
-    "league": "Netherlands Eredivisie",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Groningen VS ဖော်တူနာ စစ်တပ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6c3.m3u8?auth_key=1787962562-0-0-385d04a5ec0fdb0b41c7833a093ca17c"
-      }
-    ]
-  },
-  {
-    "id": "49361",
-    "home_name": "Al Khaleej Club",
-    "home_img": "https://s.fmp.live/live/teams/logos/16892.png",
-    "away_name": "Al Hilal",
-    "away_img": "https://s.fmp.live/live/teams/logos/13150.png",
-    "league": "Saudi Professional League",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "အယ်လ် ခါလိဂ် VS အယ်လ် ဟီလာလ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6c5.m3u8?auth_key=1787962562-0-0-3852226a8ea8e20c88cee59c68ab3bdc"
-      }
-    ]
-  },
-  {
-    "id": "49362",
-    "home_name": "Debreceni VSC",
-    "home_img": "https://s.fmp.live/live/teams/logos/10358.png",
-    "away_name": "MTK Budapest",
-    "away_img": "https://s.fmp.live/live/teams/logos/11531.png",
-    "league": "Hungary Fizz Liga",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ဒေဗရက်ဆင် VS အမ်တီကေ ဘူဒါပက်စ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a19.m3u8?auth_key=1787962622-0-0-be812a1c9855d91304653000797f2f0a"
-      }
-    ]
-  },
-  {
-    "id": "49363",
-    "home_name": "KSC Lokeren",
-    "home_img": "https://s.fmp.live/live/teams/logos/58650.png",
-    "away_name": "Jong Genk",
-    "away_img": "https://s.fmp.live/live/teams/logos/71635.png",
-    "league": "Belgian Challenger Pro League",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ကေအက်စ်စီ လိုကာရင် VS ဂျန့်ခ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6cd.m3u8?auth_key=1787962622-0-0-337efc1d8affcdc57d7afd10741ab093"
-      }
-    ]
-  },
-  {
-    "id": "49364",
-    "home_name": "Kermt Hasselt",
-    "home_img": "https://s.fmp.live/live/teams/logos/24653.png",
-    "away_name": "Gent B",
-    "away_img": "https://s.fmp.live/live/teams/logos/71646.png",
-    "league": "Belgian Challenger Pro League",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Kermt Hasselt VS Gent B",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6ce.m3u8?auth_key=1787962562-0-0-1ed7edd6052d75c8fa0edb9e3281992d"
-      }
-    ]
-  },
-  {
-    "id": "49365",
-    "home_name": "RKC Waalwijk",
-    "home_img": "https://s.fmp.live/live/teams/logos/10441.png",
-    "away_name": "Jong PSV Eindhoven Youth",
-    "away_img": "https://s.fmp.live/live/teams/logos/10443.png",
-    "league": "Netherlands Eerste Divisie",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "အာ(ရ်) ကေ စီ ဝါ(လ်) ဗိုက် VS ယောင်း ပီ အက်စ် ဗီ အိုင် န့် ဟို ဗန် လူငယ်အသင်း",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6c6.m3u8?auth_key=1787962562-0-0-5ebafdd8322bc428f635f5af3efb4ecc"
-      }
-    ]
-  },
-  {
-    "id": "49366",
-    "home_name": "Roda JC",
-    "home_img": "https://s.fmp.live/live/teams/logos/10329.png",
-    "away_name": "NAC Breda",
-    "away_img": "https://s.fmp.live/live/teams/logos/10085.png",
-    "league": "Netherlands Eerste Divisie",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Roda JC VS အန်အေစီ ဘရေးဒါး",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6c7.m3u8?auth_key=1787962562-0-0-9a6edada6299c873926a11289df9ba9c"
-      }
-    ]
-  },
-  {
-    "id": "49367",
-    "home_name": "CSKA 1948 Sofia",
-    "home_img": "https://s.fmp.live/live/teams/logos/43723.png",
-    "away_name": "Lokomotiv Plovdiv",
-    "away_img": "https://s.fmp.live/live/teams/logos/11774.png",
-    "league": "Bulgarian First League",
-    "match_time": "2026-08-29T00:45:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "စီအက်စ်ကေအေ ၁၉၄၈ ဆိုဖီယာ VS လိုကိုမိုတစ် ဖလော့ဗ်ဒစ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a82a.m3u8?auth_key=1787962562-0-0-c96729505ecd7d6c77677f5f88b2f78e"
-      }
-    ]
-  },
-  {
-    "id": "49368",
-    "home_name": "AZ Alkmaar Youth",
-    "home_img": "https://s.fmp.live/live/teams/logos/22288.png",
-    "away_name": "MVV Maastricht",
-    "away_img": "https://s.fmp.live/live/teams/logos/10433.png",
-    "league": "Netherlands Eerste Divisie",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "အေ ဇက် အာ့(လ်) က် မာ(ရ်) လူငယ်အသင်း VS အမ် ဗီ ဗီ မား စ် ထ ရစ် ခ်ျ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6c9.m3u8?auth_key=1787962562-0-0-a9a1edaef9f09dee0d624f6a66be512b"
-      }
-    ]
-  },
-  {
-    "id": "49369",
-    "home_name": "Ajax Amsterdam U21",
-    "home_img": "https://s.fmp.live/live/teams/logos/10442.png",
-    "away_name": "Helmond Sport",
-    "away_img": "https://s.fmp.live/live/teams/logos/10379.png",
-    "league": "Netherlands Eerste Divisie",
-    "match_time": "2026-08-29T00:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ယောင်း အိုင်း လူငယ်အသင်း VS ဟဲ(လ်) မွန်(ဒ်) စပို့(တ်)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6ca.m3u8?auth_key=1787962562-0-0-22eb3fc4ecbdea7ab977b4dba2f6ee57"
-      }
-    ]
-  },
-  {
-    "id": "49370",
-    "home_name": "FC Bayern Munich",
-    "home_img": "https://s.fmp.live/live/teams/logos/10016.png",
-    "away_name": "VfB Stuttgart",
-    "away_img": "https://s.fmp.live/live/teams/logos/10050.png",
-    "league": "Bundesliga",
-    "match_time": "2026-08-29T01:00:00+08:00",
+    "id": "49413",
+    "home_name": "Gotham FC Women",
+    "home_img": "",
+    "away_name": "Portland Thorns FC Women",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "အက်ဖ်စီ ဘေယန် မြူးနစ် VS ဗီအက်ဖ်ဘီ စတုဂတ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6d2.m3u8?auth_key=1787962562-0-0-5f258884640e5ebbeba3c9aca0f0e627"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
-    "id": "49374",
-    "home_name": "Etoile Carouge",
-    "home_img": "https://s.fmp.live/live/teams/logos/18584.png",
-    "away_name": "FC Rapperswil-Jona",
-    "away_img": "https://s.fmp.live/live/teams/logos/14109.jpg",
-    "league": "Switzerland Challenge League",
-    "match_time": "2026-08-29T00:45:00+08:00",
+    "id": "49414",
+    "home_name": "Tecnico Universitario",
+    "home_img": "",
+    "away_name": "ဒေပေါ်ရ်တီဗို ကူအဲန်ကာ",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Etoile Carouge VS FC Rapperswil-Jona",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6d0.m3u8?auth_key=1787962562-0-0-440caf05ca078c56d932fe1344e5c7a5"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
-    "id": "49375",
-    "home_name": "Aarau",
-    "home_img": "https://s.fmp.live/live/teams/logos/12680.png",
-    "away_name": "Neuchatel Xamax",
-    "away_img": "https://s.fmp.live/live/teams/logos/10607.png",
-    "league": "Switzerland Challenge League",
-    "match_time": "2026-08-29T00:45:00+08:00",
-    "match_status": true,
+    "id": "49417",
+    "home_name": "Colorado Rapids II",
+    "home_img": "",
+    "away_name": "ဗန်တူရာ ကောင်တီ အက်ဖ်စီ",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Aarau VS Neuchatel Xamax",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6d1.m3u8?auth_key=1787962562-0-0-88d8e200b1a3e42bc99de065dc0c212f"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
+  },
+  {
+    "id": "49418",
+    "home_name": "ဘိုကာ ဂျူနီယာစ်",
+    "home_img": "",
+    "away_name": "Club Atlético Lanús",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
+  },
+  {
+    "id": "49419",
+    "home_name": "Necaxa",
+    "home_img": "",
+    "away_name": "Cruz Azul",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
+  },
+  {
+    "id": "49421",
+    "home_name": "Union Magdalena",
+    "home_img": "",
+    "away_name": "Deportes Quindio",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
+  },
+  {
+    "id": "49422",
+    "home_name": "Juticalpa",
+    "home_img": "",
+    "away_name": "Lobos UPNFM",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
+  },
+  {
+    "id": "49423",
+    "home_name": "Saint Louis City B",
+    "home_img": "",
+    "away_name": "North Texas SC",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   }
 ]
