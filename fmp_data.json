@@ -1,230 +1,114 @@
 [
   {
-    "id": "49449",
-    "home_name": "Cooma Tigers",
-    "home_img": "https://s.fmp.live/live/teams/logos/29908.png",
-    "away_name": "Canberra Juventus",
-    "away_img": "https://s.fmp.live/live/teams/logos/74405.png",
-    "league": "Australia National Premier Leagues Capital Football 1",
-    "match_time": "2026-08-29T12:40:00+08:00",
-    "match_status": true,
-    "homeScore": 4,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Cooma Tigers VS ကင်ဘာရာ ဂျူဗင်တပ်စ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8f151806a083c458c3f017.m3u8?auth_key=1788012661-0-0-9f7e861ca4e94d865e226169da289a44"
-      }
-    ]
-  },
-  {
     "id": "49451",
     "home_name": "Broadmeadow Magic",
-    "home_img": "https://s.fmp.live/live/teams/logos/16761.png",
+    "home_img": "",
     "away_name": "Weston Workers FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/15268.png",
-    "league": "Australia Northern New South Wales Premier League",
-    "match_time": "2026-08-29T12:30:00+08:00",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "EXTRA_TIME",
-    "links": [
-      {
-        "name": "Broadmeadow Magic VS Weston Workers FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a90666ce4f896100fc7f44e.m3u8?auth_key=1788012661-0-0-79abb7db85d87b27ce529bedc2179f70"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49452",
     "home_name": "Launceston City (w)",
-    "home_img": "https://s.fmp.live/live/teams/logos/40392.png",
+    "home_img": "",
     "away_name": "South Hobart Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/45349.png",
-    "league": "Australia Tasmania Women's Premier League",
-    "match_time": "2026-08-29T13:15:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 4,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Launceston City (w) VS South Hobart Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a90e4af5d79ffdae276b366.m3u8?auth_key=1788012661-0-0-011b05e40ec610a33f1e762b9b43b8f1"
-      }
-    ]
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49453",
-    "home_name": "UNSW FC Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/81211.png",
+    "home_name": "ယူအန်အက်စ်ဒဗလျူ အက်ဖ်စီ ဝီမင်း",
+    "home_img": "",
     "away_name": "Hills United (W)",
-    "away_img": "https://s.fmp.live/live/teams/logos/92621.png",
-    "league": "Australia New South Wales Women's League",
-    "match_time": "2026-08-29T13:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ယူအန်အက်စ်ဒဗလျူ အက်ဖ်စီ ဝီမင်း VS Hills United (W)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abdc.m3u8?auth_key=1788012661-0-0-2fdac22cca523f43b9cb20ace0105ee1"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49454",
     "home_name": "The Gap NPL (w)",
-    "home_img": "https://s.fmp.live/live/teams/logos/35030.png",
+    "home_img": "",
     "away_name": "Mitchelton Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/17675.png",
-    "league": "Australia Queensland State Women's League",
-    "match_time": "2026-08-29T13:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "The Gap NPL (w) VS Mitchelton Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a90666ce4f896100fc7f450.m3u8?auth_key=1788012661-0-0-8de871186a1341c46b9129ab332fdc7d"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49455",
     "home_name": "Moreton City Excelsior FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/30410.png",
+    "home_img": "",
     "away_name": "Gold Coast Knights",
-    "away_img": "https://s.fmp.live/live/teams/logos/40126.png",
-    "league": "Australia National Premier Leagues Queensland",
-    "match_time": "2026-08-29T13:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Moreton City Excelsior FC VS Gold Coast Knights",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d276.m3u8?auth_key=1788012661-0-0-1a75ca51b19797e623ec5122ed1f0b4b"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49456",
     "home_name": "Seosan Pioneer FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/92617.png",
+    "home_img": "",
     "away_name": "Namyangju Citizen",
-    "away_img": "https://s.fmp.live/live/teams/logos/19172.png",
-    "league": "Korean K League 4",
-    "match_time": "2026-08-29T13:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Seosan Pioneer FC VS Namyangju Citizen",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368b6.m3u8?auth_key=1788012661-0-0-c7cd2fb353c20a2cdaacf1a8b6ca6ba6"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49457",
-    "home_name": "North Lakes United (W)",
-    "home_img": "https://s.fmp.live/live/teams/logos/81506.png",
+    "home_name": "နော့သ် လိပ်ခ်စ် ယူနိုက်တက် - အမျိုးသမီးအသင်း",
+    "home_img": "",
     "away_name": "Caboolture FC (w)",
-    "away_img": "https://s.fmp.live/live/teams/logos/34792.png",
-    "league": "Australia Queensland State Women's League",
-    "match_time": "2026-08-29T14:00:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "နော့သ် လိပ်ခ်စ် ယူနိုက်တက် - အမျိုးသမီးအသင်း VS Caboolture FC (w)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a90e4af5d79ffdae276b369.m3u8?auth_key=1788012661-0-0-bf5f4089aabbed350b234486dfc17f01"
-      }
-    ]
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49458",
     "home_name": "Spain U18",
-    "home_img": "https://s.fmp.live/live/teams/logos/26963.png",
+    "home_img": "",
     "away_name": "Uruguay U17",
-    "away_img": "https://s.fmp.live/live/teams/logos/18439.png",
-    "league": "International Friendly",
-    "match_time": "2026-08-29T14:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Spain U18 VS Uruguay U17",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a910ee9bd56ad3e89a396ad.m3u8?auth_key=1788012661-0-0-1936301a21839f553d740b481015a2de"
-      }
-    ]
-  },
-  {
-    "id": "49459",
-    "home_name": "Eastern Suburbs SC Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/17014.png",
-    "away_name": "Brisbane City Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/55934.png",
-    "league": "Australia Queensland State Women's League",
-    "match_time": "2026-08-29T14:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Eastern Suburbs SC Women VS Brisbane City Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a90666ce4f896100fc7f452.m3u8?auth_key=1788012661-0-0-6917e0fdfe6cbf44a9c4fb1260844ae7"
-      }
-    ]
-  },
-  {
-    "id": "49460",
-    "home_name": "Brisbane Strikers",
-    "home_img": "https://s.fmp.live/live/teams/logos/29244.png",
-    "away_name": "Broadbeach United",
-    "away_img": "https://s.fmp.live/live/teams/logos/33539.png",
-    "league": "Australia Queensland State League 1",
-    "match_time": "2026-08-29T14:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Brisbane Strikers VS Broadbeach United",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8b4a5c2550b2f566ad40a5.m3u8?auth_key=1788012661-0-0-1d50655eb52998046bfe318cfa02d7f7"
-      }
-    ]
-  },
-  {
-    "id": "49461",
-    "home_name": "FK Chomutov",
-    "home_img": "https://s.fmp.live/live/teams/logos/15670.png",
-    "away_name": "Meteor Praha",
-    "away_img": "https://s.fmp.live/live/teams/logos/18190.png",
-    "league": "Czech Fourth Division",
-    "match_time": "2026-08-29T14:45:00+08:00",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "FK Chomutov VS Meteor Praha",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a90f2c9f2fa6c299ee128b1.m3u8?auth_key=1788012661-0-0-59cab1cd6f6a7d1105553e5814ca0747"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   }
 ]
