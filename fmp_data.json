@@ -1,5 +1,24 @@
 [
   {
+    "id": "49429",
+    "home_name": "Queanbeyan City U23",
+    "home_img": "https://s.fmp.live/live/teams/logos/58055.png",
+    "away_name": "Tuggeranong United U23",
+    "away_img": "https://s.fmp.live/live/teams/logos/57263.png",
+    "league": "Australia Capital Territory U23 League",
+    "match_time": "2026-08-29T09:30:00+08:00",
+    "match_status": false,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "EXTRA_TIME",
+    "links": [
+      {
+        "name": "Queanbeyan City U23 VS Tuggeranong United U23",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a911ce9018287f1ce5b2733.m3u8?auth_key=1788002582-0-0-ae4594756c8abaeedef6e85b885f1300"
+      }
+    ]
+  },
+  {
     "id": "49434",
     "home_name": "South Hobart",
     "home_img": "https://s.fmp.live/live/teams/logos/28245.png",
@@ -14,7 +33,7 @@
     "links": [
       {
         "name": "South Hobart VS Kingborough Lions",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8dd14e6b72017e6227a97c.m3u8?auth_key=1788002222-0-0-edb64d66711138503aedf30e2b427813"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8dd14e6b72017e6227a97c.m3u8?auth_key=1788002582-0-0-ed9297c964bd079d0e88b5ab189eef54"
       }
     ]
   },
@@ -33,7 +52,7 @@
     "links": [
       {
         "name": "Kingborough Lions Women VS Glenorchy Knights Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a90666ce4f896100fc7f44b.m3u8?auth_key=1788002222-0-0-5e25e91b7adbbbbfa36d21dfc10f58fc"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a90666ce4f896100fc7f44b.m3u8?auth_key=1788002582-0-0-a99eb1ecf3ad6b8a2735137891d275cd"
       }
     ]
   },
@@ -48,11 +67,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 2,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Launceston United Women VS Devonport Strikers Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a91390be15cf29d837fab7d.m3u8?auth_key=1788002222-0-0-5d02c7e566f1aba44a3d8b0d83f86f46"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a91390be15cf29d837fab7d.m3u8?auth_key=1788002582-0-0-5ada21cf61bc96680a82b603c75acf58"
       }
     ]
   },
@@ -71,7 +90,7 @@
     "links": [
       {
         "name": "Wellington Phoenix Reserve VS Upper Hutt City",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fe.m3u8?auth_key=1788002222-0-0-3fad327713d6e3b9c8271773fd2fce37"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fe.m3u8?auth_key=1788002582-0-0-a847cbaab21d4ade1fccf6c4b78836d4"
       }
     ]
   },
@@ -90,7 +109,7 @@
     "links": [
       {
         "name": "ဂိုးလ်ကို့စ် နိုက်စ် အမျိုးသမီးအသင်း VS Queensland Lions Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8f151806a083c458c3f016.m3u8?auth_key=1788002222-0-0-85f0fc43476b8b73772282b2413eb15e"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8f151806a083c458c3f016.m3u8?auth_key=1788002582-0-0-9fe36349b066822076eaf30bf5273232"
       }
     ]
   },
@@ -109,7 +128,7 @@
     "links": [
       {
         "name": "St Albans Saints VS Dandenong Thunder",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c1.m3u8?auth_key=1788002222-0-0-54231b34661c2c87610e011e7b505041"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c1.m3u8?auth_key=1788002582-0-0-65b161f5f69bd28473db61c680c9b3d5"
       }
     ]
   },
@@ -122,13 +141,13 @@
     "league": "National Premier Leagues Victoria",
     "match_time": "2026-08-29T11:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Oakleigh Cannons VS Dandenong City SC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c3.m3u8?auth_key=1788002222-0-0-9b4dffb3d6662d5a7574aaa7a733575b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c3.m3u8?auth_key=1788002582-0-0-7b564851d29dba1b9bf13a44e0c7c97f"
       }
     ]
   },
@@ -147,7 +166,7 @@
     "links": [
       {
         "name": "Avondale FC VS Hume City",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c7.m3u8?auth_key=1788002222-0-0-127e46e925b4fcb1e7b644faf92eab7b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c7.m3u8?auth_key=1788002582-0-0-d4bc73f535e955dc089cb8ec0c90f76d"
       }
     ]
   },
@@ -166,7 +185,7 @@
     "links": [
       {
         "name": "Melbourne City NPL VS Green Gully Cavaliers",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c4.m3u8?auth_key=1788002222-0-0-85913968d82c99662aecabeb0139b6aa"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c4.m3u8?auth_key=1788002582-0-0-03d871929d3d0c26b9f9e32d77fd95da"
       }
     ]
   },
@@ -185,7 +204,7 @@
     "links": [
       {
         "name": "Caroline Springs George Cross VS South Melbourne",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c6.m3u8?auth_key=1788002222-0-0-c64482d01b0bb053ed26ac6e10f13617"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c6.m3u8?auth_key=1788002582-0-0-91f2d3dd167d49110a4c302d0637eb38"
       }
     ]
   },
@@ -204,7 +223,7 @@
     "links": [
       {
         "name": "Kahibah FC VS New Lambton FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a88c371eeaf4f1e6a3edbab.m3u8?auth_key=1788002222-0-0-d3caf41782b6ff359876108c9ad7c37f"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a88c371eeaf4f1e6a3edbab.m3u8?auth_key=1788002582-0-0-ee889eb48cae80fb8e038401fb1d1250"
       }
     ]
   }
