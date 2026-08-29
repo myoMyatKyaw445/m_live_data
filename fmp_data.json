@@ -2,248 +2,113 @@
   {
     "id": "49429",
     "home_name": "Queanbeyan City U23",
-    "home_img": "https://s.fmp.live/live/teams/logos/58055.png",
+    "home_img": "",
     "away_name": "Tuggeranong United U23",
-    "away_img": "https://s.fmp.live/live/teams/logos/57263.png",
-    "league": "Australia Capital Territory U23 League",
-    "match_time": "2026-08-29T09:30:00+08:00",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
     "match_status": false,
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "EXTRA_TIME",
-    "links": [
-      {
-        "name": "Queanbeyan City U23 VS Tuggeranong United U23",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a911ce9018287f1ce5b2733.m3u8?auth_key=1788002761-0-0-c7786f74f898cec45f0ee31cdfe614eb"
-      }
-    ]
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49434",
     "home_name": "South Hobart",
-    "home_img": "https://s.fmp.live/live/teams/logos/28245.png",
+    "home_img": "",
     "away_name": "Kingborough Lions",
-    "away_img": "https://s.fmp.live/live/teams/logos/33102.png",
-    "league": "Australia Tasmania National Premier League",
-    "match_time": "2026-08-29T10:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "South Hobart VS Kingborough Lions",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8dd14e6b72017e6227a97c.m3u8?auth_key=1788002761-0-0-5b1f9e83ff732d9722f5818680983d78"
-      }
-    ]
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49435",
     "home_name": "Kingborough Lions Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/40467.png",
+    "home_img": "",
     "away_name": "Glenorchy Knights Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/51799.webp",
-    "league": "Australia Tasmania Women's Premier League",
-    "match_time": "2026-08-29T11:00:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 1,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "Kingborough Lions Women VS Glenorchy Knights Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a90666ce4f896100fc7f44b.m3u8?auth_key=1788002761-0-0-8af30c0bde7b0c2000df3ce5d701876f"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49436",
     "home_name": "Launceston United Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/47666.png",
+    "home_img": "",
     "away_name": "Devonport Strikers Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/51800.png",
-    "league": "Australia Tasmania Women's Premier League",
-    "match_time": "2026-08-29T11:00:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 2,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "Launceston United Women VS Devonport Strikers Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a91390be15cf29d837fab7d.m3u8?auth_key=1788002761-0-0-dd1f9c1c44f9b361c54a7842754b9e57"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49437",
     "home_name": "Wellington Phoenix Reserve",
-    "home_img": "https://s.fmp.live/live/teams/logos/14812.png",
+    "home_img": "",
     "away_name": "Upper Hutt City",
-    "away_img": "https://s.fmp.live/live/teams/logos/46445.png",
-    "league": "New Zealand Central Premier League",
-    "match_time": "2026-08-29T11:00:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 1,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "Wellington Phoenix Reserve VS Upper Hutt City",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a06e4018287f1ce1089fe.m3u8?auth_key=1788002761-0-0-514752836eac09af267efdf8db5bd0fc"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49438",
-    "home_name": "Gold Coast Knights Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/75045.png",
+    "home_name": "ဂိုးလ်ကို့စ် နိုက်စ် အမျိုးသမီးအသင်း",
+    "home_img": "",
     "away_name": "Queensland Lions Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/44912.png",
-    "league": "Australia Queensland State Women's League",
-    "match_time": "2026-08-29T11:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ဂိုးလ်ကို့စ် နိုက်စ် အမျိုးသမီးအသင်း VS Queensland Lions Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8f151806a083c458c3f016.m3u8?auth_key=1788002761-0-0-6769bc64e3dc3616643d5043f57ed4eb"
-      }
-    ]
-  },
-  {
-    "id": "49439",
-    "home_name": "St Albans Saints",
-    "home_img": "https://s.fmp.live/live/teams/logos/29360.png",
-    "away_name": "Dandenong Thunder",
-    "away_img": "https://s.fmp.live/live/teams/logos/26302.png",
-    "league": "National Premier Leagues Victoria",
-    "match_time": "2026-08-29T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "St Albans Saints VS Dandenong Thunder",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c1.m3u8?auth_key=1788002761-0-0-52f8c1d41690109e732150ca1d6194d4"
-      }
-    ]
-  },
-  {
-    "id": "49440",
-    "home_name": "Oakleigh Cannons",
-    "home_img": "https://s.fmp.live/live/teams/logos/19167.png",
-    "away_name": "Dandenong City SC",
-    "away_img": "https://s.fmp.live/live/teams/logos/30446.png",
-    "league": "National Premier Leagues Victoria",
-    "match_time": "2026-08-29T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Oakleigh Cannons VS Dandenong City SC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c3.m3u8?auth_key=1788002761-0-0-46c8548a94d6adf65252819d259ae1c3"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49441",
     "home_name": "Avondale FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/28503.png",
+    "home_img": "",
     "away_name": "Hume City",
-    "away_img": "https://s.fmp.live/live/teams/logos/26048.png",
-    "league": "National Premier Leagues Victoria",
-    "match_time": "2026-08-29T11:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Avondale FC VS Hume City",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c7.m3u8?auth_key=1788002761-0-0-4357c95903f72d81011463f36901b736"
-      }
-    ]
-  },
-  {
-    "id": "49442",
-    "home_name": "Melbourne City NPL",
-    "home_img": "https://s.fmp.live/live/teams/logos/60282.png",
-    "away_name": "Green Gully Cavaliers",
-    "away_img": "https://s.fmp.live/live/teams/logos/21445.png",
-    "league": "National Premier Leagues Victoria",
-    "match_time": "2026-08-29T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Melbourne City NPL VS Green Gully Cavaliers",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c4.m3u8?auth_key=1788002761-0-0-736005b9587df093cd43a59fe38107fc"
-      }
-    ]
-  },
-  {
-    "id": "49443",
-    "home_name": "Caroline Springs George Cross",
-    "home_img": "https://s.fmp.live/live/teams/logos/50836.png",
-    "away_name": "South Melbourne",
-    "away_img": "https://s.fmp.live/live/teams/logos/18136.png",
-    "league": "National Premier Leagues Victoria",
-    "match_time": "2026-08-29T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Caroline Springs George Cross VS South Melbourne",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368c6.m3u8?auth_key=1788002761-0-0-b0dfadca4134980dd68c6559a2f108fa"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49444",
     "home_name": "Kahibah FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/45497.png",
+    "home_img": "",
     "away_name": "New Lambton FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/40671.png",
-    "league": "Australia Northern New South Wales Premier League",
-    "match_time": "2026-08-29T10:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Kahibah FC VS New Lambton FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a88c371eeaf4f1e6a3edbab.m3u8?auth_key=1788002761-0-0-65cfdf60dd625873c066019c289196c2"
-      }
-    ]
-  },
-  {
-    "id": "49445",
-    "home_name": "West Adelaide Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/34481.png",
-    "away_name": "West Torrens Birkalla Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/69454.png",
-    "league": "South Australia Women's Premier League",
-    "match_time": "2026-08-29T12:00:00+08:00",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "West Adelaide Women VS West Torrens Birkalla Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a90666ce4f896100fc7f44d.m3u8?auth_key=1788002761-0-0-159705ab8782c4be372558796c3d6a1d"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   }
 ]
