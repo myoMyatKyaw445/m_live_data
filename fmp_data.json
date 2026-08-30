@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Santos Laguna VS တီဂရေးစ် ယူအေအန်အယ်လ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f010.m3u8?auth_key=1788087541-0-0-d9a5c6c96579388cbd4b759994997545"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f010.m3u8?auth_key=1788087721-0-0-1c8fd5f250d34df67f570aa55b87a99a"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Juarez FC Women VS Cruz Azul Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f011.m3u8?auth_key=1788087541-0-0-52e64bd963e3718d09939853009c124c"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f011.m3u8?auth_key=1788087721-0-0-43da822bfeb88d58169bec3df0030284"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Wallsend VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a88d19b06a083c458840dcd.m3u8?auth_key=1788087541-0-0-848f856122b11ab3748bde6381343ae7"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a88d19b06a083c458840dcd.m3u8?auth_key=1788087721-0-0-10ed67f8beee00ac1ad6b28b3f62a893"
       }
     ]
   },
@@ -71,26 +71,7 @@
     "links": [
       {
         "name": "SWQ Thunder VS Pine Hills",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8f22c6e607ff5ae43b1458.m3u8?auth_key=1788087541-0-0-df9c0a7cefe6373411700c09d461fed3"
-      }
-    ]
-  },
-  {
-    "id": "49848",
-    "home_name": "Takamatsu R-Velho",
-    "home_img": "https://s.fmp.live/live/teams/logos/82535.png",
-    "away_name": "Kochi University II",
-    "away_img": "https://s.fmp.live/live/teams/logos/82533.png",
-    "league": "Japanese Regional League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "တာကာမတ်ဆု အာရ်-ဗဲလ်ဟို VS Kochi University II",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a92b4ea06a083c458e12b91.m3u8?auth_key=1788087541-0-0-c6969326ca09d14892e414a5f7c90f6e"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8f22c6e607ff5ae43b1458.m3u8?auth_key=1788087721-0-0-ce19445e6dff56988801c4915636d3a3"
       }
     ]
   },
@@ -109,7 +90,7 @@
     "links": [
       {
         "name": "Illawarra Stingrays Women VS Maca Searle Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd9.m3u8?auth_key=1788087541-0-0-b503af2883acc065dce2354d973ba684"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd9.m3u8?auth_key=1788087721-0-0-c6be8d4da7277bd46f34f3d6520666ce"
       }
     ]
   },
@@ -128,7 +109,7 @@
     "links": [
       {
         "name": "Blacktown City Demons VS ဝက်စ်တန်း ဆစ်ဒနီ ဝေါင်ဒါးစ် အေအမ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f015.m3u8?auth_key=1788087541-0-0-6e1ca4eb0ce618fadc0372cdfc9686cb"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f015.m3u8?auth_key=1788087721-0-0-5cb773ea969d8d358628833128051209"
       }
     ]
   },
@@ -147,45 +128,7 @@
     "links": [
       {
         "name": "APIA Leichhardt Tigers VS St George City FA",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f01f.m3u8?auth_key=1788087541-0-0-8aaa05fb76b7198feb519f2f0816980b"
-      }
-    ]
-  },
-  {
-    "id": "49852",
-    "home_name": "Alamein Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/34245.png",
-    "away_name": "FC Bulleen Lions Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/26381.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Alamein Women VS FC Bulleen Lions Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f020.m3u8?auth_key=1788087541-0-0-07000df3d93b9ccab3a72a1a1894f264"
-      }
-    ]
-  },
-  {
-    "id": "49853",
-    "home_name": "Preston Lions Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/25461.png",
-    "away_name": "Melbourne Victory FC Youth(W)",
-    "away_img": "https://s.fmp.live/live/teams/logos/92433.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Preston Lions Women VS Melbourne Victory FC Youth(W)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f023.m3u8?auth_key=1788087541-0-0-ef8e833b1ad03e8ab74e0b15b5485d44"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f01f.m3u8?auth_key=1788087721-0-0-9632d8d780e87bce1944cad8ec02d5a9"
       }
     ]
   },
@@ -204,7 +147,7 @@
     "links": [
       {
         "name": "စပရင်း ဟေးလ်စ် အက်ဖ်စီ  အမျိုးသမီး VS Avondale FC Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f025.m3u8?auth_key=1788087541-0-0-50b8fa62c180b1582270918fcf7125fb"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f025.m3u8?auth_key=1788087721-0-0-0a3c7ec64503bbeb2b0534b13c460748"
       }
     ]
   },
@@ -223,7 +166,7 @@
     "links": [
       {
         "name": "Melbourne City Youth(W) VS Box Hill Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f026.m3u8?auth_key=1788087541-0-0-254e178d94ce59ad9028cc3430361625"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f026.m3u8?auth_key=1788087721-0-0-d56b3626d21499b7c1a9a8326a608f71"
       }
     ]
   },
@@ -242,7 +185,7 @@
     "links": [
       {
         "name": "SKA Khabarovsk VS Torpedo Moscow",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369f8.m3u8?auth_key=1788087541-0-0-5c4e1fdfa270815d91d456da22e6e03d"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369f8.m3u8?auth_key=1788087721-0-0-00f3a2d0cf23920da24c9874e0689e9c"
       }
     ]
   },
@@ -261,7 +204,7 @@
     "links": [
       {
         "name": "Marconi Stallions VS Spirit FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f013.m3u8?auth_key=1788087541-0-0-390e463b4ad1262937c0eab88fd9900d"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f013.m3u8?auth_key=1788087721-0-0-c2aea453048062389a97b80851390b0b"
       }
     ]
   },
@@ -280,7 +223,7 @@
     "links": [
       {
         "name": "Rockdale City Suns VS University NSW",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f014.m3u8?auth_key=1788087541-0-0-f8c5c695651891a9297b279aacea6f89"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f014.m3u8?auth_key=1788087721-0-0-8d3ba03e74f93dead541ffd050324079"
       }
     ]
   },
@@ -299,7 +242,7 @@
     "links": [
       {
         "name": "Wollongong Wolves VS Manly United",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f016.m3u8?auth_key=1788087541-0-0-52b9a2b0f52a7b59f8e5d4bbdcabea6e"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f016.m3u8?auth_key=1788087721-0-0-2bc621a338641afe21c104b33b0a3502"
       }
     ]
   },
@@ -318,7 +261,7 @@
     "links": [
       {
         "name": "Sydney United 58 FC VS St George Saints",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f027.m3u8?auth_key=1788087541-0-0-6a00b860078a1574db0e27cd0d1dca78"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f027.m3u8?auth_key=1788087721-0-0-6a70d01bacd80bad162a94c16bb97f35"
       }
     ]
   },
@@ -337,7 +280,7 @@
     "links": [
       {
         "name": "Boroondara Eagles Women VS Keilor Park (w)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f021.m3u8?auth_key=1788087541-0-0-c1a142980fcec1a8c7d63d836caa5b41"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f021.m3u8?auth_key=1788087721-0-0-69308d33ceef8e17c067209473139906"
       }
     ]
   },
@@ -356,7 +299,7 @@
     "links": [
       {
         "name": "South Melbourne Women VS Essendon Royals Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f024.m3u8?auth_key=1788087541-0-0-7f2ec623b9b191ebb3d5d29580ef7516"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f024.m3u8?auth_key=1788087721-0-0-1ed423b933ba3c785d26db35b732b78c"
       }
     ]
   },
@@ -375,7 +318,7 @@
     "links": [
       {
         "name": "Sydney Olympic VS Sydney FC Youth",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f017.m3u8?auth_key=1788087541-0-0-b077c9d6bc4222ae8af01db7ba8f00a3"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f017.m3u8?auth_key=1788087721-0-0-8b505cf73382a6edec2c68e67b575d00"
       }
     ]
   }
