@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "စီဟီးရောင်း စီးတီး VS ဖိုချောင်း အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f030.m3u8?auth_key=1788105002-0-0-ba6f88c17d39e96f4c3834e8cbaff6a6"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f030.m3u8?auth_key=1788105181-0-0-eb5222182056a4a63e377348d75946fd"
       }
     ]
   },
@@ -28,12 +28,12 @@
     "match_time": "2026-08-30T14:30:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Geumsan Insam FC VS Jinju Citizen",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00b.m3u8?auth_key=1788105002-0-0-b05fd4fa02caf884381878c44f4e7181"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00b.m3u8?auth_key=1788105181-0-0-68d23aab28da3a22caceb10d9f2c2f9e"
       }
     ]
   },
@@ -52,26 +52,7 @@
     "links": [
       {
         "name": "Dinamo Vladivostok VS Mashuk-KMV",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a37.m3u8?auth_key=1788105002-0-0-9a6b8c3c47fda9e4727bd557bd0471ef"
-      }
-    ]
-  },
-  {
-    "id": "49873",
-    "home_name": "FC Rapid 1923 Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/72883.png",
-    "away_name": "Olimpia Cluj Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/19553.png",
-    "league": "Romanian SuperLiga Feminină",
-    "match_time": "2026-08-30T14:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 5,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "FC Rapid 1923 Women VS Olimpia Cluj Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8c9be193add94b37512382.m3u8?auth_key=1788105002-0-0-48dcf2d6bbb135ffaffb25713b9db6a4"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a37.m3u8?auth_key=1788105181-0-0-79c10e069b11828ac9db2ee8ecec2b24"
       }
     ]
   },
@@ -90,7 +71,7 @@
     "links": [
       {
         "name": "Slavia Praha B VS Opava",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a850.m3u8?auth_key=1788105002-0-0-3a35a7394c4f7c41ba0f25429d3af7ea"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a850.m3u8?auth_key=1788105181-0-0-a069a93bfb69ef0f042633c14fb7ee78"
       }
     ]
   },
@@ -109,7 +90,7 @@
     "links": [
       {
         "name": "အက်စ် ကေ ရှ် တူရ်(မ်) ဂရတ် စ် ၂ VS SK Rapid II",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a694.m3u8?auth_key=1788105002-0-0-5c17f493f1c1625be603d66b484e70d8"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a694.m3u8?auth_key=1788105181-0-0-81b1410625c2b9d110f419438774f124"
       }
     ]
   },
@@ -128,7 +109,7 @@
     "links": [
       {
         "name": "Sunshine Coast Wanderers FC VS Ipswich City",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8b586dfd629e492f33454c.m3u8?auth_key=1788105002-0-0-245064914e2f6c2e434262a4549521cb"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8b586dfd629e492f33454c.m3u8?auth_key=1788105181-0-0-7c15b8441007a2ffff692f1f3ee8f54e"
       }
     ]
   },
@@ -143,11 +124,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Yenisey Krasnoyarsk VS Shinnik Yaroslavl",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369f4.m3u8?auth_key=1788105002-0-0-dad73023e3c3b3e5531bfc0725016137"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369f4.m3u8?auth_key=1788105181-0-0-fad4a7d9ae8a0afaa4824add356a9af9"
       }
     ]
   },
@@ -162,11 +143,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "အေစီ နာဂါနို ပါဆေအီရို VS သပ်စ်ပါ ကူဆတ်စု ဂွန်မား",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f039.m3u8?auth_key=1788105002-0-0-621149ae22ff0ff443a9ce50baecffec"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f039.m3u8?auth_key=1788105181-0-0-caf025f2c77d5d961268c27555ccb4c6"
       }
     ]
   },
@@ -181,11 +162,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "ဂျီရာဗန်ဇ် ကီတာကျူရှူး VS မတ်ဆုမိုတို ယာမာဂါ အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03a.m3u8?auth_key=1788105002-0-0-ef5aa6d54bb54ba94a0e405d472ee3e8"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03a.m3u8?auth_key=1788105181-0-0-1cc38f9a4fad438183e0cbecf93dabdf"
       }
     ]
   },
@@ -204,7 +185,7 @@
     "links": [
       {
         "name": "Canberra Olympic Women VS Tuggeranong Utd Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a9387af5c0020a9978307ab.m3u8?auth_key=1788105002-0-0-bebf9fe347eba75997ed666add7ff65c"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a9387af5c0020a9978307ab.m3u8?auth_key=1788105181-0-0-e39d38b0bfdf164c607410e086c3c252"
       }
     ]
   },
@@ -223,7 +204,7 @@
     "links": [
       {
         "name": "ရန်ကုန်မြို့ VS ရှမ်း ယူနိုက်တက်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a14ef6bf7688dc384aec3.m3u8?auth_key=1788105002-0-0-91ca1a104c8c7ee0de2c872773a90dad"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a14ef6bf7688dc384aec3.m3u8?auth_key=1788105181-0-0-9353e15d4ddf78f43feda40998d81af6"
       }
     ]
   },
@@ -238,11 +219,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Yangon United VS Mahar United",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a14ef6bf7688dc384aec4.m3u8?auth_key=1788105002-0-0-25b23c0cdfeebf09afb9f70a063351b3"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a14ef6bf7688dc384aec4.m3u8?auth_key=1788105181-0-0-22786d6f70e895bc3fe53d94991f5497"
       }
     ]
   },
@@ -257,11 +238,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Atalanta U20 VS AS Roma U20",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6f6.m3u8?auth_key=1788105002-0-0-f96e9448470e614fd8820c8ab8190f49"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6f6.m3u8?auth_key=1788105181-0-0-612700de2b239ffcb541610653b9510a"
       }
     ]
   },
@@ -276,11 +257,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "AS Elfen Saitama VS INAC Kobe Leonessa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03b.m3u8?auth_key=1788105002-0-0-112fabd07eba7fc00bfec4fb5f85657a"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03b.m3u8?auth_key=1788105181-0-0-d298a6232ceef022a0d482004b4647c4"
       }
     ]
   },
@@ -295,11 +276,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Albirex Niigata Ladies VS Mynavi Sendai Ladies",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03d.m3u8?auth_key=1788105002-0-0-2d7a1acb4b62dae973751c3b7aa4f3f4"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03d.m3u8?auth_key=1788105181-0-0-e6190dc0f08d90ffe0f94a0f5593bb2b"
       }
     ]
   },
@@ -312,13 +293,13 @@
     "league": "Italian Campionato Primavera 1",
     "match_time": "2026-08-30T15:30:00+08:00",
     "match_status": true,
-    "homeScore": 1,
-    "awayScore": 2,
+    "homeScore": 2,
+    "awayScore": 3,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Torino U20 VS Lecce U20",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368e5.m3u8?auth_key=1788105002-0-0-a5a60d2782aba959f7bb74fcb23b3181"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368e5.m3u8?auth_key=1788105181-0-0-954facc0e1ee7d5cbd73f5543f6c8059"
       }
     ]
   },
@@ -337,7 +318,7 @@
     "links": [
       {
         "name": "Cagliari U20 VS Bologna U20",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368ed.m3u8?auth_key=1788105002-0-0-974b83e490b8d2c3e8e8b34ae28b24c4"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368ed.m3u8?auth_key=1788105181-0-0-b50198ff77b4a5c7b3311fe4b06c388e"
       }
     ]
   },
@@ -356,7 +337,7 @@
     "links": [
       {
         "name": "JEF United Ichihara Chiba Ladies VS Cerezo Osaka Sakai",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03c.m3u8?auth_key=1788105002-0-0-9337d095e15d1af47bd3ce318f4ac277"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03c.m3u8?auth_key=1788105181-0-0-c579e016542f23019b2f6f4006e34712"
       }
     ]
   },
@@ -375,7 +356,26 @@
     "links": [
       {
         "name": "Reilac Shiga FC VS ဂါအီနာရေ တောတိုရီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03f.m3u8?auth_key=1788105002-0-0-c8f57579553268100667e27f7ac48962"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03f.m3u8?auth_key=1788105181-0-0-715b1f6fd685a2f7ddb72c54b85b1091"
+      }
+    ]
+  },
+  {
+    "id": "49890",
+    "home_name": "Athletic Club Women",
+    "home_img": "https://s.fmp.live/live/teams/logos/20600.png",
+    "away_name": "Badalona Women",
+    "away_img": "https://s.fmp.live/live/teams/logos/29495.png",
+    "league": "Spanish Primera División de la Liga de Fútbol Femenino",
+    "match_time": "2026-08-30T16:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Athletic Club Women VS Badalona Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a749a92fae1431b1dbb0b40-fhd.m3u8?auth_key=1788105181-0-0-c368a8315ef2fabf19b3e61159bdd419"
       }
     ]
   }
