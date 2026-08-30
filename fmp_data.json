@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "လိခ် မက်ကွမ်ရီ (အမျိုးသမီး) VS Broadmeadow Magic Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a92444ffb009bc39f7fca60.m3u8?auth_key=1788098162-0-0-aaeb9003bade938e1d9f50cd068bb53c"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a92444ffb009bc39f7fca60.m3u8?auth_key=1788098342-0-0-37a7a3f180a2b94a12f9a28f80cda85a"
       }
     ]
   },
@@ -26,14 +26,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/30332.png",
     "league": "Australia Northern New South Wales Premier League",
     "match_time": "2026-08-30T12:30:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 2,
     "awayScore": 1,
-    "status": "SECOND_HALF",
+    "status": "FINISHED",
     "links": [
       {
         "name": "Maitland VS Edgeworth Eagles FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a9066a8e4f896100fc7f548.m3u8?auth_key=1788098162-0-0-0fbd6ca314f33f7a104e55e9cb1b0b54"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a9066a8e4f896100fc7f548.m3u8?auth_key=1788098342-0-0-37537f8ed77a7e195981ee2c5c7ee5d2"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "ဒဗ္ဗလျူအက်စ် ဝမ်ဒါရားစ် ဘီ (အမျိုးသမီး) VS Sydney Olympic FC Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd7.m3u8?auth_key=1788098162-0-0-58523e41619a81513ba8cc9556b933dd"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd7.m3u8?auth_key=1788098342-0-0-ae530ea21ef07c6ab58dae24294faa05"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "University of Sydney Women VS Manly Utd Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd8.m3u8?auth_key=1788098162-0-0-597d75ca871f9c1e60143ede24479c86"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd8.m3u8?auth_key=1788098342-0-0-02df2f296996d76c32f92cf51185d79e"
       }
     ]
   },
@@ -84,13 +84,51 @@
     "league": "Australia National Premier Leagues Queensland",
     "match_time": "2026-08-30T14:15:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Queensland Lions SC VS Peninsula Power",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d275.m3u8?auth_key=1788098162-0-0-0f0d685f52565511dbc186a7444f2947"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d275.m3u8?auth_key=1788098342-0-0-04cf99fb2a044fbb0b5def15de48374d"
+      }
+    ]
+  },
+  {
+    "id": "49869",
+    "home_name": "Siheung City",
+    "home_img": "https://s.fmp.live/live/teams/logos/34267.png",
+    "away_name": "Pocheon FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/20061.png",
+    "league": "Korean K League 3 ",
+    "match_time": "2026-08-30T14:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "စီဟီးရောင်း စီးတီး VS ဖိုချောင်း အက်ဖ်စီ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f030.m3u8?auth_key=1788098342-0-0-7d280af9c6af2b67e6dc8afcc722bf7d"
+      }
+    ]
+  },
+  {
+    "id": "49870",
+    "home_name": "Geumsan Insam FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/92615.png",
+    "away_name": "Jinju Citizen",
+    "away_img": "https://s.fmp.live/live/teams/logos/56749.png",
+    "league": "Korean K League 4",
+    "match_time": "2026-08-30T14:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Geumsan Insam FC VS Jinju Citizen",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00b.m3u8?auth_key=1788098342-0-0-ec36ae98e30411e27230f0222af93f59"
       }
     ]
   }
