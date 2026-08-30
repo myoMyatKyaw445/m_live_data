@@ -2,305 +2,113 @@
   {
     "id": "49846",
     "home_name": "Wallsend",
-    "home_img": "https://s.fmp.live/live/teams/logos/46896.png",
-    "away_name": "Newcastle Croatia",
-    "away_img": "https://s.fmp.live/live/teams/logos/82774.png",
-    "league": "Australia Northern New South Wales Premier League",
-    "match_time": "2026-08-30T10:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Wallsend VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a88d19b06a083c458840dcd.m3u8?auth_key=1788089161-0-0-37a3ac15a849fea9b9713fb10583acf8"
-      }
-    ]
+    "home_img": "",
+    "away_name": "နယူးကာဆယ် ခရိုအေးရှား",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49848",
-    "home_name": "Takamatsu R-Velho",
-    "home_img": "https://s.fmp.live/live/teams/logos/82535.png",
+    "home_name": "တာကာမတ်ဆု အာရ်-ဗဲလ်ဟို",
+    "home_img": "",
     "away_name": "Kochi University II",
-    "away_img": "https://s.fmp.live/live/teams/logos/82533.png",
-    "league": "Japanese Regional League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "တာကာမတ်ဆု အာရ်-ဗဲလ်ဟို VS Kochi University II",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a92b4ea06a083c458e12b91.m3u8?auth_key=1788089161-0-0-17d99e7643b029c11949a27a45929f40"
-      }
-    ]
-  },
-  {
-    "id": "49849",
-    "home_name": "Illawarra Stingrays Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/35528.png",
-    "away_name": "Maca Searle Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/22850.png",
-    "league": "Australia New South Wales Women's League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Illawarra Stingrays Women VS Maca Searle Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd9.m3u8?auth_key=1788089161-0-0-d517cfe9e95404245170825a3372631b"
-      }
-    ]
-  },
-  {
-    "id": "49850",
-    "home_name": "Blacktown City Demons",
-    "home_img": "https://s.fmp.live/live/teams/logos/22123.png",
-    "away_name": "Western Sydney Wanderers Youth",
-    "away_img": "https://s.fmp.live/live/teams/logos/28236.png",
-    "league": "Australia New South Wales Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Blacktown City Demons VS ဝက်စ်တန်း ဆစ်ဒနီ ဝေါင်ဒါးစ် အေအမ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f015.m3u8?auth_key=1788089161-0-0-593d4c049402c2caafa17686bb38eab3"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49851",
     "home_name": "APIA Leichhardt Tigers",
-    "home_img": "https://s.fmp.live/live/teams/logos/23361.png",
+    "home_img": "",
     "away_name": "St George City FA",
-    "away_img": "https://s.fmp.live/live/teams/logos/40556.png",
-    "league": "Australia New South Wales Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "APIA Leichhardt Tigers VS St George City FA",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f01f.m3u8?auth_key=1788089161-0-0-b4c43dc47cafc7855ed10a2e2eb64898"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49852",
     "home_name": "Alamein Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/34245.png",
+    "home_img": "",
     "away_name": "FC Bulleen Lions Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/26381.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Alamein Women VS FC Bulleen Lions Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f020.m3u8?auth_key=1788089161-0-0-5d684ac473dace658022ab82afa1cdfc"
-      }
-    ]
-  },
-  {
-    "id": "49853",
-    "home_name": "Preston Lions Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/25461.png",
-    "away_name": "Melbourne Victory FC Youth(W)",
-    "away_img": "https://s.fmp.live/live/teams/logos/92433.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Preston Lions Women VS Melbourne Victory FC Youth(W)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f023.m3u8?auth_key=1788089161-0-0-15a7f13ca70adb407e66f8ec38b89731"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49854",
-    "home_name": "Spring Hills FC Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/74612.png",
+    "home_name": "စပရင်း ဟေးလ်စ် အက်ဖ်စီ  အမျိုးသမီး",
+    "home_img": "",
     "away_name": "Avondale FC Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/60956.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "စပရင်း ဟေးလ်စ် အက်ဖ်စီ  အမျိုးသမီး VS Avondale FC Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f025.m3u8?auth_key=1788089161-0-0-0ee98c5cad878230188efb174d4c49d2"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49855",
     "home_name": "Melbourne City Youth(W)",
-    "home_img": "https://s.fmp.live/live/teams/logos/92432.png",
+    "home_img": "",
     "away_name": "Box Hill Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/14959.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Melbourne City Youth(W) VS Box Hill Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f026.m3u8?auth_key=1788089161-0-0-62501ab6b47d79e2a5b7ffb94a3a181f"
-      }
-    ]
-  },
-  {
-    "id": "49856",
-    "home_name": "SKA Khabarovsk",
-    "home_img": "https://s.fmp.live/live/teams/logos/13071.png",
-    "away_name": "Torpedo Moscow",
-    "away_img": "https://s.fmp.live/live/teams/logos/10429.png",
-    "league": "Russian First League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "SKA Khabarovsk VS Torpedo Moscow",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369f8.m3u8?auth_key=1788089161-0-0-caeace3a4b314e5a7639edd69f62a30e"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49857",
     "home_name": "Marconi Stallions",
-    "home_img": "https://s.fmp.live/live/teams/logos/24135.png",
+    "home_img": "",
     "away_name": "Spirit FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/20582.png",
-    "league": "Australia New South Wales Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Marconi Stallions VS Spirit FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f013.m3u8?auth_key=1788089161-0-0-7416c36b2b5d01b0a0e0c8f3c5d16878"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49858",
     "home_name": "Rockdale City Suns",
-    "home_img": "https://s.fmp.live/live/teams/logos/26626.png",
+    "home_img": "",
     "away_name": "University NSW",
-    "away_img": "https://s.fmp.live/live/teams/logos/60370.png",
-    "league": "Australia New South Wales Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Rockdale City Suns VS University NSW",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f014.m3u8?auth_key=1788089161-0-0-546dc7cb9639869d80544ebe10f0d7ae"
-      }
-    ]
-  },
-  {
-    "id": "49859",
-    "home_name": "Wollongong Wolves",
-    "home_img": "https://s.fmp.live/live/teams/logos/28419.png",
-    "away_name": "Manly United",
-    "away_img": "https://s.fmp.live/live/teams/logos/24134.png",
-    "league": "Australia New South Wales Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Wollongong Wolves VS Manly United",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f016.m3u8?auth_key=1788089161-0-0-26a74d497bb19e0f03c537ed673b9671"
-      }
-    ]
-  },
-  {
-    "id": "49861",
-    "home_name": "Boroondara Eagles Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/26407.png",
-    "away_name": "Keilor Park (w)",
-    "away_img": "https://s.fmp.live/live/teams/logos/26216.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Boroondara Eagles Women VS Keilor Park (w)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f021.m3u8?auth_key=1788089161-0-0-2d6b86ecf6be25560083d0ed84690bf1"
-      }
-    ]
-  },
-  {
-    "id": "49862",
-    "home_name": "South Melbourne Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/21919.png",
-    "away_name": "Essendon Royals Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/69829.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "South Melbourne Women VS Essendon Royals Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f024.m3u8?auth_key=1788089161-0-0-0229f6c22468f25ccec88df2e2891774"
-      }
-    ]
-  },
-  {
-    "id": "49863",
-    "home_name": "Sydney Olympic",
-    "home_img": "https://s.fmp.live/live/teams/logos/24083.png",
-    "away_name": "Sydney FC Youth",
-    "away_img": "https://s.fmp.live/live/teams/logos/21910.png",
-    "league": "Australia New South Wales Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Sydney Olympic VS Sydney FC Youth",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f017.m3u8?auth_key=1788089161-0-0-88a6fdad7d1f9a1fb757decaa6f494f6"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   }
 ]
