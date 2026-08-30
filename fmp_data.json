@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Queensland Lions SC VS Peninsula Power",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d275.m3u8?auth_key=1788103561-0-0-638764d9fb1cc4e0bae363cec3a6ac4b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d275.m3u8?auth_key=1788103741-0-0-ddd296be6bb22aca2448610c41ae02cd"
       }
     ]
   },
@@ -28,12 +28,12 @@
     "match_time": "2026-08-30T14:30:00+08:00",
     "match_status": true,
     "homeScore": 3,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "စီဟီးရောင်း စီးတီး VS ဖိုချောင်း အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f030.m3u8?auth_key=1788103561-0-0-09fc484f6d8b1f1f3470a474baf6a5b7"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f030.m3u8?auth_key=1788103741-0-0-4cb8725ecb61d45c44bd34e3f003140d"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Geumsan Insam FC VS Jinju Citizen",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00b.m3u8?auth_key=1788103561-0-0-3e47bfef29514a7965bec73d90cfa695"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00b.m3u8?auth_key=1788103741-0-0-9f8174e6e8e7abd159a981631c846ab4"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Dinamo Vladivostok VS Mashuk-KMV",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a37.m3u8?auth_key=1788103561-0-0-f8516a5573661f4a99cde6c33edadb8e"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a37.m3u8?auth_key=1788103741-0-0-68ec4b4d5e1c8909a12dbaa5ecc427f7"
       }
     ]
   },
@@ -90,7 +90,26 @@
     "links": [
       {
         "name": "FC Rapid 1923 Women VS Olimpia Cluj Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8c9be193add94b37512382.m3u8?auth_key=1788103561-0-0-dd8f07e3dac8444c3d299e6d5dcbbd1a"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8c9be193add94b37512382.m3u8?auth_key=1788103741-0-0-102c09a2febb226154cf16022db9ba2b"
+      }
+    ]
+  },
+  {
+    "id": "49874",
+    "home_name": "Slavia Praha B",
+    "home_img": "https://s.fmp.live/live/teams/logos/21430.png",
+    "away_name": "Opava",
+    "away_img": "https://s.fmp.live/live/teams/logos/14008.png",
+    "league": "Chance Národní Liga",
+    "match_time": "2026-08-30T14:45:00+08:00",
+    "match_status": true,
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Slavia Praha B VS Opava",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a850.m3u8?auth_key=1788103741-0-0-0cdac3027b5fe8abeca787c011f44a3e"
       }
     ]
   },
@@ -109,7 +128,7 @@
     "links": [
       {
         "name": "အက်စ် ကေ ရှ် တူရ်(မ်) ဂရတ် စ် ၂ VS SK Rapid II",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a694.m3u8?auth_key=1788103561-0-0-0b036d17c4fae10c8b60c1fbcca9dbd4"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a694.m3u8?auth_key=1788103741-0-0-01dcbf80290917c2faea1f13e00e9ec4"
       }
     ]
   },
@@ -128,7 +147,7 @@
     "links": [
       {
         "name": "Sunshine Coast Wanderers FC VS Ipswich City",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8b586dfd629e492f33454c.m3u8?auth_key=1788103561-0-0-f8061b67745b7a76dcbae68f2ca6494c"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8b586dfd629e492f33454c.m3u8?auth_key=1788103741-0-0-54078129d8222711f6353a8aae12daa8"
       }
     ]
   },
@@ -147,7 +166,7 @@
     "links": [
       {
         "name": "Yenisey Krasnoyarsk VS Shinnik Yaroslavl",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369f4.m3u8?auth_key=1788103561-0-0-b08b2bb7ddcf493119225a005a99fb08"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369f4.m3u8?auth_key=1788103741-0-0-6ab5312d44ecf4e72172c814db5f2034"
       }
     ]
   },
@@ -166,7 +185,7 @@
     "links": [
       {
         "name": "အေစီ နာဂါနို ပါဆေအီရို VS သပ်စ်ပါ ကူဆတ်စု ဂွန်မား",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f039.m3u8?auth_key=1788103561-0-0-e001cf8bfc5aa77adf60ed2cc734d2fb"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f039.m3u8?auth_key=1788103741-0-0-e17d1d97bb5185e50f3340bcf9edd680"
       }
     ]
   },
@@ -185,7 +204,7 @@
     "links": [
       {
         "name": "ဂျီရာဗန်ဇ် ကီတာကျူရှူး VS မတ်ဆုမိုတို ယာမာဂါ အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03a.m3u8?auth_key=1788103561-0-0-0b6ccc2322ed60f3293dcd714a01579e"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03a.m3u8?auth_key=1788103741-0-0-3985880e95547dd53564fd2f586bbc92"
       }
     ]
   },
@@ -204,7 +223,7 @@
     "links": [
       {
         "name": "Canberra Olympic Women VS Tuggeranong Utd Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a9387af5c0020a9978307ab.m3u8?auth_key=1788103561-0-0-08d7c0a6ceceb222bc29a03e84290db2"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a9387af5c0020a9978307ab.m3u8?auth_key=1788103741-0-0-c965d0e18514e61a3eb3d4aa63e0ebfc"
       }
     ]
   },
@@ -223,7 +242,7 @@
     "links": [
       {
         "name": "ရန်ကုန်မြို့ VS ရှမ်း ယူနိုက်တက်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a14ef6bf7688dc384aec3.m3u8?auth_key=1788103561-0-0-174fad53324c2fda00320b8a3a9daea6"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a14ef6bf7688dc384aec3.m3u8?auth_key=1788103741-0-0-90615dfa10134088c9fc81f1ae3f122e"
       }
     ]
   },
@@ -242,7 +261,7 @@
     "links": [
       {
         "name": "Yangon United VS Mahar United",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a14ef6bf7688dc384aec4.m3u8?auth_key=1788103561-0-0-c40f2d663276dfbb8acb8e9dbddb4ba5"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8a14ef6bf7688dc384aec4.m3u8?auth_key=1788103741-0-0-b6a79fa40ab105714f013838ef16fe68"
       }
     ]
   },
@@ -261,7 +280,7 @@
     "links": [
       {
         "name": "Atalanta U20 VS AS Roma U20",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6f6.m3u8?auth_key=1788103561-0-0-a7efbf25abdd1cc90b0647edae300ad0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6f6.m3u8?auth_key=1788103741-0-0-2b5a319ef1d265dc9e23b2685fc94958"
       }
     ]
   },
@@ -280,7 +299,7 @@
     "links": [
       {
         "name": "AS Elfen Saitama VS INAC Kobe Leonessa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03b.m3u8?auth_key=1788103561-0-0-cefd10244b1ab27820b991ea615737fa"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03b.m3u8?auth_key=1788103741-0-0-8dfcd83161233d0ea7837d7f69569be8"
       }
     ]
   },
@@ -293,13 +312,32 @@
     "league": "Women Empowerment League",
     "match_time": "2026-08-30T15:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Albirex Niigata Ladies VS Mynavi Sendai Ladies",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03d.m3u8?auth_key=1788103561-0-0-e0f6b8fe5260d0550a0fc730f67cd04b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03d.m3u8?auth_key=1788103741-0-0-d2bb64622872a2ffd6e234ae581142e8"
+      }
+    ]
+  },
+  {
+    "id": "49886",
+    "home_name": "Torino U20",
+    "home_img": "https://s.fmp.live/live/teams/logos/33635.png",
+    "away_name": "Lecce U20",
+    "away_img": "https://s.fmp.live/live/teams/logos/32647.png",
+    "league": "Italian Campionato Primavera 1",
+    "match_time": "2026-08-30T15:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Torino U20 VS Lecce U20",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368e5.m3u8?auth_key=1788103741-0-0-81838f73b26270f7db1fb8c105063d75"
       }
     ]
   },
@@ -318,7 +356,7 @@
     "links": [
       {
         "name": "Cagliari U20 VS Bologna U20",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368ed.m3u8?auth_key=1788103561-0-0-3055a0dd13acce311af746f94ea9a543"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368ed.m3u8?auth_key=1788103741-0-0-e248a4dbd76a5444622f176b7a60d010"
       }
     ]
   },
@@ -337,7 +375,26 @@
     "links": [
       {
         "name": "JEF United Ichihara Chiba Ladies VS Cerezo Osaka Sakai",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03c.m3u8?auth_key=1788103561-0-0-41b66cc588f3aecd341493c6bed7f534"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03c.m3u8?auth_key=1788103741-0-0-2eb0a427b97523f706fc2f6f2fd38dce"
+      }
+    ]
+  },
+  {
+    "id": "49889",
+    "home_name": "Reilac Shiga FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/29179.png",
+    "away_name": "Gainare Tottori",
+    "away_img": "https://s.fmp.live/live/teams/logos/31235.png",
+    "league": "Japanese J3 League",
+    "match_time": "2026-08-30T16:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Reilac Shiga FC VS ဂါအီနာရေ တောတိုရီ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03f.m3u8?auth_key=1788103741-0-0-120daf3a9189d0ed8b8fc9e6ba8a8569"
       }
     ]
   }
