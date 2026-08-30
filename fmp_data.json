@@ -19,44 +19,6 @@
     ]
   },
   {
-    "id": "50002",
-    "home_name": "Tromso IL",
-    "home_img": "https://s.fmp.live/live/teams/logos/11578.png",
-    "away_name": "Sarpsborg 08",
-    "away_img": "https://s.fmp.live/live/teams/logos/10522.png",
-    "league": "Norwegian Eliteserien",
-    "match_time": "2026-08-30T21:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Tromso IL VS ဆာရ်ပစ်ဘောရ် ၀၈",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f44.m3u8?auth_key=1788128941-0-0-aeb3b6e6036879a72993db6403a4bdb5"
-      }
-    ]
-  },
-  {
-    "id": "50003",
-    "home_name": "Samgurali Tskh",
-    "home_img": "https://s.fmp.live/live/teams/logos/30966.png",
-    "away_name": "FC Metalurgi Rustavi",
-    "away_img": "https://s.fmp.live/live/teams/logos/17705.png",
-    "league": "Georgia Erovnuli Liga",
-    "match_time": "2026-08-30T21:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ဆမ်ဂူရာလီ ဆခါလ်တူဘို VS FC Metalurgi Rustavi",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca36930.m3u8?auth_key=1788128941-0-0-752c8e3dbf80601fc71e3be4cb8fd5ac"
-      }
-    ]
-  },
-  {
     "id": "50004",
     "home_name": "SJK Akatemia",
     "home_img": "https://s.fmp.live/live/teams/logos/39545.png",
@@ -71,7 +33,7 @@
     "links": [
       {
         "name": "SJK Akatemia VS Klubi 04 Helsinki",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f50.m3u8?auth_key=1788128941-0-0-259fb02b7af4b57d25fabcbb89c58cd6"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f50.m3u8?auth_key=1788129121-0-0-54ce843fcd95de7f85def233856aa242"
       }
     ]
   },
@@ -90,7 +52,7 @@
     "links": [
       {
         "name": "ကွန်းစ်ဗင်ဂါ VS လင်န် အော်စလို",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f51.m3u8?auth_key=1788128941-0-0-7aa27766c52800fa2ae89c7cab9c867f"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f51.m3u8?auth_key=1788129121-0-0-1acaa02fffc8cae837d15eb59eba1980"
       }
     ]
   },
@@ -104,12 +66,12 @@
     "match_time": "2026-08-30T21:30:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "အေဂါဆွန် အိုင်ကေ VS အောစနေး ဖိုတဘော",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f57.m3u8?auth_key=1788128941-0-0-4b93de8497a12d1a78526a6228a80990"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f57.m3u8?auth_key=1788129121-0-0-63a4a71f8680acb58475fdd1444993e5"
       }
     ]
   },
@@ -128,7 +90,7 @@
     "links": [
       {
         "name": "Sandvikens IF VS အူစတာရှ် အိုင် အက်ဖ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f06.m3u8?auth_key=1788128941-0-0-03d79b9fafdcff5d8dd27d65eef41179"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f06.m3u8?auth_key=1788129121-0-0-8aeaa48b668886021da1867944aaf5b7"
       }
     ]
   },
@@ -147,7 +109,7 @@
     "links": [
       {
         "name": "Sogndal VS Stromsgodset",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f52.m3u8?auth_key=1788128941-0-0-29dab9a830c057a51bc8f6e18de48258"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f52.m3u8?auth_key=1788129062-0-0-a48030ecbab9e267ce3948c17156b900"
       }
     ]
   },
@@ -166,7 +128,7 @@
     "links": [
       {
         "name": "Hearts Women VS Glasgow Rangers Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f65.m3u8?auth_key=1788128941-0-0-b3423d4a3ab9fe71335dd1022758220a"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f65.m3u8?auth_key=1788129121-0-0-199339c7fdd5cf7b2717ec67a530330b"
       }
     ]
   },
@@ -185,7 +147,26 @@
     "links": [
       {
         "name": "ရပ်ပစ် ဗီယင်နာ VS စတွန်း ဂရတ်ဇ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f45.m3u8?auth_key=1788128941-0-0-a1b7ee6754fb01b69a22057c71dc3faa"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f45.m3u8?auth_key=1788129121-0-0-b391b01a8afde6a6da51a7abd68a79b9"
+      }
+    ]
+  },
+  {
+    "id": "50011",
+    "home_name": "Hodd",
+    "home_img": "https://s.fmp.live/live/teams/logos/11722.png",
+    "away_name": "Stabaek",
+    "away_img": "https://s.fmp.live/live/teams/logos/10237.png",
+    "league": "Norwegian 1.Divisjon",
+    "match_time": "2026-08-30T21:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Hodd VS Stabaek",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f56.m3u8?auth_key=1788129121-0-0-b21c9be80ca9309532a00e27256168c3"
       }
     ]
   },
@@ -198,13 +179,13 @@
     "league": "Chance Národní Liga",
     "match_time": "2026-08-30T21:30:00+08:00",
     "match_status": true,
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "SK Kladno VS Viktoria Zizkov",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a851.m3u8?auth_key=1788128941-0-0-a5c4df61d3556a01333935c14200ed08"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a851.m3u8?auth_key=1788129121-0-0-4e009961dbd2992eadf0e786b216b12b"
       }
     ]
   },
@@ -242,7 +223,7 @@
     "links": [
       {
         "name": "Rodina Moskva II VS Sokol Saratov",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a35.m3u8?auth_key=1788128941-0-0-afbc78285deebd35174ebe4dfbcbd01b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a35.m3u8?auth_key=1788129121-0-0-4e94968f3e1c3223786967b8fc345e42"
       }
     ]
   },
@@ -261,7 +242,7 @@
     "links": [
       {
         "name": "FC Sochi VS FK Chelyabinsk",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369f6.m3u8?auth_key=1788128941-0-0-56bde4363436458ba040776e1f6624e0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369f6.m3u8?auth_key=1788129121-0-0-7d4187359302eb2841012c8ca12681c3"
       }
     ]
   },
@@ -280,7 +261,7 @@
     "links": [
       {
         "name": "Moss VS Strommen",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f53.m3u8?auth_key=1788128941-0-0-2c0ffee606e07a8dc3cf58fc605dbdbf"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f53.m3u8?auth_key=1788129121-0-0-8b87617540660c01af281272af7d60e7"
       }
     ]
   },
@@ -294,12 +275,12 @@
     "match_time": "2026-08-30T21:30:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "ရောင်ဖော့စ် အိုင်အယ်လ် VS Sandnes Ulf",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f54.m3u8?auth_key=1788128941-0-0-400ede457676abe13e6f3959753030b3"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f54.m3u8?auth_key=1788129121-0-0-360ff50b4181163b598f2f2190a11a14"
       }
     ]
   },
@@ -318,7 +299,7 @@
     "links": [
       {
         "name": "FK Vrsac VS Borac Cacak",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891e1f.m3u8?auth_key=1788128941-0-0-9ade100da47b55003c84d225fbbc6619"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891e1f.m3u8?auth_key=1788129121-0-0-47d48d55e110c582e80efcc0511ae817"
       }
     ]
   },
@@ -337,7 +318,7 @@
     "links": [
       {
         "name": "တက်ပလီဆဲ VS ယာဘလိုနက်စ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a05.m3u8?auth_key=1788128941-0-0-450d10564233718dd6d01c2c2b17ccab"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a05.m3u8?auth_key=1788129121-0-0-d92e9c2d8239e6b16a1d0d2db1a12f25"
       }
     ]
   },
@@ -356,7 +337,7 @@
     "links": [
       {
         "name": "အက်ဖ်စီ ဗစ်တိုးရီးယား ပလ်ဇန် VS စလိုဗက်ကို",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a07.m3u8?auth_key=1788128941-0-0-a3d7a80c26bc931f4a0c4bc6bad159b0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a07.m3u8?auth_key=1788129121-0-0-7a3c054012b97d2a625c62be33a942a9"
       }
     ]
   },
@@ -375,7 +356,7 @@
     "links": [
       {
         "name": "အက်ဖ်စီ အော့စ်ဘတ် VS Schalke 04",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f69.m3u8?auth_key=1788128941-0-0-45f1a304234a00d025d326f91c8969f4"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f69.m3u8?auth_key=1788129062-0-0-322bf2e3fd2e39fcd887bec184ae6a80"
       }
     ]
   },
@@ -394,7 +375,26 @@
     "links": [
       {
         "name": "နာပရှုဒ် ယန်ဒရှေးယော့ဗ် VS Wisla Krakow II",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8c9be193add94b375123c5.m3u8?auth_key=1788128941-0-0-cb0522f8e14342770fb70304cfeba1f6"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8c9be193add94b375123c5.m3u8?auth_key=1788129121-0-0-3156c09bb051a571f25004cd4c1aec81"
+      }
+    ]
+  },
+  {
+    "id": "50026",
+    "home_name": "Chrobry Glogow",
+    "home_img": "https://s.fmp.live/live/teams/logos/16895.png",
+    "away_name": "Ruch Chorzow",
+    "away_img": "https://s.fmp.live/live/teams/logos/11607.png",
+    "league": "Poland Liga 1",
+    "match_time": "2026-08-30T21:45:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "ခရောဗရီ ဂ်ဝိုဂူ့ဖ် VS ရုခ် ဟိုရ်ဇူ့ဖ်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a84e.m3u8?auth_key=1788129121-0-0-ac0b7a2ae73d926bcf6ee3edb63f7f21"
       }
     ]
   },
@@ -413,7 +413,7 @@
     "links": [
       {
         "name": "မိုရာဗီယား မိုရာဗီးဆာ VS KSZO Ostrowiec",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8c9be193add94b375123c6.m3u8?auth_key=1788128941-0-0-5277c116d009cf64218f2738609bb8ac"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8c9be193add94b375123c6.m3u8?auth_key=1788129121-0-0-1c80f859d9bacb0248fcb79d78e61e03"
       }
     ]
   },
@@ -432,7 +432,7 @@
     "links": [
       {
         "name": "Szentlorinc SE VS FC Ajka",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f6b.m3u8?auth_key=1788128941-0-0-7a49d0dbf8852deb15d2886ee1ab3008"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f6b.m3u8?auth_key=1788129062-0-0-a41b68e522d0d3c6206b2fc4ac7b436c"
       }
     ]
   },
@@ -451,7 +451,7 @@
     "links": [
       {
         "name": "ဂွန်းနိခ် ဇာဘဇဲ VS ဂျီကေအက်စ် ကာတိုဗီဆဲ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891df1.m3u8?auth_key=1788128941-0-0-da5bbcd4a467feb20a47f91ff62be1f2"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891df1.m3u8?auth_key=1788129062-0-0-e8ccd5623c3d735fae1ba264f40be4e0"
       }
     ]
   },
@@ -470,7 +470,7 @@
     "links": [
       {
         "name": "Banga Gargzdai VS Kauno Zalgiris",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f6e.m3u8?auth_key=1788128882-0-0-c2b04da80cd8baafef910154cb225f89"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f6e.m3u8?auth_key=1788129062-0-0-fcff7c1cfb67452603b9e5553c57cc9a"
       }
     ]
   },
@@ -482,14 +482,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/10359.png",
     "league": "Slovenia 1.Liga",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
+    "awayScore": 1,
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "NK Brinje Grosuplje VS အန်ကေ ဆဲလ်ဂျီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891dfb.m3u8?auth_key=1788128882-0-0-c56feafb0eeb720470cb3aab848cea02"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891dfb.m3u8?auth_key=1788129062-0-0-d8cde0245d6bdea9c35445676787d89d"
       }
     ]
   },
@@ -501,14 +501,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/16006.png",
     "league": "Peruvian Liga 1",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ယူ-စီ-ဗွီ မိုကေးဂွာ VS Alianza Atletico Sullana",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891e6c.m3u8?auth_key=1788128882-0-0-c3f091b9f59e9b5bae22ec3487d34803"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891e6c.m3u8?auth_key=1788129062-0-0-943970c6a16b30492a0e2e4725fa0b41"
       }
     ]
   },
@@ -520,14 +520,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/62455.png",
     "league": "Turkish First League",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "အဲရို့ခ်စပေါ်ရ် VS အီးဒါရ် အက်ဖ်ကေ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957a9.m3u8?auth_key=1788128882-0-0-272a43ab403493b4ef893007c4f1c62c"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957a9.m3u8?auth_key=1788129062-0-0-c7533b9af71cb730b4b29cd0048fd704"
       }
     ]
   },
@@ -539,14 +539,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/21923.png",
     "league": "Italian Serie C",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "အတ္တလန်တာ ယူ-၂၃ VS Guidonia",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957ad.m3u8?auth_key=1788128882-0-0-150570f29627a63738152c49d3fdb1a9"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957ad.m3u8?auth_key=1788129062-0-0-0cfa4824d0c88611eda265dc04716c2a"
       }
     ]
   },
@@ -558,14 +558,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/33724.png",
     "league": "Italian Serie C",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "အာချီ ဒိုလိုမီတီ ဘဲလ်လူနဲဇီ VS အဲက်စ် ဒီ အာလ်ချိုနဲ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957ae.m3u8?auth_key=1788128882-0-0-e9efd7268a6175a480107541fc128493"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957ae.m3u8?auth_key=1788129062-0-0-f40ffca211ad6c84bb86f4d55ae29b3e"
       }
     ]
   },
@@ -577,14 +577,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/47900.png",
     "league": "Italian Serie C",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
+    "match_status": true,
+    "homeScore": 2,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "Carpi VS JuventusU23",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957af.m3u8?auth_key=1788128882-0-0-0fe77398f8934bebc548be57b60c4de0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957af.m3u8?auth_key=1788129062-0-0-16add5474252ad13f51a48ebb23f48b3"
       }
     ]
   },
@@ -596,14 +596,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/11504.png",
     "league": "Italian Serie C",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "အာရ်တ္စီညာနို ဗာလ်ခီယမ်ပို VS ပရို ဗဲ့ရ်ချဲလ်လီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957b0.m3u8?auth_key=1788128882-0-0-37851d1695f3c40147eee6f718d4ee65"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957b0.m3u8?auth_key=1788129062-0-0-d1702ca8da38e81462c2cb4620a5f231"
       }
     ]
   },
@@ -615,14 +615,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/34305.png",
     "league": "MLS Next Pro",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
+    "awayScore": 1,
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "Cincinnati II VS Philadelphia Union II",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8ca9dd6c031c11fa188219.m3u8?auth_key=1788128882-0-0-f7fb385af024558a41a4caaa49a661a1"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8ca9dd6c031c11fa188219.m3u8?auth_key=1788129062-0-0-9b5d95c79b449535197e1af9e347eeb3"
       }
     ]
   },
@@ -634,14 +634,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/18238.png",
     "league": "Armenian Premier League",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
+    "match_status": true,
+    "homeScore": 1,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "အက်ဖ်စီ နောအာ VS Ararat Yerevan",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22ede3.m3u8?auth_key=1788128882-0-0-1acba6556af0e75795f69bd3286b6806"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a70b400f0c158089f22ede3.m3u8?auth_key=1788129062-0-0-5dcc6e93d7e154770134d79b33b232e1"
       }
     ]
   },
@@ -653,14 +653,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/11886.png",
     "league": "Lithuanian A Lyga ",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
+    "match_status": true,
+    "homeScore": 1,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "FK Panevezys VS FK Zalgiris Vilnius",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957a1.m3u8?auth_key=1788128882-0-0-c3b9e915756e08f074e5a15cf7cea96d"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957a1.m3u8?auth_key=1788129062-0-0-72dcb6e1410c61c552b89fbd403f48fe"
       }
     ]
   },
@@ -672,14 +672,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/20678.png",
     "league": "Turkish Super League",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
+    "awayScore": 1,
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "အေရူစပေါ VS အလာနယားစပေါ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a749a92fae1431b1dbb0b35.m3u8?auth_key=1788128882-0-0-d597524ab6cfa63f31d0641bb5bc4d8a"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a749a92fae1431b1dbb0b35.m3u8?auth_key=1788129062-0-0-89eb4d35731d62de15ac704ba4c55d24"
       }
     ]
   },
@@ -691,14 +691,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/10065.png",
     "league": "Danish Superliga",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
+    "match_status": true,
+    "homeScore": 2,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "နော်ရှားလန်း VS ဘရွန်ဘီ အိုင်အက်ဖ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e9579c.m3u8?auth_key=1788128882-0-0-51c1df6234703dd3965f77b473cb4462"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e9579c.m3u8?auth_key=1788129062-0-0-55dccbdc94eba46adb391d8b67d79f19"
       }
     ]
   },
@@ -710,14 +710,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/18353.png",
     "league": "Estonian Premium Liiga",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ထရန့်စ် နာဗာ VS တာတူ ဂျေ-ကေ မားဂ် တမ်မေကာ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957ac.m3u8?auth_key=1788128882-0-0-f80e352c76832902c10a9dd06cefe49c"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957ac.m3u8?auth_key=1788129062-0-0-8eb5d7899183fb8795dfc2edd2ededf4"
       }
     ]
   },
@@ -729,14 +729,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/73390.png",
     "league": "Argentine Women's League",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
+    "match_status": true,
+    "homeScore": 1,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "Gimnasia LP Women VS စီအေ တာယဲရက်စ် ဒီ ကော်ဒိုဘာ အမျိုးသမီး",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a9074636c031c11fa38e886.m3u8?auth_key=1788128882-0-0-ebdeb6b10379a668f15c18bdbf25a19b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a9074636c031c11fa38e886.m3u8?auth_key=1788129062-0-0-378192f28887f284f5f60a18d530fc66"
       }
     ]
   },
@@ -755,7 +755,7 @@
     "links": [
       {
         "name": "နာပိုလီ VS ကိုမို",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957c3.m3u8?auth_key=1788128882-0-0-712a8b7dc11c1e5a37dc9b43a505cb68"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957c3.m3u8?auth_key=1788129062-0-0-94136838f42347db7ac1c4d9d72f5328"
       }
     ]
   },
@@ -774,7 +774,7 @@
     "links": [
       {
         "name": "Deportivo Armenio VS Villa San Carlos",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891e7b.m3u8?auth_key=1788128941-0-0-843643988dae85c9cc547d94396b762b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891e7b.m3u8?auth_key=1788129062-0-0-30a982690fc7903f7aac011c8a2ffe32"
       }
     ]
   },
@@ -786,14 +786,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/12352.png",
     "league": "Azerbaijan Premier League",
     "match_time": "2026-08-30T22:45:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဇီရာ အက်ဖ် ကေ VS FC Neftci Baku",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a839.m3u8?auth_key=1788128882-0-0-0752b0e810c4c1fb63379623c13e651b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a839.m3u8?auth_key=1788129062-0-0-4b7e6e50154f09bcf7490551ad360edc"
       }
     ]
   },
@@ -805,14 +805,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/10231.png",
     "league": "Bulgarian First League",
     "match_time": "2026-08-30T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဘိုတက် ဖလော့ဗ်ဒစ် VS လက်ဗ်စကီ ဆိုဖီယာ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a82b.m3u8?auth_key=1788128882-0-0-6d1acb478db4657a1a1bb65335224931"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a82b.m3u8?auth_key=1788129062-0-0-7a3e413a5abe67924e0f275fa50217aa"
       }
     ]
   },
@@ -824,14 +824,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/26567.png",
     "league": "Saudi Professional League",
     "match_time": "2026-08-30T22:35:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "အယ်လ် ဟာဇင်မ် VS အယ်လ် ရှာဘတ် အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957c2.m3u8?auth_key=1788128882-0-0-8f76ae5955b16e249ad2827674f7bbee"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957c2.m3u8?auth_key=1788129062-0-0-82ef07b495087e610a2cabaabe1cc2b4"
       }
     ]
   },
@@ -850,7 +850,7 @@
     "links": [
       {
         "name": "FC Dabas VS Ujpest FC B",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a91b7b8fb009bc39f7c8839.m3u8?auth_key=1788128941-0-0-ab04dff943d6743c08059808c808731f"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a91b7b8fb009bc39f7c8839.m3u8?auth_key=1788129062-0-0-858f14bcf051418005ea99c928f32da7"
       }
     ]
   },
@@ -869,7 +869,7 @@
     "links": [
       {
         "name": "1908 Szac Budapest VS Szombathelyi Haladas",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a91b7b8fb009bc39f7c8835.m3u8?auth_key=1788128941-0-0-9725d0b6fe4030dca535970cd13244d8"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a91b7b8fb009bc39f7c8835.m3u8?auth_key=1788129062-0-0-1ac044292a2cc744dc5221927b66f9f0"
       }
     ]
   },
@@ -884,11 +884,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 1,
-    "status": "HALF_TIME",
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "DEAC VS Godollo",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a91b7b8fb009bc39f7c8837.m3u8?auth_key=1788128941-0-0-18c7ab33e1c921d76c4de3808a3287a2"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a91b7b8fb009bc39f7c8837.m3u8?auth_key=1788129062-0-0-1935be656951ef724e7ada17174f078b"
       }
     ]
   },
@@ -907,7 +907,7 @@
     "links": [
       {
         "name": "Pecsi MFC VS Ivancsa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a91b7b8fb009bc39f7c8832.m3u8?auth_key=1788128941-0-0-6be204bc6fe6636baeed8279af1f38e0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a91b7b8fb009bc39f7c8832.m3u8?auth_key=1788129062-0-0-9c0bbcbcf890e298a78b763c0155633d"
       }
     ]
   },
@@ -926,7 +926,7 @@
     "links": [
       {
         "name": "ယူနီယွန် ဆန့် ဂီလ်လွားဇ် VS အန်ဒါလဲ့ချ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957c4.m3u8?auth_key=1788128882-0-0-a828b8db4f010e39d53fff6b6323bdbe"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957c4.m3u8?auth_key=1788129062-0-0-97789a535c0bb441049bfe1c2ae329ef"
       }
     ]
   },
@@ -945,7 +945,7 @@
     "links": [
       {
         "name": "အယ်လ်-ဝါဒါ အက်ဖ်စီ VS ဘာနီယက်စ် ကလပ်ဖ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957c7.m3u8?auth_key=1788128882-0-0-40af0f7599649296d894f638cce75975"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a74a89c5a748fd8f3e957c7.m3u8?auth_key=1788129062-0-0-1c9fe112b14219ba76caea4062df4eb0"
       }
     ]
   }
