@@ -1,58 +1,78 @@
 [
   {
     "id": "49864",
-    "home_name": "လိခ် မက်ကွမ်ရီ (အမျိုးသမီး)",
-    "home_img": "",
+    "home_name": "Lake Macquarie (W)",
+    "home_img": "https://s.fmp.live/live/teams/logos/87477.png",
     "away_name": "Broadmeadow Magic Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "away_img": "https://s.fmp.live/live/teams/logos/60659.png",
+    "league": "Australia New South Wales Women's Premier League",
+    "match_time": "2026-08-30T12:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "လိခ် မက်ကွမ်ရီ (အမျိုးသမီး) VS Broadmeadow Magic Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a92444ffb009bc39f7fca60.m3u8?auth_key=1788096362-0-0-5973b50dbf4d58dd596688f5571bd8fc"
+      }
+    ]
   },
   {
     "id": "49865",
     "home_name": "Maitland",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/33625.png",
     "away_name": "Edgeworth Eagles FC",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "away_img": "https://s.fmp.live/live/teams/logos/30332.png",
+    "league": "Australia Northern New South Wales Premier League",
+    "match_time": "2026-08-30T12:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Maitland VS Edgeworth Eagles FC",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a9066a8e4f896100fc7f548.m3u8?auth_key=1788096362-0-0-245a67d26aaa00d52b0b7dd06ea39ba0"
+      }
+    ]
   },
   {
     "id": "49866",
-    "home_name": "ဒဗ္ဗလျူအက်စ် ဝမ်ဒါရားစ် ဘီ (အမျိုးသမီး)",
-    "home_img": "",
+    "home_name": "WS Wanderers B (W)",
+    "home_img": "https://s.fmp.live/live/teams/logos/87505.png",
     "away_name": "Sydney Olympic FC Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/50604.png",
+    "league": "Australia New South Wales Women's League",
+    "match_time": "2026-08-30T13:40:00+08:00",
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "awayScore": 2,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "ဒဗ္ဗလျူအက်စ် ဝမ်ဒါရားစ် ဘီ (အမျိုးသမီး) VS Sydney Olympic FC Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd7.m3u8?auth_key=1788096362-0-0-a24b2b9be1eb9613e943e532ca18193e"
+      }
+    ]
   },
   {
     "id": "49867",
     "home_name": "University of Sydney Women",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/15714.png",
     "away_name": "Manly Utd Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/35804.png",
+    "league": "Australia New South Wales Women's League",
+    "match_time": "2026-08-30T13:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "University of Sydney Women VS Manly Utd Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd8.m3u8?auth_key=1788096362-0-0-1547daf371d00f157f76087b46ff9b63"
+      }
+    ]
   }
 ]
