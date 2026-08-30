@@ -2,343 +2,113 @@
   {
     "id": "49868",
     "home_name": "Queensland Lions SC",
-    "home_img": "https://s.fmp.live/live/teams/logos/13160.png",
+    "home_img": "",
     "away_name": "Peninsula Power",
-    "away_img": "https://s.fmp.live/live/teams/logos/29146.png",
-    "league": "Australia National Premier Leagues Queensland",
-    "match_time": "2026-08-30T14:15:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Queensland Lions SC VS Peninsula Power",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d275.m3u8?auth_key=1788102842-0-0-6cd8464dd58b1e4d534614775bd3e2d3"
-      }
-    ]
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49869",
-    "home_name": "Siheung City",
-    "home_img": "https://s.fmp.live/live/teams/logos/34267.png",
-    "away_name": "Pocheon FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/20061.png",
-    "league": "Korean K League 3 ",
-    "match_time": "2026-08-30T14:30:00+08:00",
-    "match_status": true,
-    "homeScore": 3,
+    "home_name": "စီဟီးရောင်း စီးတီး",
+    "home_img": "",
+    "away_name": "ဖိုချောင်း အက်ဖ်စီ",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "စီဟီးရောင်း စီးတီး VS ဖိုချောင်း အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f030.m3u8?auth_key=1788102842-0-0-adad6ccc2952e5162890423b129307e9"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49870",
     "home_name": "Geumsan Insam FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/92615.png",
+    "home_img": "",
     "away_name": "Jinju Citizen",
-    "away_img": "https://s.fmp.live/live/teams/logos/56749.png",
-    "league": "Korean K League 4",
-    "match_time": "2026-08-30T14:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Geumsan Insam FC VS Jinju Citizen",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00b.m3u8?auth_key=1788102842-0-0-f032956d91b5dc8e1e332f6b535e86a7"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49871",
     "home_name": "Dinamo Vladivostok",
-    "home_img": "https://s.fmp.live/live/teams/logos/61688.png",
+    "home_img": "",
     "away_name": "Mashuk-KMV",
-    "away_img": "https://s.fmp.live/live/teams/logos/17686.png",
-    "league": "RUS D3A",
-    "match_time": "2026-08-30T14:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Dinamo Vladivostok VS Mashuk-KMV",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a37.m3u8?auth_key=1788102842-0-0-5b4f7250af9afbf01d21dda8296f1394"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49873",
     "home_name": "FC Rapid 1923 Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/72883.png",
+    "home_img": "",
     "away_name": "Olimpia Cluj Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/19553.png",
-    "league": "Romanian SuperLiga Feminină",
-    "match_time": "2026-08-30T14:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "FC Rapid 1923 Women VS Olimpia Cluj Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8c9be193add94b37512382.m3u8?auth_key=1788102842-0-0-397da300ab0e942967a61250b3b345f4"
-      }
-    ]
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49874",
     "home_name": "Slavia Praha B",
-    "home_img": "https://s.fmp.live/live/teams/logos/21430.png",
+    "home_img": "",
     "away_name": "Opava",
-    "away_img": "https://s.fmp.live/live/teams/logos/14008.png",
-    "league": "Chance Národní Liga",
-    "match_time": "2026-08-30T14:45:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "Slavia Praha B VS Opava",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a850.m3u8?auth_key=1788102842-0-0-26ed856bfa1e775fbeba1932a7527c54"
-      }
-    ]
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49875",
-    "home_name": "SK Sturm Graz II",
-    "home_img": "https://s.fmp.live/live/teams/logos/15571.png",
+    "home_name": "အက်စ် ကေ ရှ် တူရ်(မ်) ဂရတ် စ် ၂",
+    "home_img": "",
     "away_name": "SK Rapid II",
-    "away_img": "https://s.fmp.live/live/teams/logos/11925.png",
-    "league": "Austrian 2.Liga",
-    "match_time": "2026-08-30T15:00:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "အက်စ် ကေ ရှ် တူရ်(မ်) ဂရတ် စ် ၂ VS SK Rapid II",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a694.m3u8?auth_key=1788102842-0-0-164e732cd2261af905d8b5a21a62d4d4"
-      }
-    ]
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49876",
     "home_name": "Sunshine Coast Wanderers FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/44990.png",
+    "home_img": "",
     "away_name": "Ipswich City",
-    "away_img": "https://s.fmp.live/live/teams/logos/39830.png",
-    "league": "Australia Queensland State League 1",
-    "match_time": "2026-08-30T15:00:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Sunshine Coast Wanderers FC VS Ipswich City",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8b586dfd629e492f33454c.m3u8?auth_key=1788102842-0-0-8bddbb3febd6baaec3c2a7346ac44158"
-      }
-    ]
-  },
-  {
-    "id": "49877",
-    "home_name": "Yenisey Krasnoyarsk",
-    "home_img": "https://s.fmp.live/live/teams/logos/24817.png",
-    "away_name": "Shinnik Yaroslavl",
-    "away_img": "https://s.fmp.live/live/teams/logos/10608.png",
-    "league": "Russian First League",
-    "match_time": "2026-08-30T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Yenisey Krasnoyarsk VS Shinnik Yaroslavl",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca369f4.m3u8?auth_key=1788102842-0-0-6a2f64a662bf99d33dde84e2a51abb24"
-      }
-    ]
-  },
-  {
-    "id": "49878",
-    "home_name": "AC Nagano Parceiro",
-    "home_img": "https://s.fmp.live/live/teams/logos/32417.png",
-    "away_name": "Thespa Kusatsu Gunma",
-    "away_img": "https://s.fmp.live/live/teams/logos/12529.png",
-    "league": "Japanese J3 League",
-    "match_time": "2026-08-30T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "အေစီ နာဂါနို ပါဆေအီရို VS သပ်စ်ပါ ကူဆတ်စု ဂွန်မား",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f039.m3u8?auth_key=1788102842-0-0-d334e3f16e13f9af0b8284cdba796cbe"
-      }
-    ]
-  },
-  {
-    "id": "49879",
-    "home_name": "Giravanz Kitakyushu",
-    "home_img": "https://s.fmp.live/live/teams/logos/20674.png",
-    "away_name": "Matsumoto Yamaga FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/10594.png",
-    "league": "Japanese J3 League",
-    "match_time": "2026-08-30T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ဂျီရာဗန်ဇ် ကီတာကျူရှူး VS မတ်ဆုမိုတို ယာမာဂါ အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03a.m3u8?auth_key=1788102842-0-0-95a647413a647bdbdd3016b861a7f015"
-      }
-    ]
-  },
-  {
-    "id": "49881",
-    "home_name": "Yangon City",
-    "home_img": "https://s.fmp.live/live/teams/logos/89422.png",
-    "away_name": "Shan United",
-    "away_img": "https://s.fmp.live/live/teams/logos/34100.png",
-    "league": "Myanmar Professional League",
-    "match_time": "2026-08-30T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ရန်ကုန်မြို့ VS ရှမ်း ယူနိုက်တက်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a14ef6bf7688dc384aec3.m3u8?auth_key=1788102842-0-0-c760c570e819f41c6c585eea63123589"
-      }
-    ]
-  },
-  {
-    "id": "49882",
-    "home_name": "Yangon United",
-    "home_img": "https://s.fmp.live/live/teams/logos/25819.png",
-    "away_name": "Mahar United",
-    "away_img": "https://s.fmp.live/live/teams/logos/44700.png",
-    "league": "Myanmar Professional League",
-    "match_time": "2026-08-30T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Yangon United VS Mahar United",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a8a14ef6bf7688dc384aec4.m3u8?auth_key=1788102842-0-0-3a9dab027615c0c4ca9de3e3cdc7eab7"
-      }
-    ]
-  },
-  {
-    "id": "49883",
-    "home_name": "Atalanta U20",
-    "home_img": "https://s.fmp.live/live/teams/logos/32156.png",
-    "away_name": "AS Roma U20",
-    "away_img": "https://s.fmp.live/live/teams/logos/28203.png",
-    "league": "Italian Campionato Primavera 1",
-    "match_time": "2026-08-30T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Atalanta U20 VS AS Roma U20",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a6f6.m3u8?auth_key=1788102842-0-0-d5df3943edfcd639a6e87aacbc9aab13"
-      }
-    ]
-  },
-  {
-    "id": "49884",
-    "home_name": "AS Elfen Saitama",
-    "home_img": "https://s.fmp.live/live/teams/logos/17266.png",
-    "away_name": "INAC Kobe Leonessa",
-    "away_img": "https://s.fmp.live/live/teams/logos/22019.png",
-    "league": "Women Empowerment League",
-    "match_time": "2026-08-30T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "AS Elfen Saitama VS INAC Kobe Leonessa",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03b.m3u8?auth_key=1788102842-0-0-882b7ab9be6152a33016c6d8c5c40d8c"
-      }
-    ]
-  },
-  {
-    "id": "49885",
-    "home_name": "Albirex Niigata Ladies",
-    "home_img": "https://s.fmp.live/live/teams/logos/15034.png",
-    "away_name": "Mynavi Sendai Ladies",
-    "away_img": "https://s.fmp.live/live/teams/logos/26506.png",
-    "league": "Women Empowerment League",
-    "match_time": "2026-08-30T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Albirex Niigata Ladies VS Mynavi Sendai Ladies",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03d.m3u8?auth_key=1788102842-0-0-1db9066ea00f409be79285fecc282126"
-      }
-    ]
-  },
-  {
-    "id": "49886",
-    "home_name": "Torino U20",
-    "home_img": "https://s.fmp.live/live/teams/logos/33635.png",
-    "away_name": "Lecce U20",
-    "away_img": "https://s.fmp.live/live/teams/logos/32647.png",
-    "league": "Italian Campionato Primavera 1",
-    "match_time": "2026-08-30T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Torino U20 VS Lecce U20",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368e5.m3u8?auth_key=1788102842-0-0-e2f9d4f753f62718ade239de7847c0a3"
-      }
-    ]
-  },
-  {
-    "id": "49887",
-    "home_name": "Cagliari U20",
-    "home_img": "https://s.fmp.live/live/teams/logos/31005.png",
-    "away_name": "Bologna U20",
-    "away_img": "https://s.fmp.live/live/teams/logos/26726.png",
-    "league": "Italian Campionato Primavera 1",
-    "match_time": "2026-08-30T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Cagliari U20 VS Bologna U20",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368ed.m3u8?auth_key=1788102842-0-0-5284f2fd7bd49c05cb0022d6465c7c78"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   }
 ]
