@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Torino U20 VS Lecce U20",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368e5.m3u8?auth_key=1788110222-0-0-e4b118a71bda946ab420d93799572a1b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c23679a78b6ca368e5.m3u8?auth_key=1788110401-0-0-0a9e47b7fb233bd58901e5b2d258cc38"
       }
     ]
   },
@@ -33,7 +33,26 @@
     "links": [
       {
         "name": "Reilac Shiga FC VS ဂါအီနာရေ တောတိုရီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03f.m3u8?auth_key=1788110222-0-0-d174715f3b9760fe3288afe9f30814d1"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f03f.m3u8?auth_key=1788110401-0-0-e9b47dfabbad8da6550512ef1caf9735"
+      }
+    ]
+  },
+  {
+    "id": "49890",
+    "home_name": "Athletic Club Women",
+    "home_img": "https://s.fmp.live/live/teams/logos/20600.png",
+    "away_name": "Badalona Women",
+    "away_img": "https://s.fmp.live/live/teams/logos/29495.png",
+    "league": "Spanish Primera División de la Liga de Fútbol Femenino",
+    "match_time": "2026-08-30T16:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Athletic Club Women VS Badalona Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a749a92fae1431b1dbb0b40-fhd.m3u8?auth_key=1788110401-0-0-c8841805a61d192000c770e4b22e89ce"
       }
     ]
   },
@@ -52,7 +71,7 @@
     "links": [
       {
         "name": "ပရိုဘီ ဟိုရိုဒန်ကာ VS FC Victoria Mykolaivka",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891e14.m3u8?auth_key=1788110222-0-0-30a95a60ee299ef2cffe2b602e5dff9b"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735720c167105e98891e14.m3u8?auth_key=1788110401-0-0-f21ee41130ddf5ea4d4f66dc47c00a9a"
       }
     ]
   },
@@ -71,7 +90,7 @@
     "links": [
       {
         "name": "Chornomorets Odesa VS  ခရစ်ဗ်ဘတ်စ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a03.m3u8?auth_key=1788110222-0-0-fee98a685bbb22646d6c4a902b3ac9b6"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a03.m3u8?auth_key=1788110401-0-0-8f90462ae4f70ebf0b41bc4c8b964ba6"
       }
     ]
   },
@@ -90,7 +109,7 @@
     "links": [
       {
         "name": "အူလ်ဆန် စစ်တီဇင်စ် VS ပူဆန် ထရန်စ်ပေါ်တေးရှင်း ကော်ပိုရေးရှင်း",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eaf.m3u8?auth_key=1788110222-0-0-bba7d77a9d45cccf5a86941eb95b388a"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eaf.m3u8?auth_key=1788110401-0-0-d7b1276f97301d53d978918bb5e9df34"
       }
     ]
   },
@@ -109,7 +128,7 @@
     "links": [
       {
         "name": "မု(ခ်)ပို စီးတီး VS Yeoju Citizen",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb0.m3u8?auth_key=1788110222-0-0-e1d374cba0d0cf8c5b28aea34b1b08a6"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb0.m3u8?auth_key=1788110401-0-0-4a1ab6c9b2b8445f87e62275051e4c4a"
       }
     ]
   },
@@ -128,7 +147,7 @@
     "links": [
       {
         "name": "စီဂျုံး အက်စ်အေ VS Jungnang Chorus Mustang FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f012.m3u8?auth_key=1788110222-0-0-0894e50883df7e7941f2a123ca957ded"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f012.m3u8?auth_key=1788110401-0-0-6786a0c9d44e18ae852b4e7e67b9f9fd"
       }
     ]
   },
@@ -147,7 +166,7 @@
     "links": [
       {
         "name": "Sibir Novosibirsk VS Dynamo Kirov",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a34.m3u8?auth_key=1788110222-0-0-fdbe9872c7114d4503825633509a0122"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a34.m3u8?auth_key=1788110401-0-0-c42638cb0914406888e2735e72695578"
       }
     ]
   },
@@ -166,7 +185,7 @@
     "links": [
       {
         "name": "ဇဗိုင်းဂန် ကာနာဇာဝါ အက်ဖ်စီ VS အေးဟီးမဲ အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f049.m3u8?auth_key=1788110222-0-0-afeed70bbf06866e66fd886599f7d779"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f049.m3u8?auth_key=1788110401-0-0-339ab123632a76b50f07fd9172aa89ed"
       }
     ]
   },
@@ -185,7 +204,7 @@
     "links": [
       {
         "name": "ရေးနိုဖာ ယာမာဂူချီ VS အက်ဖ်စီ အိုဆာကာ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f04a.m3u8?auth_key=1788110222-0-0-9cdf8b7ddd42fd2abc06bbb09d899c42"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f04a.m3u8?auth_key=1788110401-0-0-d39ce910103afaad712079f951e1fede"
       }
     ]
   },
@@ -204,7 +223,7 @@
     "links": [
       {
         "name": "ကိုချီ ယူနိုက်တက် VS ရိုးအာဆို ခူမာမိုတို",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f04b.m3u8?auth_key=1788110222-0-0-b86611bab64787a602a1642e7fc61e7f"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f04b.m3u8?auth_key=1788110401-0-0-f360c3439eca7e8b1f33baeee1f01db1"
       }
     ]
   },
@@ -223,7 +242,7 @@
     "links": [
       {
         "name": "Machico VS Camacha",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a772f8ceaed40cd99b20679.m3u8?auth_key=1788110222-0-0-eeef6869b2f1f8ed98d508f9e93018c6"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a772f8ceaed40cd99b20679.m3u8?auth_key=1788110401-0-0-c804137552b62eca064dec5463e448ae"
       }
     ]
   },
@@ -242,7 +261,7 @@
     "links": [
       {
         "name": "အမာရန်တီ VS အက်စ်အဲလ် ဘန်ဖီကာ ဘီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f4d.m3u8?auth_key=1788110222-0-0-1889aa147e3affe55e2e357a2d6009c7"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891f4d.m3u8?auth_key=1788110401-0-0-4db43362aff2dafa7a2ee33d08ed7883"
       }
     ]
   },
@@ -261,7 +280,7 @@
     "links": [
       {
         "name": "အက်ဖ်စီ အူထရက် VS ပီအက်စ်ဗီ အိုင်ဟိုဗန်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb1.m3u8?auth_key=1788110222-0-0-8a2fa8aa8fe10e60df92512b8baad7fb"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb1.m3u8?auth_key=1788110401-0-0-a403080d32f413575af75068d551735f"
       }
     ]
   },
@@ -280,7 +299,7 @@
     "links": [
       {
         "name": "အက်ဖ် စီ အိုင် န့် ဟို ဗန် VS ဟီရက်ကလပ်စ် အလ်မေလို",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb2.m3u8?auth_key=1788110222-0-0-2838b303e1ea8cf29cecf16efd875b4f"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb2.m3u8?auth_key=1788110401-0-0-d04282fdb8a16b0a2c35085b63fdc5f5"
       }
     ]
   },
@@ -299,7 +318,7 @@
     "links": [
       {
         "name": "ဆူဝမ် ဘောလုံးအသင်း VS Busan I Park",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb7.m3u8?auth_key=1788110222-0-0-82ebff7989c6046d090bff90ce624938"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb7.m3u8?auth_key=1788110401-0-0-84e2f3ee65db107d2b7431100d64e187"
       }
     ]
   },
@@ -318,7 +337,7 @@
     "links": [
       {
         "name": "ဂင်ဟဲ စီးတီး VS ယောင်အင်း အက်ဖ်စီ",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb8.m3u8?auth_key=1788110222-0-0-4bde22d3d21e28ebd7ca750a32b56390"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb8.m3u8?auth_key=1788110401-0-0-dcfe5596ac9265c9990d7ab468e19b97"
       }
     ]
   },
@@ -333,11 +352,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "ဂန်ဝမ် ဘောလုံးအသင်း VS ဖိုဟန် စတီးလားစ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb4.m3u8?auth_key=1788110222-0-0-3ca8b64cebdd5f09b9acde6482087368"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb4.m3u8?auth_key=1788110401-0-0-ecf2167d89813e170a34abb418ac48b0"
       }
     ]
   },
@@ -356,7 +375,7 @@
     "links": [
       {
         "name": "ဂွမ်ဂျူ ဘောလုံးအသင်း VS ဆိုးလ် ဘောလုံးအသင်း",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb5.m3u8?auth_key=1788110222-0-0-ab88354407117709df13d6c18ef9d216"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb5.m3u8?auth_key=1788110401-0-0-4b036e35f9d0e1982bb21420b39c01f7"
       }
     ]
   },
@@ -375,7 +394,7 @@
     "links": [
       {
         "name": "အင်ချွန်း ယူနိုက်တက် ကလပ် VS ဂျွန်ဘု(ခ်) ဟွန်ဒယ် မိုးတားစ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb6.m3u8?auth_key=1788110222-0-0-a9c712ce7d8330ea39cf1529bbea2e6c"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891eb6.m3u8?auth_key=1788110401-0-0-e23222b3b8ef695d2f6ca0f9335cead1"
       }
     ]
   },
@@ -394,7 +413,7 @@
     "links": [
       {
         "name": "Hillerod Fodbold VS Hobro",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891ebd.m3u8?auth_key=1788110222-0-0-b911fe564a70036bdb6ae776e9c918db"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891ebd.m3u8?auth_key=1788110401-0-0-600f924f51fc9f28f9ec80d14d73abb7"
       }
     ]
   },
@@ -413,7 +432,7 @@
     "links": [
       {
         "name": "Hvidovre IF VS Fredericia",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891ebc.m3u8?auth_key=1788110222-0-0-39b5003c525d32448d98bc782756b2dc"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721c167105e98891ebc.m3u8?auth_key=1788110401-0-0-f1236faf7066d97250ac8d926bbb58eb"
       }
     ]
   },
@@ -432,7 +451,7 @@
     "links": [
       {
         "name": "အာဆင်နယ် ဒဇာရှင်စခ် VS တော်ပီဒို ဇော်ဒီနို",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a14.m3u8?auth_key=1788110222-0-0-66a1fd7da527b0e59df2d29033d3fbd6"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a14.m3u8?auth_key=1788110401-0-0-508934e9b50c8721385c8b40cb1c191f"
       }
     ]
   },
@@ -451,7 +470,7 @@
     "links": [
       {
         "name": "နီဗာ ဒိုးလ်ဘစ်ဇ်နို VS Osipovichy",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a859.m3u8?auth_key=1788110222-0-0-f13831419a652a73865bcaf6337c8fe0"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a859.m3u8?auth_key=1788110401-0-0-822cb01e518a0221252a1fb0102aaf20"
       }
     ]
   },
@@ -470,7 +489,7 @@
     "links": [
       {
         "name": "စိန့်ပေါ်လီ VS အက်ဖ်စီ ကိုင်ဇာစလောင်းတန်း",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a73e.m3u8?auth_key=1788110222-0-0-b2b2f71419041895a9bd897330620c0f"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a73e.m3u8?auth_key=1788110401-0-0-4a32dad405d637dd5965d8223074cec9"
       }
     ]
   },
@@ -489,7 +508,7 @@
     "links": [
       {
         "name": "အက်စ် ဗွီ ဒါမ်းရှတတ် ၉၈ VS ဟန်နိုဗာ ၉၆",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a742.m3u8?auth_key=1788110222-0-0-d11e0ebee36981d2264cff3cde851927"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a742.m3u8?auth_key=1788110401-0-0-9f1c1ab78dc12a7c0b6f9d7803d8b2fc"
       }
     ]
   },
@@ -508,7 +527,7 @@
     "links": [
       {
         "name": "အက်ဖ်စီ မက်ဒီဘတ် VS ဟိုလ်ရှတိုင်း ကီးလ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a745.m3u8?auth_key=1788110222-0-0-e0ace069db78c71a427101b5d9838cd9"
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a745.m3u8?auth_key=1788110401-0-0-82649f98bd7fa933a40f6acb43c516cc"
       }
     ]
   }
