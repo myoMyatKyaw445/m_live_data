@@ -1,114 +1,192 @@
 [
   {
     "id": "49866",
-    "home_name": "ဒဗ္ဗလျူအက်စ် ဝမ်ဒါရားစ် ဘီ (အမျိုးသမီး)",
-    "home_img": "",
+    "home_name": "WS Wanderers B (W)",
+    "home_img": "https://s.fmp.live/live/teams/logos/87505.png",
     "away_name": "Sydney Olympic FC Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/50604.png",
+    "league": "Australia New South Wales Women's League",
+    "match_time": "2026-08-30T13:40:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "ဒဗ္ဗလျူအက်စ် ဝမ်ဒါရားစ် ဘီ (အမျိုးသမီး) VS Sydney Olympic FC Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd7.m3u8?auth_key=1788101222-0-0-67e2111a71397a9030af7d92bf0948b3"
+      }
+    ]
   },
   {
     "id": "49867",
     "home_name": "University of Sydney Women",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/15714.png",
     "away_name": "Manly Utd Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/35804.png",
+    "league": "Australia New South Wales Women's League",
+    "match_time": "2026-08-30T13:30:00+08:00",
+    "match_status": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "University of Sydney Women VS Manly Utd Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd8.m3u8?auth_key=1788101222-0-0-f7696c84652d35aa4414b0595a514e00"
+      }
+    ]
   },
   {
     "id": "49868",
     "home_name": "Queensland Lions SC",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/13160.png",
     "away_name": "Peninsula Power",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/29146.png",
+    "league": "Australia National Premier Leagues Queensland",
+    "match_time": "2026-08-30T14:15:00+08:00",
+    "match_status": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "HALF_TIME",
+    "links": [
+      {
+        "name": "Queensland Lions SC VS Peninsula Power",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d275.m3u8?auth_key=1788101222-0-0-9941367ca560a5bbc6c37f9c68b325f6"
+      }
+    ]
   },
   {
     "id": "49869",
-    "home_name": "စီဟီးရောင်း စီးတီး",
-    "home_img": "",
-    "away_name": "ဖိုချောင်း အက်ဖ်စီ",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "home_name": "Siheung City",
+    "home_img": "https://s.fmp.live/live/teams/logos/34267.png",
+    "away_name": "Pocheon FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/20061.png",
+    "league": "Korean K League 3 ",
+    "match_time": "2026-08-30T14:30:00+08:00",
+    "match_status": true,
+    "homeScore": 3,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "စီဟီးရောင်း စီးတီး VS ဖိုချောင်း အက်ဖ်စီ",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f030.m3u8?auth_key=1788101222-0-0-f261b8cdf5dd2f8fc5cecaa2ad591190"
+      }
+    ]
   },
   {
     "id": "49870",
     "home_name": "Geumsan Insam FC",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/92615.png",
     "away_name": "Jinju Citizen",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/56749.png",
+    "league": "Korean K League 4",
+    "match_time": "2026-08-30T14:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Geumsan Insam FC VS Jinju Citizen",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00b.m3u8?auth_key=1788101222-0-0-acc4f3911ddc68bdd09cd163ec0f1438"
+      }
+    ]
   },
   {
     "id": "49871",
     "home_name": "Dinamo Vladivostok",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/61688.png",
     "away_name": "Mashuk-KMV",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "away_img": "https://s.fmp.live/live/teams/logos/17686.png",
+    "league": "RUS D3A",
+    "match_time": "2026-08-30T14:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Dinamo Vladivostok VS Mashuk-KMV",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c33679a78b6ca36a37.m3u8?auth_key=1788101222-0-0-8bfe054486608b8f06e3e5e5833cf7fe"
+      }
+    ]
   },
   {
     "id": "49873",
     "home_name": "FC Rapid 1923 Women",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/72883.png",
     "away_name": "Olimpia Cluj Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/19553.png",
+    "league": "Romanian SuperLiga Feminină",
+    "match_time": "2026-08-30T14:30:00+08:00",
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "awayScore": 1,
+    "status": "HALF_TIME",
+    "links": [
+      {
+        "name": "FC Rapid 1923 Women VS Olimpia Cluj Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8c9be193add94b37512382.m3u8?auth_key=1788101222-0-0-4ef66462a1e6137d57bca6fa01deb642"
+      }
+    ]
   },
   {
     "id": "49874",
     "home_name": "Slavia Praha B",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/21430.png",
     "away_name": "Opava",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/14008.png",
+    "league": "Chance Národní Liga",
+    "match_time": "2026-08-30T14:45:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Slavia Praha B VS Opava",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c394a200e33803a850.m3u8?auth_key=1788101222-0-0-159dde68e9a521c733739800145f2fd7"
+      }
+    ]
+  },
+  {
+    "id": "49875",
+    "home_name": "SK Sturm Graz II",
+    "home_img": "https://s.fmp.live/live/teams/logos/15571.png",
+    "away_name": "SK Rapid II",
+    "away_img": "https://s.fmp.live/live/teams/logos/11925.png",
+    "league": "Austrian 2.Liga",
+    "match_time": "2026-08-30T15:00:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "အက်စ် ကေ ရှ် တူရ်(မ်) ဂရတ် စ် ၂ VS SK Rapid II",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a7205c294a200e33803a694.m3u8?auth_key=1788101222-0-0-165050a6e809acced9afe384a7b6fa59"
+      }
+    ]
+  },
+  {
+    "id": "49876",
+    "home_name": "Sunshine Coast Wanderers FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/44990.png",
+    "away_name": "Ipswich City",
+    "away_img": "https://s.fmp.live/live/teams/logos/39830.png",
+    "league": "Australia Queensland State League 1",
+    "match_time": "2026-08-30T15:00:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Sunshine Coast Wanderers FC VS Ipswich City",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a8b586dfd629e492f33454c.m3u8?auth_key=1788101222-0-0-1cc44ea48487ca20673353fe2b2d8d5e"
+      }
+    ]
   }
 ]
