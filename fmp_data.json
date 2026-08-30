@@ -1,97 +1,58 @@
 [
   {
-    "id": "49864",
-    "home_name": "Lake Macquarie (W)",
-    "home_img": "https://s.fmp.live/live/teams/logos/87477.png",
-    "away_name": "Broadmeadow Magic Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/60659.png",
-    "league": "Australia New South Wales Women's Premier League",
-    "match_time": "2026-08-30T12:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
+    "id": "49854",
+    "home_name": "စပရင်း ဟေးလ်စ် အက်ဖ်စီ  အမျိုးသမီး",
+    "home_img": "",
+    "away_name": "Avondale FC Women",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "လိခ် မက်ကွမ်ရီ (အမျိုးသမီး) VS Broadmeadow Magic Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a92444ffb009bc39f7fca60.m3u8?auth_key=1788095222-0-0-7def5c8a190cc1cc91497d6aee24b8fb"
-      }
-    ]
+    "status": "CLOSED",
+    "links": []
+  },
+  {
+    "id": "49860",
+    "home_name": "Sydney United 58 FC",
+    "home_img": "",
+    "away_name": "St George Saints",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "CLOSED",
+    "links": []
+  },
+  {
+    "id": "49864",
+    "home_name": "လိခ် မက်ကွမ်ရီ (အမျိုးသမီး)",
+    "home_img": "",
+    "away_name": "Broadmeadow Magic Women",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49865",
     "home_name": "Maitland",
-    "home_img": "https://s.fmp.live/live/teams/logos/33625.png",
+    "home_img": "",
     "away_name": "Edgeworth Eagles FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/30332.png",
-    "league": "Australia Northern New South Wales Premier League",
-    "match_time": "2026-08-30T12:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "Maitland VS Edgeworth Eagles FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a9066a8e4f896100fc7f548.m3u8?auth_key=1788095222-0-0-becc984cdb1846c1da2cd20fbd56e015"
-      }
-    ]
-  },
-  {
-    "id": "49866",
-    "home_name": "WS Wanderers B (W)",
-    "home_img": "https://s.fmp.live/live/teams/logos/87505.png",
-    "away_name": "Sydney Olympic FC Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/50604.png",
-    "league": "Australia New South Wales Women's League",
-    "match_time": "2026-08-30T13:30:00+08:00",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "ဒဗ္ဗလျူအက်စ် ဝမ်ဒါရားစ် ဘီ (အမျိုးသမီး) VS Sydney Olympic FC Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd7.m3u8?auth_key=1788095222-0-0-81c60c9430737ac8508ef33046cc61d1"
-      }
-    ]
-  },
-  {
-    "id": "49867",
-    "home_name": "University of Sydney Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/15714.png",
-    "away_name": "Manly Utd Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/35804.png",
-    "league": "Australia New South Wales Women's League",
-    "match_time": "2026-08-30T13:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "University of Sydney Women VS Manly Utd Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd8.m3u8?auth_key=1788095222-0-0-f1788653be1adf5cb1f167857aa8a675"
-      }
-    ]
-  },
-  {
-    "id": "49868",
-    "home_name": "Queensland Lions SC",
-    "home_img": "https://s.fmp.live/live/teams/logos/13160.png",
-    "away_name": "Peninsula Power",
-    "away_img": "https://s.fmp.live/live/teams/logos/29146.png",
-    "league": "Australia National Premier Leagues Queensland",
-    "match_time": "2026-08-30T13:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Queensland Lions SC VS Peninsula Power",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a89f8c9b6fa125e7d70d275.m3u8?auth_key=1788095222-0-0-90b8fc71280f26c4360dee7898d000ca"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   }
 ]
