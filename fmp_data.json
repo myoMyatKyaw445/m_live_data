@@ -1,192 +1,100 @@
 [
   {
-    "id": "49849",
-    "home_name": "Illawarra Stingrays Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/35528.png",
-    "away_name": "Maca Searle Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/22850.png",
-    "league": "Australia New South Wales Women's League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FINISHED",
-    "links": [
-      {
-        "name": "Illawarra Stingrays Women VS Maca Searle Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a6f628032d7e68a25c2abd9.m3u8?auth_key=1788094621-0-0-7e8f0d509dafd9b786dfb632329bf639"
-      }
-    ]
-  },
-  {
     "id": "49850",
     "home_name": "Blacktown City Demons",
-    "home_img": "https://s.fmp.live/live/teams/logos/22123.png",
-    "away_name": "Western Sydney Wanderers Youth",
-    "away_img": "https://s.fmp.live/live/teams/logos/28236.png",
-    "league": "Australia New South Wales Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
+    "home_img": "",
+    "away_name": "ဝက်စ်တန်း ဆစ်ဒနီ ဝေါင်ဒါးစ် အေအမ်",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Blacktown City Demons VS ဝက်စ်တန်း ဆစ်ဒနီ ဝေါင်ဒါးစ် အေအမ်",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f015.m3u8?auth_key=1788094621-0-0-732d9c44514b527abd9e9f6201aa1497"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49851",
     "home_name": "APIA Leichhardt Tigers",
-    "home_img": "https://s.fmp.live/live/teams/logos/23361.png",
+    "home_img": "",
     "away_name": "St George City FA",
-    "away_img": "https://s.fmp.live/live/teams/logos/40556.png",
-    "league": "Australia New South Wales Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 4,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "APIA Leichhardt Tigers VS St George City FA",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f01f.m3u8?auth_key=1788094621-0-0-943f0f321843a8b7587d29969500df69"
-      }
-    ]
-  },
-  {
-    "id": "49852",
-    "home_name": "Alamein Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/34245.png",
-    "away_name": "FC Bulleen Lions Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/26381.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
     "match_status": false,
-    "homeScore": 2,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "FINISHED",
-    "links": [
-      {
-        "name": "Alamein Women VS FC Bulleen Lions Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f020.m3u8?auth_key=1788094621-0-0-4cedb570d069fd6b96639e897a79771f"
-      }
-    ]
-  },
-  {
-    "id": "49853",
-    "home_name": "Preston Lions Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/25461.png",
-    "away_name": "Melbourne Victory FC Youth(W)",
-    "away_img": "https://s.fmp.live/live/teams/logos/92433.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Preston Lions Women VS Melbourne Victory FC Youth(W)",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f023.m3u8?auth_key=1788094621-0-0-01b9dc21a0c80e9f4196d8202ee4d37e"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49855",
     "home_name": "Melbourne City Youth(W)",
-    "home_img": "https://s.fmp.live/live/teams/logos/92432.png",
+    "home_img": "",
     "away_name": "Box Hill Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/14959.png",
-    "league": "Australia Victorian Women's Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
     "homeScore": 0,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Melbourne City Youth(W) VS Box Hill Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f026.m3u8?auth_key=1788094621-0-0-64398be57ff5d3e2804ba01bf611ccb2"
-      }
-    ]
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49857",
     "home_name": "Marconi Stallions",
-    "home_img": "https://s.fmp.live/live/teams/logos/24135.png",
+    "home_img": "",
     "away_name": "Spirit FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/20582.png",
-    "league": "Australia New South Wales Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Marconi Stallions VS Spirit FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f013.m3u8?auth_key=1788094621-0-0-b56841ca743e0407568483367a90fcdf"
-      }
-    ]
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49860",
     "home_name": "Sydney United 58 FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/24237.png",
+    "home_img": "",
     "away_name": "St George Saints",
-    "away_img": "https://s.fmp.live/live/teams/logos/30022.png",
-    "league": "Australia New South Wales Premier League",
-    "match_time": "2026-08-30T11:30:00+08:00",
-    "match_status": true,
-    "homeScore": 5,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Sydney United 58 FC VS St George Saints",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f027.m3u8?auth_key=1788094621-0-0-72c750735fe07550387a7fee1d7dea3d"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49864",
-    "home_name": "Lake Macquarie (W)",
-    "home_img": "https://s.fmp.live/live/teams/logos/87477.png",
+    "home_name": "လိခ် မက်ကွမ်ရီ (အမျိုးသမီး)",
+    "home_img": "",
     "away_name": "Broadmeadow Magic Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/60659.png",
-    "league": "Australia New South Wales Women's Premier League",
-    "match_time": "2026-08-30T12:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "လိခ် မက်ကွမ်ရီ (အမျိုးသမီး) VS Broadmeadow Magic Women",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a92444ffb009bc39f7fca60.m3u8?auth_key=1788094621-0-0-3e3c1f55eca70fc53ba345624680849e"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   },
   {
     "id": "49865",
     "home_name": "Maitland",
-    "home_img": "https://s.fmp.live/live/teams/logos/33625.png",
+    "home_img": "",
     "away_name": "Edgeworth Eagles FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/30332.png",
-    "league": "Australia Northern New South Wales Premier League",
-    "match_time": "2026-08-30T12:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
+    "away_img": "",
+    "league": "League",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "Maitland VS Edgeworth Eagles FC",
-        "url": "https://alpull.mmchari.xyz/sla/1-6a9066a8e4f896100fc7f548.m3u8?auth_key=1788094621-0-0-885b7aa1ce54826d4d8888cf30b0a58f"
-      }
-    ]
+    "status": "OPENED",
+    "links": []
   }
 ]
