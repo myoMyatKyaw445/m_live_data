@@ -1,114 +1,154 @@
 [
   {
     "id": "49839",
-    "home_name": "ဆန်ဒီယေဂို အက်ဖ်စီ",
-    "home_img": "",
+    "home_name": "San Diego FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/87068.png",
     "away_name": "Los Angeles Galaxy",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/10487.png",
+    "league": "United States Major League Soccer",
+    "match_time": "2026-08-30T09:10:00+08:00",
+    "match_status": true,
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "ဆန်ဒီယေဂို အက်ဖ်စီ VS Los Angeles Galaxy",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00c.m3u8?auth_key=1788085201-0-0-51c822d2899bc78e43822b3c4e703945"
+      }
+    ]
   },
   {
     "id": "49840",
     "home_name": "Portland Timbers",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/11074.png",
     "away_name": "Austin FC",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/60286.png",
+    "league": "United States Major League Soccer",
+    "match_time": "2026-08-30T09:10:00+08:00",
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Portland Timbers VS Austin FC",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00d.m3u8?auth_key=1788085201-0-0-be81c54b3ac3a33e76b8e62457aa5c3e"
+      }
+    ]
   },
   {
     "id": "49841",
     "home_name": "Las Vegas Lights",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/44995.png",
     "away_name": "Charleston Battery",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/18624.png",
+    "league": "USL Championship",
+    "match_time": "2026-08-30T09:00:00+08:00",
+    "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "awayScore": 2,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Las Vegas Lights VS Charleston Battery",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00e.m3u8?auth_key=1788085201-0-0-bebddb58357cb771f2375713bc403ceb"
+      }
+    ]
   },
   {
     "id": "49842",
     "home_name": "Phoenix Rising FC",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/21431.png",
     "away_name": "Indy Eleven",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/30752.png",
+    "league": "USL Championship",
+    "match_time": "2026-08-30T09:00:00+08:00",
+    "match_status": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Phoenix Rising FC VS Indy Eleven",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f00f.m3u8?auth_key=1788085201-0-0-0488375aca4193fed34ee52164d75901"
+      }
+    ]
   },
   {
     "id": "49843",
     "home_name": "New Mexico United",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/38494.png",
     "away_name": "San Antonio",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "away_img": "https://s.fmp.live/live/teams/logos/34336.png",
+    "league": "USL Championship",
+    "match_time": "2026-08-30T09:00:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "New Mexico United VS San Antonio",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f005.m3u8?auth_key=1788085201-0-0-48843ababe8b08763d0ccf50c7980316"
+      }
+    ]
   },
   {
     "id": "49844",
     "home_name": "Santos Laguna",
-    "home_img": "",
-    "away_name": "တီဂရေးစ် ယူအေအန်အယ်လ်",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "home_img": "https://s.fmp.live/live/teams/logos/15217.png",
+    "away_name": "Tigres UANL",
+    "away_img": "https://s.fmp.live/live/teams/logos/15107.png",
+    "league": "Mexico Liga MX",
+    "match_time": "2026-08-30T09:40:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "HALF_TIME",
+    "links": [
+      {
+        "name": "Santos Laguna VS တီဂရေးစ် ယူအေအန်အယ်လ်",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f010.m3u8?auth_key=1788085201-0-0-cad7db234bae37b56e397e599ee23509"
+      }
+    ]
   },
   {
     "id": "49845",
     "home_name": "Juarez FC Women",
-    "home_img": "",
+    "home_img": "https://s.fmp.live/live/teams/logos/52269.png",
     "away_name": "Cruz Azul Women",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
+    "away_img": "https://s.fmp.live/live/teams/logos/41915.png",
+    "league": "Mexico Liga MX Femenil",
+    "match_time": "2026-08-30T09:40:00+08:00",
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Juarez FC Women VS Cruz Azul Women",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a735721325d218e1412f011.m3u8?auth_key=1788085201-0-0-d51afc8b655857856ba88f6280f51292"
+      }
+    ]
   },
   {
     "id": "49846",
     "home_name": "Wallsend",
-    "home_img": "",
-    "away_name": "နယူးကာဆယ် ခရိုအေးရှား",
-    "away_img": "",
-    "league": "League",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
+    "home_img": "https://s.fmp.live/live/teams/logos/46896.png",
+    "away_name": "Newcastle Croatia",
+    "away_img": "https://s.fmp.live/live/teams/logos/82774.png",
+    "league": "Australia Northern New South Wales Premier League",
+    "match_time": "2026-08-30T10:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
     "awayScore": 0,
-    "status": "OPENED",
-    "links": []
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Wallsend VS နယူးကာဆယ် ခရိုအေးရှား",
+        "url": "https://alpull.mmchari.xyz/sla/1-6a88d19b06a083c458840dcd.m3u8?auth_key=1788085201-0-0-2015afa653cb7d371219bd1758efb8df"
+      }
+    ]
   }
 ]
