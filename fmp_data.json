@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788607082-0-0-c932335d94da7701b5712c6ff9514c93"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788607262-0-0-b23c06bb4db49213a8379666017ce979"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Kahibah FC VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788607082-0-0-17aac88945fc3b77905bc6cd02694de2"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788607262-0-0-190587ca066a9508b6faf1645e83d6d0"
       }
     ]
   },
@@ -46,13 +46,13 @@
     "league": "Australia Queensland State League 1",
     "match_time": "2026-09-05T11:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788607082-0-0-843da5c63a4e28d80561e048ccd9ce17"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788607262-0-0-86927af7b983b8fd3e8d11ef39043bd3"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Cashmere Technical VS Fencibles United",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788607082-0-0-cf1283a080e0e509365e995efe8b7b22"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788607262-0-0-c4babda66687919c3e4fe73096b93471"
       }
     ]
   }
