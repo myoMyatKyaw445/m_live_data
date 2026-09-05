@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788607262-0-0-b23c06bb4db49213a8379666017ce979"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788607441-0-0-d4d698b6329ef4fb2c3e0d0484285c29"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Kahibah FC VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788607262-0-0-190587ca066a9508b6faf1645e83d6d0"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788607441-0-0-74bca81bfc0adcd57f619dcecd5e2d1e"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788607262-0-0-86927af7b983b8fd3e8d11ef39043bd3"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788607441-0-0-737fa7d9ab63c0b5be8df0176f034f11"
       }
     ]
   },
@@ -65,13 +65,13 @@
     "league": "International Club Friendly",
     "match_time": "2026-09-05T10:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Cashmere Technical VS Fencibles United",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788607262-0-0-c4babda66687919c3e4fe73096b93471"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788607441-0-0-0e70f84ff8bcbb6a5f495469acf15b9f"
       }
     ]
   }
