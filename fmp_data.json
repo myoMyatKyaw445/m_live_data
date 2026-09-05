@@ -14,26 +14,7 @@
     "links": [
       {
         "name": "FC Juarez VS Pachuca",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788605641-0-0-8e8b0e0bb09ece6d8faf9b1d9516454a"
-      }
-    ]
-  },
-  {
-    "id": "50847",
-    "home_name": "South Hobart",
-    "home_img": "https://s.fmp.live/live/teams/logos/28245.png",
-    "away_name": "Devonport City",
-    "away_img": "https://s.fmp.live/live/teams/logos/14496.png",
-    "league": "Australia Tasmania National Premier League",
-    "match_time": "2026-09-05T09:30:00+08:00",
-    "match_status": false,
-    "homeScore": 5,
-    "awayScore": 1,
-    "status": "FINISHED",
-    "links": [
-      {
-        "name": "South Hobart VS Devonport City",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788605641-0-0-4abcbb18962f059f8eeabba7e0921ae4"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788605821-0-0-d7e23d4df492347997dc371df6688473"
       }
     ]
   },
@@ -52,7 +33,7 @@
     "links": [
       {
         "name": "Unam Pumas Women VS Club America Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788605641-0-0-ec1d86273b6b218bbd9ded6f3800d022"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788605821-0-0-21a7f3c736f116210320b7764b7d4d21"
       }
     ]
   },
@@ -71,7 +52,7 @@
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788605641-0-0-4dcd46e5cbb996f3fac2fb260965e7e8"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788605821-0-0-bdad86c0b635996331dd740fcb30ec85"
       }
     ]
   },
@@ -90,7 +71,26 @@
     "links": [
       {
         "name": "Kahibah FC VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788605641-0-0-dc2def8fcf2d01c2713e242280aac3cd"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788605821-0-0-d521571e1c88bf2f9b756038cbe7a080"
+      }
+    ]
+  },
+  {
+    "id": "50851",
+    "home_name": "Broadbeach United",
+    "home_img": "https://s.fmp.live/live/teams/logos/33539.png",
+    "away_name": "Sunshine Coast Wanderers FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/44990.png",
+    "league": "Australia Queensland State League 1",
+    "match_time": "2026-09-05T11:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788605821-0-0-eab93f70cde668d54901a6b4c88ff023"
       }
     ]
   }
