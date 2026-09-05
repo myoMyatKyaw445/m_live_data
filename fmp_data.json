@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "ဘေး အက်ဖ်စီ (အမျိုးသမီး) VS Kansas City Current Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34756.m3u8?auth_key=1788601862-0-0-0b775b7138b3ebb299f047a6794a2a8c"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34756.m3u8?auth_key=1788602222-0-0-660a0cf1d5faf095838e53f003336708"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Atlas Women VS Chivas Guadalajara Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475b.m3u8?auth_key=1788601862-0-0-dd38cba5ec90efc8b13a1ac79f085cf3"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475b.m3u8?auth_key=1788602222-0-0-18649f08b9fdd68a5d918a07f6766710"
       }
     ]
   },
@@ -48,11 +48,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "FC Juarez VS Pachuca",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788601862-0-0-4b6d512c8753bfcd41b16eade17ae7f0"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788602222-0-0-308b7b418c275a2e483ec3e1bc1a722e"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "South Hobart VS Devonport City",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788601862-0-0-3807fe1e7e0818d7817c3f29f13e001a"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788602222-0-0-2fd16deb8ae417ddda53c4798e84a4c8"
       }
     ]
   },
@@ -90,7 +90,26 @@
     "links": [
       {
         "name": "Unam Pumas Women VS Club America Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788601862-0-0-4c144bac2819c9e6257ab115477e4e3f"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788602222-0-0-89707bfbba1fb9f181e9988897ddad81"
+      }
+    ]
+  },
+  {
+    "id": "50849",
+    "home_name": "Avondale FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/28503.png",
+    "away_name": "Preston Lions",
+    "away_img": "https://s.fmp.live/live/teams/logos/24974.jpg",
+    "league": "National Premier Leagues Victoria",
+    "match_time": "2026-09-05T10:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Avondale FC VS Preston Lions",
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788602222-0-0-efd6a8a285b4b0591e4bdb965e92bd6b"
       }
     ]
   }
