@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788607621-0-0-a8418af39363879d2504d9b6f743d1f1"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788607802-0-0-ee930844aa93e0f30e5d5394824ab332"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Kahibah FC VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788607621-0-0-aa39a1cdba8b54ae725e828148cf4595"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788607802-0-0-f64bbf2c435d2becc91e03a592ae0158"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788607621-0-0-0241b8a8ad7a5205a9c00a9cd8b05071"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788607802-0-0-13fde6a62e2eaf5c559fe0b5062d2e71"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Cashmere Technical VS Fencibles United",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788607621-0-0-162a509e897aeb840c66945510a0a7f8"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788607802-0-0-450877a50731ad43b73286628e168131"
       }
     ]
   },
@@ -90,7 +90,26 @@
     "links": [
       {
         "name": "Modbury Jets VS Adelaide Olympic",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788607621-0-0-8d958da55c4d5510633df6f4c11e25ae"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788607802-0-0-abd8e3caa4a8ec3a130c213f60e88472"
+      }
+    ]
+  },
+  {
+    "id": "50854",
+    "home_name": "Adelaide Raiders SC",
+    "home_img": "https://s.fmp.live/live/teams/logos/29757.png",
+    "away_name": "Adelaide Blue Eagles",
+    "away_img": "https://s.fmp.live/live/teams/logos/28779.png",
+    "league": "South Australia State League 1",
+    "match_time": "2026-09-05T12:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Adelaide Raiders SC VS Adelaide Blue Eagles",
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788607802-0-0-8f4996691163048bab51b831a9f75414"
       }
     ]
   }
