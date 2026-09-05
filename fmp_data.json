@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788607441-0-0-d4d698b6329ef4fb2c3e0d0484285c29"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788607621-0-0-a8418af39363879d2504d9b6f743d1f1"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Kahibah FC VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788607441-0-0-74bca81bfc0adcd57f619dcecd5e2d1e"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788607621-0-0-aa39a1cdba8b54ae725e828148cf4595"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788607441-0-0-737fa7d9ab63c0b5be8df0176f034f11"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788607621-0-0-0241b8a8ad7a5205a9c00a9cd8b05071"
       }
     ]
   },
@@ -71,7 +71,26 @@
     "links": [
       {
         "name": "Cashmere Technical VS Fencibles United",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788607441-0-0-0e70f84ff8bcbb6a5f495469acf15b9f"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788607621-0-0-162a509e897aeb840c66945510a0a7f8"
+      }
+    ]
+  },
+  {
+    "id": "50853",
+    "home_name": "Modbury Jets",
+    "home_img": "https://s.fmp.live/live/teams/logos/22861.png",
+    "away_name": "Adelaide Olympic",
+    "away_img": "https://s.fmp.live/live/teams/logos/30477.png",
+    "league": "South Australia State League 1",
+    "match_time": "2026-09-05T12:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Modbury Jets VS Adelaide Olympic",
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788607621-0-0-8d958da55c4d5510633df6f4c11e25ae"
       }
     ]
   }
