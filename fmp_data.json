@@ -10,11 +10,11 @@
     "match_status": true,
     "homeScore": 2,
     "awayScore": 0,
-    "status": "HALF_TIME",
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788609962-0-0-7bd7fcf2002b76e826e617244897e2b8"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788610323-0-0-b175f929e7dea1391525d7b9023e627e"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Modbury Jets VS Adelaide Olympic",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788609962-0-0-22cda70ea30048635f41c5be4c7be0c5"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788610323-0-0-6949dd7cacc57e241c856f1b94dd7b19"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Adelaide Raiders SC VS Adelaide Blue Eagles",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788609962-0-0-8689fe25281ce359b26c14d6b934bf1c"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788610323-0-0-2dd08861cb6b734285f3ed454d2e3fa4"
       }
     ]
   },
@@ -66,12 +66,12 @@
     "match_time": "2026-09-05T12:00:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "အက်(ဖ်)စီ ဘာဆာရာ ဟယိုးဂို VS Arterivo Wakayama",
-        "url": "https://pull.fmp.live/sla/1-6a9ac7f0e9d80a100cd8f628.m3u8?auth_key=1788609962-0-0-0b5712b409b4b3d05cb02bb0528a429f"
+        "url": "https://pull.fmp.live/sla/1-6a9ac7f0e9d80a100cd8f628.m3u8?auth_key=1788610323-0-0-b1312f33dcfddee1e6426ef537e7944f"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "Shizuoka Sangyo University Women VS Ehime FC Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34763.m3u8?auth_key=1788609962-0-0-0533ceae1291b43ef4c487fdd3ae3b83"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34763.m3u8?auth_key=1788610323-0-0-348acc6c7f073b99ef25ac4de6bb28ae"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "Yokohama FC Seagulls Women VS NGU Nagoya Women",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1a7.m3u8?auth_key=1788609962-0-0-27612ee1b2a05b969f943ff305852014"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1a7.m3u8?auth_key=1788610323-0-0-8e8ef3952f7785764a0f2e93a5e695ed"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "Ba VS Rewa FC",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63ef.m3u8?auth_key=1788609962-0-0-b1dbc21f68d2e218e3887f5c3352e50a"
+        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63ef.m3u8?auth_key=1788610323-0-0-044c9c7b5fef0a1fd9991d37aded3c22"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "FC Bulleen Lions Women VS South Melbourne Women",
-        "url": "https://pull.fmp.live/sla/1-6a970bdb51b97c1e619dd8c4.m3u8?auth_key=1788609962-0-0-5e98c570a1fdeba35ca9d5cb6f58783e"
+        "url": "https://pull.fmp.live/sla/1-6a970bdb51b97c1e619dd8c4.m3u8?auth_key=1788610323-0-0-a7299faf9c046f535668659aa2931a96"
       }
     ]
   },
@@ -166,7 +166,7 @@
     "links": [
       {
         "name": "Fremantle City FC Women VS Perth RedStar Women",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f0.m3u8?auth_key=1788609962-0-0-d9b44fa4bfd9dc0ca4dbc18440be2149"
+        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f0.m3u8?auth_key=1788610323-0-0-cf1301a368685d501099e1611d43f085"
       }
     ]
   },
@@ -185,7 +185,7 @@
     "links": [
       {
         "name": "Canberra FC VS Queanbeyan City",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd77.m3u8?auth_key=1788609962-0-0-7250a4296328650137c3723a98410d30"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd77.m3u8?auth_key=1788610323-0-0-4a7874164488e2085c501934b831d30f"
       }
     ]
   }
