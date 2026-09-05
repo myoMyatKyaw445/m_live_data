@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "FC Juarez VS Pachuca",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788605282-0-0-664772739fbfa74dcb99aa8741a8e9aa"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788605462-0-0-1b5bbb3110da74e09f8395bb87782cca"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "South Hobart VS Devonport City",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788605282-0-0-63ef023056e8ebc7e235ea6ac3d10df1"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788605462-0-0-fda62def5139698aa6cfd10a038c6c8f"
       }
     ]
   },
@@ -47,12 +47,12 @@
     "match_time": "2026-09-05T09:30:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Unam Pumas Women VS Club America Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788605282-0-0-c88aaec77f7f1dfcb63a67cdd494be84"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788605462-0-0-3a3457c7ed7e69f29818cc5c1ad6d8c0"
       }
     ]
   },
@@ -67,11 +67,11 @@
     "match_status": true,
     "homeScore": 2,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788605282-0-0-51f8ebcfd607cac5c0151e723fb5e0bf"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788605462-0-0-4cdc867d2c2b22b4e46044a26f5d2c9a"
       }
     ]
   },
@@ -86,11 +86,11 @@
     "match_status": true,
     "homeScore": 2,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Kahibah FC VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788605282-0-0-3cf1ee42f73165633cb81d6daa1c97c4"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788605462-0-0-6155abfce002b28feff085aa50ac81c1"
       }
     ]
   }
