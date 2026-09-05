@@ -1,43 +1,5 @@
 [
   {
-    "id": "50843",
-    "home_name": "Bay FC (w)",
-    "home_img": "https://s.fmp.live/live/teams/logos/80875.png",
-    "away_name": "Kansas City Current Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/60531.png",
-    "league": "United States Women's National Soccer League",
-    "match_time": "2026-09-05T08:40:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ဘေး အက်ဖ်စီ (အမျိုးသမီး) VS Kansas City Current Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34756.m3u8?auth_key=1788602582-0-0-c0babc9f315de846fd7d95ea510a6c99"
-      }
-    ]
-  },
-  {
-    "id": "50844",
-    "home_name": "Atlas Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/43229.png",
-    "away_name": "Chivas Guadalajara Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/43768.png",
-    "league": "Mexico Liga MX Femenil",
-    "match_time": "2026-09-05T08:35:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 4,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Atlas Women VS Chivas Guadalajara Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475b.m3u8?auth_key=1788602582-0-0-5fd79ef19c4a9474252a2c12b32d59b5"
-      }
-    ]
-  },
-  {
     "id": "50846",
     "home_name": "FC Juarez",
     "home_img": "https://s.fmp.live/live/teams/logos/21062.png",
@@ -52,7 +14,7 @@
     "links": [
       {
         "name": "FC Juarez VS Pachuca",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788602582-0-0-de864329665da07e4c169c36967ac06a"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788602761-0-0-aae49e607920e625cf8dde2b7f4f3a81"
       }
     ]
   },
@@ -71,7 +33,7 @@
     "links": [
       {
         "name": "South Hobart VS Devonport City",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788602582-0-0-495c081449ef43baf7fda4c9e6355520"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788602761-0-0-826a39101a68033e41fd40ed6a41db6f"
       }
     ]
   },
@@ -90,7 +52,7 @@
     "links": [
       {
         "name": "Unam Pumas Women VS Club America Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788602582-0-0-202a967122c688965387e2c13930f740"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788602761-0-0-60233e5af8aa9759578419bb065c36d8"
       }
     ]
   },
@@ -102,14 +64,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/24974.jpg",
     "league": "National Premier Leagues Victoria",
     "match_time": "2026-09-05T10:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788602582-0-0-d35ec09a967bba480b38ce05879a4134"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788602761-0-0-b7b5e95ea99e3b9cdc335b848bdd27d7"
       }
     ]
   }
