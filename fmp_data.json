@@ -123,7 +123,7 @@
     "match_time": "2026-09-05T20:30:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FIRST_HALF",
     "links": [
       {
@@ -179,7 +179,7 @@
     "league": "English Football League Championship",
     "match_time": "2026-09-05T20:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
@@ -223,7 +223,7 @@
     "links": [
       {
         "name": "Atlético Tembetary VS အန်ကာနာစီယွန် အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a93417906a083c458e56c52.m3u8?auth_key=1788640562-0-0-74294a98b1eddd7af94942d9d4a28a5f"
+        "url": "https://pull.fmp.live/sla/1-6a93417906a083c458e56c52.m3u8?auth_key=1788640621-0-0-9f20b73f5d57c42937e1e1751411bad1"
       }
     ]
   },
@@ -313,12 +313,12 @@
     "match_time": "2026-09-05T19:30:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Tacuary VS Deportivo Santani",
-        "url": "https://pull.fmp.live/sla/1-6a93417906a083c458e56c51.m3u8?auth_key=1788640562-0-0-c3165ad04262c544882bb3b8f2b56f74"
+        "url": "https://pull.fmp.live/sla/1-6a93417906a083c458e56c51.m3u8?auth_key=1788640621-0-0-e68391aa6ee726dadb7a7cce04425852"
       }
     ]
   },
@@ -522,7 +522,7 @@
     "match_time": "2026-09-05T20:30:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FIRST_HALF",
     "links": [
       {
