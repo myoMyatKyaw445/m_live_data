@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "New Zealand U19 VS Fiji U19",
-        "url": "https://pull.fmp.live/sla/1-6a934f7693add94b378851fa.m3u8?auth_key=1788601321-0-0-249d3f7e9b544ad07fdd30c880fe5320"
+        "url": "https://pull.fmp.live/sla/1-6a934f7693add94b378851fa.m3u8?auth_key=1788601501-0-0-4cb5129d8e97bb9c5a0e7cff9b0369f6"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဘေး အက်ဖ်စီ (အမျိုးသမီး) VS Kansas City Current Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34756.m3u8?auth_key=1788601321-0-0-c66878c57edf4c102f611e928032e17e"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34756.m3u8?auth_key=1788601501-0-0-c6c9ccf8156f793cbfcb0e12a747d50f"
       }
     ]
   },
@@ -47,12 +47,12 @@
     "match_time": "2026-09-05T08:35:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Atlas Women VS Chivas Guadalajara Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475b.m3u8?auth_key=1788601321-0-0-5ba2826fcd4774ecda177fadec412718"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475b.m3u8?auth_key=1788601501-0-0-7c96de469aa33eb5cd6a1cec60c4e749"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "FC Juarez VS Pachuca",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788601321-0-0-9ecbe4ac1950aa1f32ae7d15cfe24c81"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788601501-0-0-2fafdb58c756d02679bafbaa127d4050"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "South Hobart VS Devonport City",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788601321-0-0-4c46f6d69c0a46691f668945a7d0349d"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788601501-0-0-1d1c522d4570b1ef3608d20adee6deee"
       }
     ]
   },
@@ -104,12 +104,12 @@
     "match_time": "2026-09-05T09:30:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Unam Pumas Women VS Club America Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788601321-0-0-bcac80a267d24de723b49df84fd6052c"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788601501-0-0-6594831aea50e7efd391affe8cf430d4"
       }
     ]
   }
