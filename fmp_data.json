@@ -1,81 +1,5 @@
 [
   {
-    "id": "50972",
-    "home_name": "Stade DE Reims",
-    "home_img": "https://s.fmp.live/live/teams/logos/19879.png",
-    "away_name": "Guingamp",
-    "away_img": "https://s.fmp.live/live/teams/logos/10366.png",
-    "league": "French Ligue 2",
-    "match_time": "2026-09-05T18:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "စ်တတ် ဒို့ ရန့်စ် (သို့မဟုတ်) စ် တတ် ဒို့ ရိမ်းစ် VS ဂဲင် ဂမ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884018.m3u8?auth_key=1788637322-0-0-55011908696ea4a8df8a0f56da1a088b"
-      }
-    ]
-  },
-  {
-    "id": "50973",
-    "home_name": "Metz",
-    "home_img": "https://s.fmp.live/live/teams/logos/10975.png",
-    "away_name": "Rodez Aveyron",
-    "away_img": "https://s.fmp.live/live/teams/logos/13036.png",
-    "league": "French Ligue 2",
-    "match_time": "2026-09-05T18:30:00+08:00",
-    "match_status": true,
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "မက်စ် VS ရိုဒဲ့ဇ် အာဗေရွန်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884019.m3u8?auth_key=1788637322-0-0-c1ca1b14078b758885e03ea78d619b72"
-      }
-    ]
-  },
-  {
-    "id": "50974",
-    "home_name": "FA 2000",
-    "home_img": "https://s.fmp.live/live/teams/logos/24379.png",
-    "away_name": "Skive IK",
-    "away_img": "https://s.fmp.live/live/teams/logos/17542.png",
-    "league": "Danish 2nd Division",
-    "match_time": "2026-09-05T18:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "FA 2000 VS Skive IK",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347b0.m3u8?auth_key=1788637322-0-0-b95f07242a4fcd30538b8a54a36caffe"
-      }
-    ]
-  },
-  {
-    "id": "50975",
-    "home_name": "Prykarpattya Ivano Frankivsk",
-    "home_img": "https://s.fmp.live/live/teams/logos/21138.png",
-    "away_name": "FK Oleksandria",
-    "away_img": "https://s.fmp.live/live/teams/logos/21571.png",
-    "league": "Ukrainian First League",
-    "match_time": "2026-09-05T18:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Prykarpattya Ivano Frankivsk VS အက်ဖ်ကေ အိုလက်ဆန်ဒရီယာ",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce883f67.m3u8?auth_key=1788637322-0-0-f1d3ffb4cb04044a27cf2af14ae2cd7a"
-      }
-    ]
-  },
-  {
     "id": "50977",
     "home_name": "Rasisalai United",
     "home_img": "https://s.fmp.live/live/teams/logos/67985.png",
@@ -90,7 +14,7 @@
     "links": [
       {
         "name": "Rasisalai United VS ပို့တ် အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce88401b.m3u8?auth_key=1788637322-0-0-f90fe3bfde175a7be7dd30e929bc960e"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce88401b.m3u8?auth_key=1788637502-0-0-57de7a9db520a89628aa76614b05318f"
       }
     ]
   },
@@ -109,7 +33,7 @@
     "links": [
       {
         "name": "ဂျေ-ကေ တောလင်းနား ကယ်လဗ် VS JK Welco Elekter",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e111.m3u8?auth_key=1788637322-0-0-e0e9782d48e9df88debe0c52715a40ae"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e111.m3u8?auth_key=1788637502-0-0-b596103d7c3d06feffe184e668e62860"
       }
     ]
   },
@@ -128,7 +52,7 @@
     "links": [
       {
         "name": "FK Kaspyi Aktau VS  ကိုင်းရတ် အယ်လ်မာတီ",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb64.m3u8?auth_key=1788637322-0-0-6495ecc36b57803abfb878506e054ea9"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb64.m3u8?auth_key=1788637502-0-0-da01cf79ea0e7dcf5e56573be88f5406"
       }
     ]
   },
@@ -147,7 +71,7 @@
     "links": [
       {
         "name": "Fredericia VS Esbjerg",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce88401c.m3u8?auth_key=1788637322-0-0-0a540b4a5a3edcb1e2bc31d8054377e1"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce88401c.m3u8?auth_key=1788637502-0-0-4db689efa7bca17987c8b6303f77d24a"
       }
     ]
   },
@@ -166,7 +90,7 @@
     "links": [
       {
         "name": "Djurgardens Women VS FC Rosengard Women",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e201.m3u8?auth_key=1788637322-0-0-305bbf9c2ae12b1a3bfd3f8e596ff1e8"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e201.m3u8?auth_key=1788637502-0-0-b181762f23d0f99271f858b5a42afef0"
       }
     ]
   },
@@ -185,7 +109,26 @@
     "links": [
       {
         "name": "AB Akademisk VS Aalborg",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce88401d.m3u8?auth_key=1788637322-0-0-da74f155387866f5bf5c6c15490beefe"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce88401d.m3u8?auth_key=1788637502-0-0-bfc05adbdee059ff273330e60b04c764"
+      }
+    ]
+  },
+  {
+    "id": "50983",
+    "home_name": "Jahn Regensburg",
+    "home_img": "https://s.fmp.live/live/teams/logos/10854.png",
+    "away_name": "MSV Duisburg",
+    "away_img": "https://s.fmp.live/live/teams/logos/10239.png",
+    "league": "German 3.Liga",
+    "match_time": "2026-09-05T18:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "အက်စ် အက်စ် ဖော် ယာန် ရေး ဂန် စ ဘူရ်(ဂ်) VS အမ် အက်စ် ဖော် ဒွိုင် စ် ဘူရ်(ဂ်)",
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884023.m3u8?auth_key=1788637502-0-0-77e3bb16fead0245536c8774a290d081"
       }
     ]
   },
@@ -199,12 +142,12 @@
     "match_time": "2026-09-05T18:30:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 4,
+    "awayScore": 5,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "SV Meppen VS အက်ဖ် စီ ဇာ(ရ်) ဘ ရွတ် ခ် ကန်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884025.m3u8?auth_key=1788637322-0-0-5af84a8c303b4886863004c9226773cf"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884025.m3u8?auth_key=1788637502-0-0-62dea3a37bc2149e1e9a9e45f4a06e3e"
       }
     ]
   },
@@ -223,7 +166,7 @@
     "links": [
       {
         "name": "HIK Hellerup VS Brabrand",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347af.m3u8?auth_key=1788637322-0-0-2694c1efd440f9c11d09aa2144d5bd9f"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347af.m3u8?auth_key=1788637502-0-0-a1adb9c7f913287af9a52668d7a59787"
       }
     ]
   },
@@ -242,7 +185,7 @@
     "links": [
       {
         "name": "Roskilde VS VSK Aarhus",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347ad.m3u8?auth_key=1788637322-0-0-27c76598cf5e26820302c04a9aaa283e"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347ad.m3u8?auth_key=1788637502-0-0-d0d44136f1c880fb2c232340be32dc42"
       }
     ]
   },
@@ -261,7 +204,7 @@
     "links": [
       {
         "name": "ပရွိုင်စန် မွန်စတာ VS ဟာ ဖဲ(လ်) ဇေ",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884024.m3u8?auth_key=1788637322-0-0-e210e205f48bf92492eaa3fa57a9e5c3"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884024.m3u8?auth_key=1788637502-0-0-16f0fbec36db06d77be86dd5d2942c3e"
       }
     ]
   },
@@ -280,7 +223,7 @@
     "links": [
       {
         "name": "အက်စ် ဖော် ဗာ့(လ်) တ် ဟို့ဖ် မန်း ဟိုင်း(မ်) VS အက်စ် စီ ဖဲ(ရ်) လ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884026.m3u8?auth_key=1788637322-0-0-04e1c795bf21e858c6a69df685e644c5"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884026.m3u8?auth_key=1788637502-0-0-baafda49d7c9b621b843683b70247a0c"
       }
     ]
   },
@@ -299,7 +242,7 @@
     "links": [
       {
         "name": "Borneo FC Samarinda VS ပါရ် ဆာ တူ အန် ဆဲ ပါ(ခ်) ဘို လာ အင် ဒို နီး စီ ယား ဂျာ ကာ(ရ်) တာ",
-        "url": "https://pull.fmp.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f7.m3u8?auth_key=1788637322-0-0-0333ad66c156ad0b64f0e13e87f4e1fc"
+        "url": "https://pull.fmp.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f7.m3u8?auth_key=1788637502-0-0-b417aae7753e6c8b6a6737deeb4f2890"
       }
     ]
   },
@@ -318,7 +261,7 @@
     "links": [
       {
         "name": "ရာယောင်း အက်ဖ်စီ VS ပီ-တီ ပရာချူအပ် အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347c9.m3u8?auth_key=1788637322-0-0-6dc77cdda4f2eb26e8f34fcaa18e9afc"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347c9.m3u8?auth_key=1788637502-0-0-c81bfccffc1295a2e648b9e7989e6346"
       }
     ]
   },
@@ -332,12 +275,12 @@
     "match_time": "2026-09-05T19:00:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "တော်ပီဒို ဇော်ဒီနို VS ဂိုမဲလ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce8840ea.m3u8?auth_key=1788637322-0-0-1a43000c1033b9cdb806d6443085c968"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce8840ea.m3u8?auth_key=1788637502-0-0-e7d1a402a3f0ca2e84574295e47e1a4d"
       }
     ]
   },
@@ -356,7 +299,7 @@
     "links": [
       {
         "name": "ဗီဒ်ဇက်ဖ် ဝုဂျ် VS ရာဒိုမီယာ ရာဒိုမ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347cc.m3u8?auth_key=1788637322-0-0-c65ccc9d9f770011e67ee9cb9bb6c62c"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347cc.m3u8?auth_key=1788637502-0-0-fcceff14e3e9a56985c103fabdc23ec7"
       }
     ]
   },
@@ -375,7 +318,7 @@
     "links": [
       {
         "name": "ဖီယိုရင်တီးနား VS တိုရီနို",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347cd.m3u8?auth_key=1788637322-0-0-99f1be55c64d5e00151be17eafc1a8e9"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347cd.m3u8?auth_key=1788637502-0-0-8886f8316fd84221a04a4089ebce83bf"
       }
     ]
   },
@@ -394,7 +337,7 @@
     "links": [
       {
         "name": "ဂျိုင်းစ် VS ဟတ်ကန်",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1ef.m3u8?auth_key=1788637322-0-0-62561cf621943f976bd51e6d25ad0419"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1ef.m3u8?auth_key=1788637502-0-0-4fa5f02d4aa0dc9e095e9d39d93959f4"
       }
     ]
   },
@@ -413,7 +356,26 @@
     "links": [
       {
         "name": "ဒေယယ်ဖော့ရှ် အိုင် အက်ဖ် VS ဟာလ်မ်စတားဒ်",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1f0.m3u8?auth_key=1788637322-0-0-0f5ddbea58f8fe81d347dd8bc1870539"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1f0.m3u8?auth_key=1788637502-0-0-72a7bdcf3b14a04509327a545af42bd9"
+      }
+    ]
+  },
+  {
+    "id": "51000",
+    "home_name": "Dnister Zalishchyky",
+    "home_img": "https://s.fmp.live/live/teams/logos/94820.png",
+    "away_name": "Podillya Khmelnytskyi",
+    "away_img": "https://s.fmp.live/live/teams/logos/23187.png",
+    "league": "Ukrainian Second League",
+    "match_time": "2026-09-05T19:00:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Dnister Zalishchyky VS Podillya Khmelnytskyi",
+        "url": "https://pull.fmp.live/sla/1-6a79ee81b630e987f37621a0.m3u8?auth_key=1788637502-0-0-085775140f44b6263024c0d79691ecac"
       }
     ]
   },
@@ -432,26 +394,7 @@
     "links": [
       {
         "name": "FK Aktobe Lento VS ဂျဲနစ်စ် အက်စ်တာနာ",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7cb5.m3u8?auth_key=1788637322-0-0-17c20a72e98896a7accae37be13116ce"
-      }
-    ]
-  },
-  {
-    "id": "51002",
-    "home_name": "FC Zhetysu Taldykorgan",
-    "home_img": "https://s.fmp.live/live/teams/logos/17425.png",
-    "away_name": "Irtysh Pavlodar",
-    "away_img": "https://s.fmp.live/live/teams/logos/20104.png",
-    "league": "Kazakhstan Premier League",
-    "match_time": "2026-09-05T19:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "အက်ဖ်စီ ဂျက်တီဆူး တာလ်ဒီကော်ဂန် VS Irtysh Pavlodar",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347dc.m3u8?auth_key=1788637322-0-0-0313290f3d9cf06bbc5ae42fceb9c7b6"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7cb5.m3u8?auth_key=1788637502-0-0-e8c285cd9e498eea122bc0bb8acc5224"
       }
     ]
   },
@@ -470,7 +413,7 @@
     "links": [
       {
         "name": "Volga Ulyanovsk VS Arsenal Tula",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce8840d3.m3u8?auth_key=1788637322-0-0-0db00865310b905b94d05d088d2c7b7b"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce8840d3.m3u8?auth_key=1788637502-0-0-0662efb5fdb3255504d689cf5394cad1"
       }
     ]
   },
@@ -489,7 +432,7 @@
     "links": [
       {
         "name": "ဘာန်ဒါရ်မာစပေါ်ရ် VS ဘိုလူးစပေါ်ရ်",
-        "url": "https://pull.fmp.live/sla/1-6a7de316f23cddb5af5c861e.m3u8?auth_key=1788637322-0-0-1d18e82a11fc434ae83672dbcf3d900b"
+        "url": "https://pull.fmp.live/sla/1-6a7de316f23cddb5af5c861e.m3u8?auth_key=1788637502-0-0-68b644e0f330a59591ace497368e9b23"
       }
     ]
   },
@@ -508,7 +451,7 @@
     "links": [
       {
         "name": "စလားဗီးယား ပရာဟ VS FC Zbrojovka Brno",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce8840e4.m3u8?auth_key=1788637322-0-0-58faf11f53fab3f5993312da146a85d0"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce8840e4.m3u8?auth_key=1788637502-0-0-39fe37de807f1b0800f4429e65369b54"
       }
     ]
   },
@@ -527,7 +470,7 @@
     "links": [
       {
         "name": "Brasil U20 Women VS Tanzania U20 Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347d8.m3u8?auth_key=1788637322-0-0-53ceb7bf6f0b7118f300ad481249e929"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347d8.m3u8?auth_key=1788637502-0-0-8538457d3fb42dd81fb5660f6c6244c9"
       }
     ]
   },
@@ -546,7 +489,7 @@
     "links": [
       {
         "name": "Poland U20 Women VS Argentina U20 Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347d9.m3u8?auth_key=1788637322-0-0-0ae58ec29894039bb1a930c3eab7a757"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347d9.m3u8?auth_key=1788637502-0-0-026c5f0b11549c21330615b22e3a882d"
       }
     ]
   },
@@ -565,7 +508,7 @@
     "links": [
       {
         "name": "SudTirol VS ကာတန်ဇာရို",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347cf.m3u8?auth_key=1788637322-0-0-952ad721ccba59b71a142753b4c6303b"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347cf.m3u8?auth_key=1788637502-0-0-0c0a4f55cd226ada7f4e8e33f6f6eecd"
       }
     ]
   },
@@ -584,7 +527,7 @@
     "links": [
       {
         "name": "စလိုဗက်ကို VS ပါဒူဘီဆဲ",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce8840e3.m3u8?auth_key=1788637322-0-0-7bdb4caa7a3c1b899c371877e7bc26d6"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce8840e3.m3u8?auth_key=1788637502-0-0-3aa837cb4aac6d19b8d732d1c01a6829"
       }
     ]
   },
@@ -603,7 +546,7 @@
     "links": [
       {
         "name": "ဆစ်ဂ်မာ အိုလိုမောက် VS ဘိုဟီးမီးယန်းစ် ၁၉၀၅",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce8840e5.m3u8?auth_key=1788637322-0-0-d7054b17dd07a48900bea692bafa8458"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce8840e5.m3u8?auth_key=1788637502-0-0-ba8673a9906a07603eb746e0a6d1b1c6"
       }
     ]
   },
@@ -622,7 +565,7 @@
     "links": [
       {
         "name": "Hammarby Women VS IFK Norrkoping DFK Women",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1fe.m3u8?auth_key=1788637322-0-0-1143d8b75fc8020d81d95f7c83c5f795"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1fe.m3u8?auth_key=1788637502-0-0-926ef190df2e24733c17a3a3aca1388d"
       }
     ]
   },
@@ -641,7 +584,7 @@
     "links": [
       {
         "name": "Terengganu FC VS Penang FC",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347e2.m3u8?auth_key=1788637322-0-0-995f35d8fcee917f5def68e6216d3f9e"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347e2.m3u8?auth_key=1788637502-0-0-78c3e88b22dacb89f2d3dd18ca0cf4e4"
       }
     ]
   },
@@ -660,7 +603,7 @@
     "links": [
       {
         "name": "ပယ်နာဖီယဲလ် VS Academica Coimbra",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7cc3.m3u8?auth_key=1788637322-0-0-eacc96e387ee9879c0292d244ee4b48a"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7cc3.m3u8?auth_key=1788637502-0-0-7ac8e885ba7c0fd87d881d8419e7eb02"
       }
     ]
   },
@@ -679,7 +622,7 @@
     "links": [
       {
         "name": "Sogdiana Jizak VS Mashal Muborak",
-        "url": "https://pull.fmp.live/sla/1-6a789d16fae1431b1df9a1dc.m3u8?auth_key=1788637322-0-0-aa5e2a4f0364f1b6ba74d52ba8f5342d"
+        "url": "https://pull.fmp.live/sla/1-6a789d16fae1431b1df9a1dc.m3u8?auth_key=1788637502-0-0-b37b3a2689704447cb9cc7bdef0b545e"
       }
     ]
   },
@@ -698,7 +641,7 @@
     "links": [
       {
         "name": "အက်စ် စီ ပေဒါဘွန်း ၀၇ VS အက်စ်စီ ဖရိုင်းဘတ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34809.m3u8?auth_key=1788637322-0-0-d7ec226f2295e3778a45692010032537"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34809.m3u8?auth_key=1788637502-0-0-12b8900bdf400be953c160f27c903d92"
       }
     ]
   },
@@ -717,7 +660,7 @@
     "links": [
       {
         "name": "အက်စ်ဗီ ဝါဒါ ဘရီမင် VS အာဘီ လိုက်ပ်ဇစ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3480a.m3u8?auth_key=1788637322-0-0-ae45741d6729fd70c0f0836a1622a75a"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3480a.m3u8?auth_key=1788637502-0-0-7c774346aad00617d6484566a843b74a"
       }
     ]
   },
@@ -730,13 +673,13 @@
     "league": "Bundesliga",
     "match_time": "2026-09-05T20:00:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဘိုရုရှား မိုချန်ဂလာဘတ် VS အက်စ် ဗွီ အယ်လ်ဗာ့စ်ဘတ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3480b.m3u8?auth_key=1788637322-0-0-59b9850f0c12302e1e0f9fcaa3562c9a"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3480b.m3u8?auth_key=1788637502-0-0-ac55786a0a62c961efae4909ed279183"
       }
     ]
   },
@@ -755,7 +698,7 @@
     "links": [
       {
         "name": "ဟော့ဖန်ဟိုင်းမ် VS ဘိုရုရှား ဒေါ့မွန်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3480d.m3u8?auth_key=1788637322-0-0-a5b5cb558b514c687c6158cddab450c6"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3480d.m3u8?auth_key=1788637502-0-0-8d38882cb524a53b0682c850eab61ae1"
       }
     ]
   },
@@ -774,7 +717,7 @@
     "links": [
       {
         "name": "လေဗာကူဆင် VS အက်ဖ်စီ ယူနီယံ ဘာလင်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3480c.m3u8?auth_key=1788637322-0-0-96aa3449bf1231310ec353ca84b78acf"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3480c.m3u8?auth_key=1788637502-0-0-32b9f1dc45c27e0525a6b0c1a1aa6146"
       }
     ]
   },
@@ -793,7 +736,7 @@
     "links": [
       {
         "name": "ASK Voitsberg VS စတွန်း ဂရတ်ဇ်",
-        "url": "https://pull.fmp.live/sla/1-6a7f0a82eeaf4f1e6ae7e90d.m3u8?auth_key=1788637322-0-0-ca9540855326aa93fcf91585a6a73e9e"
+        "url": "https://pull.fmp.live/sla/1-6a7f0a82eeaf4f1e6ae7e90d.m3u8?auth_key=1788637502-0-0-ab72d03ea7966b34d442cf95b6a9ca83"
       }
     ]
   },
@@ -812,7 +755,7 @@
     "links": [
       {
         "name": "စ်တာလ် မီယဲလ်ယဲ့တ်စ် VS အို့ဒ်ရာ အိုပေါ်လဲ့",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb348a0.m3u8?auth_key=1788637322-0-0-479a0a2ffa86bbfb7c87ace428567e96"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb348a0.m3u8?auth_key=1788637502-0-0-8eafb1d0e66f7fbb15517052f6ba07d4"
       }
     ]
   },
@@ -825,32 +768,13 @@
     "league": "Poland Liga 1",
     "match_time": "2026-09-05T20:00:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "စ်တာလ် ဂျဲရှုဗ် VS ပေါ်လိုနီယာ ဗာရ်ရှာဗာ",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb348a1.m3u8?auth_key=1788637322-0-0-620278c0fb7a1fc9997fe26c20a56d75"
-      }
-    ]
-  },
-  {
-    "id": "51029",
-    "home_name": "Miedz Legnica",
-    "home_img": "https://s.fmp.live/live/teams/logos/18379.png",
-    "away_name": "Chrobry Glogow",
-    "away_img": "https://s.fmp.live/live/teams/logos/16895.png",
-    "league": "Poland Liga 1",
-    "match_time": "2026-09-05T20:00:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "မီယဲန့်ဂ်ျ လဲ့ဂ်နီ့တ်ဆာ VS ခရောဗရီ ဂ်ဝိုဂူ့ဖ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb348a5.m3u8?auth_key=1788637322-0-0-f364e11029602dc1ed5d7e00a17cf4f0"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb348a1.m3u8?auth_key=1788637502-0-0-fbc98ed20241eeaf6517136e8f9c2f04"
       }
     ]
   },
@@ -869,7 +793,7 @@
     "links": [
       {
         "name": "အက်ဖ်စီ ဘလောင်း ဗိုက်စ် လင့်ဇ် VS အက်ဖ်စီ ဗက်ကာ အင်းန်ဘရွတ်ခ်",
-        "url": "https://pull.fmp.live/sla/1-6a7f0a82eeaf4f1e6ae7e90c.m3u8?auth_key=1788637322-0-0-b53a18442ebed82fbb373af581f30144"
+        "url": "https://pull.fmp.live/sla/1-6a7f0a82eeaf4f1e6ae7e90c.m3u8?auth_key=1788637502-0-0-369da7f033d36a79fa06849fdea0d170"
       }
     ]
   },
@@ -888,7 +812,7 @@
     "links": [
       {
         "name": "ဖူလ်ဟမ် VS ခရစ္စတယ်လ် ပဲလေ့စ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884042.m3u8?auth_key=1788637322-0-0-1082293bf66be286ed5729c85d873419"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884042.m3u8?auth_key=1788637502-0-0-60d3b9e9afb5484cfc8bed1451b3edc9"
       }
     ]
   },
@@ -907,7 +831,7 @@
     "links": [
       {
         "name": "ဘရိုက်တန် VS လိဒ်စ် ယူနိုက်တက်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884043.m3u8?auth_key=1788637322-0-0-d82d0db27b23968fa00b2c52a73f140a"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884043.m3u8?auth_key=1788637502-0-0-288fec7b0b7455b184840a4ac9d84cbb"
       }
     ]
   },
@@ -926,7 +850,7 @@
     "links": [
       {
         "name": "ဘရန့်ဖို့ဒ် VS ဆန်းဒါးလန်း",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884044.m3u8?auth_key=1788637322-0-0-9711fc4124e4b6e67fc9b6cfdc345b58"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884044.m3u8?auth_key=1788637502-0-0-eb1cdd746b1dd92f69c3116528b1ff2c"
       }
     ]
   },
@@ -945,7 +869,83 @@
     "links": [
       {
         "name": "ဝက်စ် ဘရွန်မစ်ခ်ျ အဲလ်ဘီယွန် VS ဝက်ဖို့ဒ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884048.m3u8?auth_key=1788637322-0-0-7d635c8c086992fc132c7514cf9cc0fe"
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce884048.m3u8?auth_key=1788637502-0-0-fd155208a4543e5a19d5a8309eaee205"
+      }
+    ]
+  },
+  {
+    "id": "51038",
+    "home_name": "HNK Vukovar 1991",
+    "home_img": "https://s.fmp.live/live/teams/logos/18010.png",
+    "away_name": "HNK Cibalia",
+    "away_img": "https://s.fmp.live/live/teams/logos/10735.png",
+    "league": "Croatian First Football League",
+    "match_time": "2026-09-05T20:15:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "အိတ်ချ်အန်ကေ ဗူကိုဗာ ၁၉၉၁ VS HNK Cibalia",
+        "url": "https://pull.fmp.live/sla/1-6a841825e4f896100f610f03.m3u8?auth_key=1788637502-0-0-70558e4474a07ddbf0c38d4e362f0bd9"
+      }
+    ]
+  },
+  {
+    "id": "51039",
+    "home_name": "Atlético Tembetary",
+    "home_img": "https://s.fmp.live/live/teams/logos/53060.png",
+    "away_name": "Encarnacion FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/81732.png",
+    "league": "Paraguayan Division Intermedia",
+    "match_time": "2026-09-05T19:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Atlético Tembetary VS အန်ကာနာစီယွန် အက်ဖ်စီ",
+        "url": "https://pull.fmp.live/sla/1-6a93417906a083c458e56c52.m3u8?auth_key=1788637502-0-0-4b6e3e67d6e39edf6553f8b018e7ac71"
+      }
+    ]
+  },
+  {
+    "id": "51040",
+    "home_name": "Ekranas Panevezys",
+    "home_img": "https://s.fmp.live/live/teams/logos/13251.png",
+    "away_name": "FK Garliava",
+    "away_img": "https://s.fmp.live/live/teams/logos/40518.png",
+    "league": "Lithuanian I Lyga",
+    "match_time": "2026-09-05T19:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Ekranas Panevezys VS FK Garliava",
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347e3.m3u8?auth_key=1788637502-0-0-a2c342d2a812e2d409bf5003780b1325"
+      }
+    ]
+  },
+  {
+    "id": "51041",
+    "home_name": "Al-Sharjah",
+    "home_img": "https://s.fmp.live/live/teams/logos/16202.png",
+    "away_name": "Dubai United",
+    "away_img": "https://s.fmp.live/live/teams/logos/60082.png",
+    "league": "United Arab Emirates Adnoc Pro-League",
+    "match_time": "2026-09-05T20:15:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "အယ်လ်-ရှာဂျာ VS Dubai United",
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce88403f.m3u8?auth_key=1788637502-0-0-97fccc460890b69aa35289d34c860d7a"
       }
     ]
   }
