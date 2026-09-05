@@ -1,24 +1,5 @@
 [
   {
-    "id": "50846",
-    "home_name": "FC Juarez",
-    "home_img": "https://s.fmp.live/live/teams/logos/21062.png",
-    "away_name": "Pachuca",
-    "away_img": "https://s.fmp.live/live/teams/logos/11863.png",
-    "league": "Mexico Liga MX",
-    "match_time": "2026-09-05T09:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FINISHED",
-    "links": [
-      {
-        "name": "FC Juarez VS Pachuca",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788606362-0-0-7ed43a1557efe2257aa902056ebb778f"
-      }
-    ]
-  },
-  {
     "id": "50849",
     "home_name": "Avondale FC",
     "home_img": "https://s.fmp.live/live/teams/logos/28503.png",
@@ -33,7 +14,7 @@
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788606421-0-0-af2dd748cc6a61df3cc8bd8f0adbadf9"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788606602-0-0-ac7a4f57d6aee7ef5b2a32ffc115e14c"
       }
     ]
   },
@@ -52,7 +33,7 @@
     "links": [
       {
         "name": "Kahibah FC VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788606421-0-0-10e619d4680258661c3fd46a24030200"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788606602-0-0-b82087ad669caff100b9af4002eacf64"
       }
     ]
   },
@@ -71,7 +52,7 @@
     "links": [
       {
         "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788606362-0-0-8af2665ff597b648a41c29daeed65429"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788606541-0-0-537b718c518209b5d67d3fd7ca364e3d"
       }
     ]
   }
