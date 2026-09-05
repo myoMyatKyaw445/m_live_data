@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "FC Juarez VS Pachuca",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788602761-0-0-aae49e607920e625cf8dde2b7f4f3a81"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788602941-0-0-6afe941bbdb2658f4850f9b1366d3493"
       }
     ]
   },
@@ -29,11 +29,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 1,
-    "status": "HALF_TIME",
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "South Hobart VS Devonport City",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788602761-0-0-826a39101a68033e41fd40ed6a41db6f"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788602941-0-0-88cbcd4cfceb3c3007425f3fa50be6f6"
       }
     ]
   },
@@ -48,11 +48,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 1,
-    "status": "HALF_TIME",
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "Unam Pumas Women VS Club America Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788602761-0-0-60233e5af8aa9759578419bb065c36d8"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788602941-0-0-f266a70289cd0bd08a514aa56f4b8330"
       }
     ]
   },
@@ -71,7 +71,26 @@
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788602761-0-0-b7b5e95ea99e3b9cdc335b848bdd27d7"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788602941-0-0-ff9316cdc5fa6e32cfedeb88756d0b02"
+      }
+    ]
+  },
+  {
+    "id": "50850",
+    "home_name": "Kahibah FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/45497.png",
+    "away_name": "Newcastle Croatia",
+    "away_img": "https://s.fmp.live/live/teams/logos/82774.png",
+    "league": "Australia Northern New South Wales Premier League",
+    "match_time": "2026-09-05T10:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Kahibah FC VS နယူးကာဆယ် ခရိုအေးရှား",
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788602941-0-0-5e914efdbfe78cd31bf94913d9a7e1ef"
       }
     ]
   }
