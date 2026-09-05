@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788612482-0-0-0fe059cbc17bef8274bc7f2dd73b7af1"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788612662-0-0-83cea59baf8730172bc3bd7e5de58129"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Modbury Jets VS Adelaide Olympic",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788612482-0-0-8da2ccf1c27c70e962022380a4a8faaf"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788612662-0-0-d1c76c5f4cf19f1b4674caa7384b0eac"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Adelaide Raiders SC VS Adelaide Blue Eagles",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788612482-0-0-c5c13bd7da6769035bdb918f43b4e920"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788612662-0-0-c91eb74f7ff7f4cc71caf15cf572abf2"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "အက်(ဖ်)စီ ဘာဆာရာ ဟယိုးဂို VS Arterivo Wakayama",
-        "url": "https://pull.fmp.live/sla/1-6a9ac7f0e9d80a100cd8f628.m3u8?auth_key=1788612482-0-0-38c39107cf7d5b57ff4e10b926505a72"
+        "url": "https://pull.fmp.live/sla/1-6a9ac7f0e9d80a100cd8f628.m3u8?auth_key=1788612662-0-0-d91e2ffff3fbde61fb8ac7941628f5bf"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "Shizuoka Sangyo University Women VS Ehime FC Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34763.m3u8?auth_key=1788612482-0-0-ccc64dae26b28923971185886e12e26a"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34763.m3u8?auth_key=1788612662-0-0-9c35c8cc0d08d59fa31324200266bca9"
       }
     ]
   },
@@ -105,11 +105,11 @@
     "match_status": true,
     "homeScore": 3,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Yokohama FC Seagulls Women VS NGU Nagoya Women",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1a7.m3u8?auth_key=1788612482-0-0-f555ee8a00b32d26ee7a83eabdcc088a"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1a7.m3u8?auth_key=1788612662-0-0-f7dc3623377359638388e96f7f887fab"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "Ba VS Rewa FC",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63ef.m3u8?auth_key=1788612482-0-0-0a4fc394ce0323f54765458a232a7116"
+        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63ef.m3u8?auth_key=1788612662-0-0-d17c793a2801dd2898380813adf0613f"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "FC Bulleen Lions Women VS South Melbourne Women",
-        "url": "https://pull.fmp.live/sla/1-6a970bdb51b97c1e619dd8c4.m3u8?auth_key=1788612482-0-0-1222a5c16f8378db34af9d1518b8af9b"
+        "url": "https://pull.fmp.live/sla/1-6a970bdb51b97c1e619dd8c4.m3u8?auth_key=1788612662-0-0-f80084553acbd49f2260d8a8dc8d7cc5"
       }
     ]
   },
@@ -162,11 +162,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Fremantle City FC Women VS Perth RedStar Women",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f0.m3u8?auth_key=1788612482-0-0-5797359fb770f45f7bfe3888c022955a"
+        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f0.m3u8?auth_key=1788612662-0-0-e24cc478921d667a9db6659a5b03d5f7"
       }
     ]
   },
@@ -181,11 +181,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Canberra FC VS Queanbeyan City",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd77.m3u8?auth_key=1788612482-0-0-7a3fdc9a5381d746563818b223639873"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd77.m3u8?auth_key=1788612662-0-0-95977ac084f8a77d5c35ee8c2f3d63d9"
       }
     ]
   },
@@ -199,12 +199,12 @@
     "match_time": "2026-09-05T13:00:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Palmerston VS Darwin Olympics",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f1.m3u8?auth_key=1788612482-0-0-d5253698f4ba893b44820e3d1ddb6617"
+        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f1.m3u8?auth_key=1788612662-0-0-9bfa9d7ab398cb461bba63161c883913"
       }
     ]
   },
@@ -223,7 +223,7 @@
     "links": [
       {
         "name": "New Lambton FC Women VS Broadmeadow Magic Women",
-        "url": "https://pull.fmp.live/sla/1-6a9a576aeeaf4f1e6ae5c664.m3u8?auth_key=1788612482-0-0-0fd51fd5ed4b041cc0f49d995fbb3fe0"
+        "url": "https://pull.fmp.live/sla/1-6a9a576aeeaf4f1e6ae5c664.m3u8?auth_key=1788612662-0-0-f1fd615307960c7ad93adba7615d80a1"
       }
     ]
   }
