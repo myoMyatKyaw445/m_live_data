@@ -1,43 +1,5 @@
 [
   {
-    "id": "50864",
-    "home_name": "UNSW FC Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/81211.png",
-    "away_name": "Apia L Tigers Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/57260.png",
-    "league": "Australia New South Wales Women's League",
-    "match_time": "2026-09-05T13:30:00+08:00",
-    "match_status": false,
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FINISHED",
-    "links": [
-      {
-        "name": "ယူအန်အက်စ်ဒဗလျူ အက်ဖ်စီ ဝီမင်း VS Apia L Tigers Women",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f4.m3u8?auth_key=1788620282-0-0-48a8477ddb78fb634cd8a34fb2a179f2"
-      }
-    ]
-  },
-  {
-    "id": "50865",
-    "home_name": "Subiaco AFC",
-    "home_img": "https://s.fmp.live/live/teams/logos/29805.png",
-    "away_name": "Balga SC",
-    "away_img": "https://s.fmp.live/live/teams/logos/39939.png",
-    "league": "Western Australia State League 1",
-    "match_time": "2026-09-05T13:30:00+08:00",
-    "match_status": false,
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FINISHED",
-    "links": [
-      {
-        "name": "Subiaco AFC VS Balga SC",
-        "url": "https://pull.fmp.live/sla/1-6a9a819fcc54bda3f6b37c2c.m3u8?auth_key=1788620282-0-0-104b0246258e5592e8272fe51e476b5e"
-      }
-    ]
-  },
-  {
     "id": "50866",
     "home_name": "Joondalup City",
     "home_img": "https://s.fmp.live/live/teams/logos/22731.png",
@@ -52,26 +14,7 @@
     "links": [
       {
         "name": "Joondalup City VS Armadale SC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd78.m3u8?auth_key=1788620282-0-0-8b624e5c6e707ceef48cae4186079011"
-      }
-    ]
-  },
-  {
-    "id": "50867",
-    "home_name": "Peninsula Power",
-    "home_img": "https://s.fmp.live/live/teams/logos/29146.png",
-    "away_name": "Moreton City Excelsior FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/30410.png",
-    "league": "Australia National Premier Leagues Queensland",
-    "match_time": "2026-09-05T13:30:00+08:00",
-    "match_status": false,
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FINISHED",
-    "links": [
-      {
-        "name": "Peninsula Power VS Moreton City Excelsior FC",
-        "url": "https://pull.fmp.live/sla/1-6a95ba3793add94b379d42ad.m3u8?auth_key=1788620282-0-0-46c5debe49098a9d5be459c8f891c88e"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd78.m3u8?auth_key=1788620401-0-0-7fb8585ec9ce148345fc4805c37e919d"
       }
     ]
   },
@@ -90,7 +33,7 @@
     "links": [
       {
         "name": "Pyeongchang United FC VS Jecheon Citizen FC",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34759.m3u8?auth_key=1788620221-0-0-7a4b6a1b0d4ed2cf391d2de549c218e5"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34759.m3u8?auth_key=1788620401-0-0-0ffa275294a661976153246dd54f94aa"
       }
     ]
   },
@@ -109,7 +52,7 @@
     "links": [
       {
         "name": "ချန်းဝမ် စီးတီး VS ဒယ်ဂျွန် ကိုရေးလ်",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34773.m3u8?auth_key=1788620221-0-0-0d4eee7e886e1a4d9acd1edc492c7038"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34773.m3u8?auth_key=1788620401-0-0-8895765942ca14794a69853a60f79453"
       }
     ]
   },
@@ -128,7 +71,7 @@
     "links": [
       {
         "name": "Geumsan Insam FC VS Pyeongtaek Citizen",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475a.m3u8?auth_key=1788620221-0-0-15cc5fbe4fe48b318dae0b838914494d"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475a.m3u8?auth_key=1788620401-0-0-01e0e8931ee58064dbae3b5cdef5a4fb"
       }
     ]
   },
@@ -147,7 +90,7 @@
     "links": [
       {
         "name": "Viamaterras Miyazaki Women VS AS Harima ALBION Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34772.m3u8?auth_key=1788620221-0-0-fdd5de47bd4f9e398e8b6f114e9f6e98"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34772.m3u8?auth_key=1788620401-0-0-fb949fe3522d51dbde78d1e4247a9f56"
       }
     ]
   },
@@ -166,7 +109,7 @@
     "links": [
       {
         "name": "WFC Zvezda-2005 Perm Women VS CSKA Moscow Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347a0.m3u8?auth_key=1788620221-0-0-ad1b851ed8d1cc4c77d828bde2fe1228"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb347a0.m3u8?auth_key=1788620401-0-0-223ada64fabbbe14b769863421bdfab8"
       }
     ]
   },
@@ -185,7 +128,7 @@
     "links": [
       {
         "name": "Northern Tigers VS St George Saints",
-        "url": "https://pull.fmp.live/sla/1-6a9a819fcc54bda3f6b37c2e.m3u8?auth_key=1788620221-0-0-a3ab50b187caa68b49f5e3ce9dccba54"
+        "url": "https://pull.fmp.live/sla/1-6a9a819fcc54bda3f6b37c2e.m3u8?auth_key=1788620401-0-0-31be59c081b3044de31bad6daff0bc6b"
       }
     ]
   },
@@ -204,7 +147,7 @@
     "links": [
       {
         "name": "Port Darwin FC VS University Azzurri FC",
-        "url": "https://pull.fmp.live/sla/1-6a9a9dc55d79ffdae2d56e9d.m3u8?auth_key=1788620221-0-0-e4b33f7076eae34354e10a6cdfce9753"
+        "url": "https://pull.fmp.live/sla/1-6a9a9dc55d79ffdae2d56e9d.m3u8?auth_key=1788620401-0-0-e90cf9e57e0c13d2b20b5b48e7446057"
       }
     ]
   },
@@ -223,7 +166,7 @@
     "links": [
       {
         "name": "ဘာ ယာန် ဂါ ရာ ပ ရေ စီ စီ အင် ဒို နီး စီ ယား အက်ဖ် စီ VS ပါရ် စေ ဘာ ယာ ဆူ ရာ ဘာ ယာ",
-        "url": "https://pull.fmp.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f5.m3u8?auth_key=1788620221-0-0-7faa1a463349e8fa8af731fa151bbb1c"
+        "url": "https://pull.fmp.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f5.m3u8?auth_key=1788620401-0-0-60efa47af5ec6d56fe6f6062819b2364"
       }
     ]
   },
@@ -242,7 +185,7 @@
     "links": [
       {
         "name": "ပေ အက်စ် အီ အမ် ယာဂ် ဂျာ ကာ(ရ်) တာ VS ပါရ် စီ တာ တန် ဂါ ရန်(ဂ်)",
-        "url": "https://pull.fmp.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f3.m3u8?auth_key=1788620221-0-0-de0ac2f0402f28bf0b7ae7a39aef6af5"
+        "url": "https://pull.fmp.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f3.m3u8?auth_key=1788620401-0-0-d46d02c3c9a64af1c18b6dcdcf155cfa"
       }
     ]
   },
@@ -261,7 +204,7 @@
     "links": [
       {
         "name": "FC Kurim VS Sokol Tasovice",
-        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163ef.m3u8?auth_key=1788620221-0-0-996e8e91cdde7966145f0dd987123c5f"
+        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163ef.m3u8?auth_key=1788620401-0-0-7d3b6295a48601720e7d6a5c402ecf73"
       }
     ]
   },
@@ -275,12 +218,12 @@
     "match_time": "2026-09-05T14:45:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "SK Mondi Steti VS FK Chomutov",
-        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163ec.m3u8?auth_key=1788620221-0-0-6756f5feb35e415e6e846ffe69b9b8fc"
+        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163ec.m3u8?auth_key=1788620401-0-0-f0a9bce09b88ececb9aa2288eb8df04a"
       }
     ]
   },
@@ -299,7 +242,7 @@
     "links": [
       {
         "name": "FC Vratimov VS Frydlant Nad Ostravici",
-        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163f0.m3u8?auth_key=1788620221-0-0-28afd347c34d58b2efa9b19a604837b4"
+        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163f0.m3u8?auth_key=1788620401-0-0-cd59af4c8a293c1d584be8033b0ade8a"
       }
     ]
   },
@@ -318,7 +261,7 @@
     "links": [
       {
         "name": "Cechie Vykan VS Dvur Kralove nad Labem",
-        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163f1.m3u8?auth_key=1788620221-0-0-189cc90c3c2fb31c2b2118955703c392"
+        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163f1.m3u8?auth_key=1788620401-0-0-f9a2ffb28e5dd519ffcdf9db37ac63b8"
       }
     ]
   },
@@ -337,7 +280,7 @@
     "links": [
       {
         "name": "Komarov VS FK Okula Nyrsko",
-        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163f2.m3u8?auth_key=1788620221-0-0-20656ce929ca4a8b5782288e9d76d70f"
+        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163f2.m3u8?auth_key=1788620401-0-0-fb1d585bd9ebb2d21cc0bfb43382fe37"
       }
     ]
   },
@@ -356,7 +299,7 @@
     "links": [
       {
         "name": "FC Sparta Brno VS AFC Humpolec",
-        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163f3.m3u8?auth_key=1788620221-0-0-1d523a883bfc0b2eed84dbc09b4be893"
+        "url": "https://pull.fmp.live/sla/1-6a9a1f40887f4671899163f3.m3u8?auth_key=1788620401-0-0-f99efdafbf53769fe78fd4b5a91811c0"
       }
     ]
   },
@@ -375,7 +318,64 @@
     "links": [
       {
         "name": "မတ်ဆုမိုတို ယာမာဂါ အက်ဖ်စီ VS အက်ဖ်စီ အိုဆာကာ",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3477f.m3u8?auth_key=1788620221-0-0-96dec4a9ac3038bb41749dfafc43095f"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3477f.m3u8?auth_key=1788620401-0-0-8caa84ccad02434aa3ddb834dcc658c2"
+      }
+    ]
+  },
+  {
+    "id": "50886",
+    "home_name": "SC Sagamihara",
+    "home_img": "https://s.fmp.live/live/teams/logos/29963.png",
+    "away_name": "AC Nagano Parceiro",
+    "away_img": "https://s.fmp.live/live/teams/logos/32417.png",
+    "league": "Japanese J3 League",
+    "match_time": "2026-09-05T15:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "အက်စ်စီ ဆာဂါမီဟာရား VS အေစီ နာဂါနို ပါဆေအီရို",
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34780.m3u8?auth_key=1788620401-0-0-86fc89fc350b219adefb94e1f365044e"
+      }
+    ]
+  },
+  {
+    "id": "50887",
+    "home_name": "Kamatamare Sanuki",
+    "home_img": "https://s.fmp.live/live/teams/logos/28161.png",
+    "away_name": "Reilac Shiga FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/29179.png",
+    "league": "Japanese J3 League",
+    "match_time": "2026-09-05T15:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ကာမာတာမာရေ ဆာနူကီ VS Reilac Shiga FC",
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34781.m3u8?auth_key=1788620401-0-0-b194633be637cf9b22951d3b480964a0"
+      }
+    ]
+  },
+  {
+    "id": "50888",
+    "home_name": "FC Gifu",
+    "home_img": "https://s.fmp.live/live/teams/logos/19641.png",
+    "away_name": "Zweigen Kanazawa FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/20673.png",
+    "league": "Japanese J3 League",
+    "match_time": "2026-09-05T15:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "FC Gifu VS ဇဗိုင်းဂန် ကာနာဇာဝါ အက်ဖ်စီ",
+        "url": "https://pull.fmp.live/sla/1-6a7b402e018287f1ce883fc8.m3u8?auth_key=1788620401-0-0-7c6ff82d7693e0a430728fa4466eb698"
       }
     ]
   }
