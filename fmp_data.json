@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788610861-0-0-42cf7b3b4fcf187593779c9617622f31"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788611042-0-0-9ca6f0ab2b97621380e566267e1ac0c8"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Modbury Jets VS Adelaide Olympic",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788610861-0-0-7f48d09c6edbd4ce7d2a10aedc40d3e1"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788611042-0-0-147903ebc7d9b5062ec2c671846a15ad"
       }
     ]
   },
@@ -46,13 +46,13 @@
     "league": "South Australia State League 1",
     "match_time": "2026-09-05T12:00:00+08:00",
     "match_status": true,
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Adelaide Raiders SC VS Adelaide Blue Eagles",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788610861-0-0-933f216efe1ed80c43f620d758c4b202"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788611042-0-0-76dbff036fac59eeec8034eb59115009"
       }
     ]
   },
@@ -67,11 +67,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 2,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "အက်(ဖ်)စီ ဘာဆာရာ ဟယိုးဂို VS Arterivo Wakayama",
-        "url": "https://pull.fmp.live/sla/1-6a9ac7f0e9d80a100cd8f628.m3u8?auth_key=1788610861-0-0-a36f490b4f3d41f39dec0012f7cef1c6"
+        "url": "https://pull.fmp.live/sla/1-6a9ac7f0e9d80a100cd8f628.m3u8?auth_key=1788611042-0-0-99b0dede9872846c58afc7c04a55a0a2"
       }
     ]
   },
@@ -84,13 +84,13 @@
     "league": "Japanese Nadeshiko League 1",
     "match_time": "2026-09-05T12:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Shizuoka Sangyo University Women VS Ehime FC Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34763.m3u8?auth_key=1788610861-0-0-5d3d6812746307f5556d2547670e42ae"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34763.m3u8?auth_key=1788611042-0-0-79ce0b240423db39e65aa9478b67787e"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "Yokohama FC Seagulls Women VS NGU Nagoya Women",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1a7.m3u8?auth_key=1788610861-0-0-331f5941eb474f8f43197cd4f72cead5"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1a7.m3u8?auth_key=1788611042-0-0-4e4231f24963c417078e98fff0acebf5"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "Ba VS Rewa FC",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63ef.m3u8?auth_key=1788610861-0-0-4d372d6c5a05b8524d642d8b1693313f"
+        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63ef.m3u8?auth_key=1788611042-0-0-6d56ade0717220ac102991139253b1c9"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "FC Bulleen Lions Women VS South Melbourne Women",
-        "url": "https://pull.fmp.live/sla/1-6a970bdb51b97c1e619dd8c4.m3u8?auth_key=1788610861-0-0-097f873a8c2ad110df236c08adebb88b"
+        "url": "https://pull.fmp.live/sla/1-6a970bdb51b97c1e619dd8c4.m3u8?auth_key=1788611042-0-0-d0737388fe194226ce3906e6e0600983"
       }
     ]
   },
@@ -166,7 +166,7 @@
     "links": [
       {
         "name": "Fremantle City FC Women VS Perth RedStar Women",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f0.m3u8?auth_key=1788610861-0-0-5669b5848034246327678aa3d3a3c086"
+        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f0.m3u8?auth_key=1788611042-0-0-efbc13a62998da0684db7a128a1b3582"
       }
     ]
   },
@@ -185,7 +185,7 @@
     "links": [
       {
         "name": "Canberra FC VS Queanbeyan City",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd77.m3u8?auth_key=1788610861-0-0-2c617db8d58719d3c0daf21d979286cd"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd77.m3u8?auth_key=1788611042-0-0-feeee92877d07dda05dd95112d4daf5e"
       }
     ]
   }
