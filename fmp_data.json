@@ -14,26 +14,7 @@
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788609061-0-0-e8f71cdcd33ee0e35d497f38fca935d0"
-      }
-    ]
-  },
-  {
-    "id": "50850",
-    "home_name": "Kahibah FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/45497.png",
-    "away_name": "Newcastle Croatia",
-    "away_img": "https://s.fmp.live/live/teams/logos/82774.png",
-    "league": "Australia Northern New South Wales Premier League",
-    "match_time": "2026-09-05T10:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Kahibah FC VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788609061-0-0-d98ace43668d4cd924bde7d8b237ef3f"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788609241-0-0-323d84c10badbd801ccfc15a91d7c3ba"
       }
     ]
   },
@@ -48,11 +29,11 @@
     "match_status": true,
     "homeScore": 2,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788609061-0-0-b66ae884a4833f17cc5e1f07069a1561"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788609241-0-0-d6342bc613f05c3d5f647a3b1667655c"
       }
     ]
   },
@@ -71,7 +52,7 @@
     "links": [
       {
         "name": "Cashmere Technical VS Fencibles United",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788609061-0-0-205d9284189e47b5703b38ad1bb3da1d"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788609241-0-0-b22dad8910bd8af53a0e617ba8d7dc14"
       }
     ]
   },
@@ -90,7 +71,7 @@
     "links": [
       {
         "name": "Adelaide Raiders SC VS Adelaide Blue Eagles",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788609061-0-0-cceadeff1834337710478d85e0c55d12"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788609241-0-0-ec4f5bb15020819d171d62995b98a34f"
       }
     ]
   },
@@ -109,7 +90,7 @@
     "links": [
       {
         "name": "အက်(ဖ်)စီ ဘာဆာရာ ဟယိုးဂို VS Arterivo Wakayama",
-        "url": "https://pull.fmp.live/sla/1-6a9ac7f0e9d80a100cd8f628.m3u8?auth_key=1788609061-0-0-0be1c768ff1dc77683cd2af4c6c5180a"
+        "url": "https://pull.fmp.live/sla/1-6a9ac7f0e9d80a100cd8f628.m3u8?auth_key=1788609241-0-0-15163a187e3876b970bbbe62eed4c944"
       }
     ]
   }
