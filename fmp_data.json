@@ -1,24 +1,5 @@
 [
   {
-    "id": "50842",
-    "home_name": "New Zealand U19",
-    "home_img": "https://s.fmp.live/live/teams/logos/13605.png",
-    "away_name": "Fiji U19",
-    "away_img": "https://s.fmp.live/live/teams/logos/47580.png",
-    "league": "OFC U19 Championship",
-    "match_time": "2026-09-05T08:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "New Zealand U19 VS Fiji U19",
-        "url": "https://pull.fmp.live/sla/1-6a934f7693add94b378851fa.m3u8?auth_key=1788601682-0-0-2d80f66a6a0e803a1759f65707c38f7f"
-      }
-    ]
-  },
-  {
     "id": "50843",
     "home_name": "Bay FC (w)",
     "home_img": "https://s.fmp.live/live/teams/logos/80875.png",
@@ -33,7 +14,7 @@
     "links": [
       {
         "name": "ဘေး အက်ဖ်စီ (အမျိုးသမီး) VS Kansas City Current Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34756.m3u8?auth_key=1788601682-0-0-430b9b7c1d3eabe443f3a231357a924e"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34756.m3u8?auth_key=1788601862-0-0-0b775b7138b3ebb299f047a6794a2a8c"
       }
     ]
   },
@@ -52,7 +33,7 @@
     "links": [
       {
         "name": "Atlas Women VS Chivas Guadalajara Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475b.m3u8?auth_key=1788601682-0-0-61c3d55df5799e1390193a7c9de6921a"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475b.m3u8?auth_key=1788601862-0-0-dd38cba5ec90efc8b13a1ac79f085cf3"
       }
     ]
   },
@@ -71,7 +52,7 @@
     "links": [
       {
         "name": "FC Juarez VS Pachuca",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788601682-0-0-78af17c522d7102fbe25eb3e6d6e81e3"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475c.m3u8?auth_key=1788601862-0-0-4b6d512c8753bfcd41b16eade17ae7f0"
       }
     ]
   },
@@ -86,11 +67,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "South Hobart VS Devonport City",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788601682-0-0-dc20dc573aec05a364a2161ac2fadbd3"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85158.m3u8?auth_key=1788601862-0-0-3807fe1e7e0818d7817c3f29f13e001a"
       }
     ]
   },
@@ -105,11 +86,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Unam Pumas Women VS Club America Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788601682-0-0-3c70431840e114457abcce5d715d837b"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475e.m3u8?auth_key=1788601862-0-0-4c144bac2819c9e6257ab115477e4e3f"
       }
     ]
   }
