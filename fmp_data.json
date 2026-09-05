@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Avondale FC VS Preston Lions",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788607802-0-0-ee930844aa93e0f30e5d5394824ab332"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4a.m3u8?auth_key=1788607983-0-0-4f6c5346ae912aa5fd0af0dec7c366e4"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Kahibah FC VS နယူးကာဆယ် ခရိုအေးရှား",
-        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788607802-0-0-f64bbf2c435d2becc91e03a592ae0158"
+        "url": "https://pull.fmp.live/sla/1-6a95c85ce4f896100ff85159.m3u8?auth_key=1788607983-0-0-8ab5a407baa7578ae54e5647fc0281be"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Broadbeach United VS Sunshine Coast Wanderers FC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788607802-0-0-13fde6a62e2eaf5c559fe0b5062d2e71"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd76.m3u8?auth_key=1788607983-0-0-5f738b8ffa27f579790fc2926faeee22"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Cashmere Technical VS Fencibles United",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788607802-0-0-450877a50731ad43b73286628e168131"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb47.m3u8?auth_key=1788607983-0-0-e7af717464b0249cdacebfe6842a5cb6"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "Modbury Jets VS Adelaide Olympic",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788607802-0-0-abd8e3caa4a8ec3a130c213f60e88472"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4c.m3u8?auth_key=1788607983-0-0-b8437c09f3859ba84be5f2fa04f95aac"
       }
     ]
   },
@@ -102,14 +102,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/28779.png",
     "league": "South Australia State League 1",
     "match_time": "2026-09-05T12:00:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "Adelaide Raiders SC VS Adelaide Blue Eagles",
-        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788607802-0-0-8f4996691163048bab51b831a9f75414"
+        "url": "https://pull.fmp.live/sla/1-6a9484f20f997065ce34bb4b.m3u8?auth_key=1788607983-0-0-b72b8e6979c15c0504f195fc3d717a75"
       }
     ]
   }
