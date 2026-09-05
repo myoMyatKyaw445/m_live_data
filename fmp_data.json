@@ -1,43 +1,5 @@
 [
   {
-    "id": "50856",
-    "home_name": "Shizuoka Sangyo University Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/22284.png",
-    "away_name": "Ehime FC Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/26451.png",
-    "league": "Japanese Nadeshiko League 1",
-    "match_time": "2026-09-05T12:30:00+08:00",
-    "match_status": true,
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Shizuoka Sangyo University Women VS Ehime FC Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34763.m3u8?auth_key=1788616261-0-0-02b6206274d919d2100dfd4d55a46753"
-      }
-    ]
-  },
-  {
-    "id": "50857",
-    "home_name": "Yokohama FC Seagulls Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/15763.png",
-    "away_name": "NGU Nagoya Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/16411.png",
-    "league": "Japanese Nadeshiko League 1",
-    "match_time": "2026-09-05T12:30:00+08:00",
-    "match_status": true,
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Yokohama FC Seagulls Women VS NGU Nagoya Women",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e1a7.m3u8?auth_key=1788616261-0-0-9ec4fe850d890d2efb9be04c2b787dc2"
-      }
-    ]
-  },
-  {
     "id": "50859",
     "home_name": "FC Bulleen Lions Women",
     "home_img": "https://s.fmp.live/live/teams/logos/26381.png",
@@ -45,52 +7,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/21919.png",
     "league": "Australia Victorian Women's Premier League",
     "match_time": "2026-09-05T12:30:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 1,
     "awayScore": 1,
-    "status": "SECOND_HALF",
+    "status": "EXTRA_TIME",
     "links": [
       {
         "name": "FC Bulleen Lions Women VS South Melbourne Women",
-        "url": "https://pull.fmp.live/sla/1-6a970bdb51b97c1e619dd8c4.m3u8?auth_key=1788616261-0-0-ba1d8d7983c6d40d4345575dc32e6cab"
-      }
-    ]
-  },
-  {
-    "id": "50860",
-    "home_name": "Fremantle City FC Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/45751.png",
-    "away_name": "Perth RedStar Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/69747.png",
-    "league": "Western Australia Women's League",
-    "match_time": "2026-09-05T12:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Fremantle City FC Women VS Perth RedStar Women",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f0.m3u8?auth_key=1788616261-0-0-193fa0eca160b38d03e4855bb9c7abc9"
-      }
-    ]
-  },
-  {
-    "id": "50861",
-    "home_name": "Canberra FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/22738.png",
-    "away_name": "Queanbeyan City",
-    "away_img": "https://s.fmp.live/live/teams/logos/46215.png",
-    "league": "Australia National Premier Leagues Capital Football 1",
-    "match_time": "2026-09-05T12:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Canberra FC VS Queanbeyan City",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd77.m3u8?auth_key=1788616261-0-0-3cee5c4b66546a50dc909abe79065e87"
+        "url": "https://pull.fmp.live/sla/1-6a970bdb51b97c1e619dd8c4.m3u8?auth_key=1788616802-0-0-ed36fd383b38c1f2a0f8f660c1279b73"
       }
     ]
   },
@@ -109,7 +33,7 @@
     "links": [
       {
         "name": "Palmerston VS Darwin Olympics",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f1.m3u8?auth_key=1788616261-0-0-cf6726844ed15e58cc665de61fc3eede"
+        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f1.m3u8?auth_key=1788616802-0-0-db59c6c5c03809f1fc0fa236b61fe0e5"
       }
     ]
   },
@@ -122,13 +46,13 @@
     "league": "Australia New South Wales Women's Premier League",
     "match_time": "2026-09-05T13:00:00+08:00",
     "match_status": true,
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 2,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "New Lambton FC Women VS Broadmeadow Magic Women",
-        "url": "https://pull.fmp.live/sla/1-6a9a576aeeaf4f1e6ae5c664.m3u8?auth_key=1788616261-0-0-c38544c953ce1879aaa215dacba07d6d"
+        "url": "https://pull.fmp.live/sla/1-6a9a576aeeaf4f1e6ae5c664.m3u8?auth_key=1788616802-0-0-29eb9fb7d371ac798e62436db33bdd3b"
       }
     ]
   },
@@ -143,11 +67,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "ယူအန်အက်စ်ဒဗလျူ အက်ဖ်စီ ဝီမင်း VS Apia L Tigers Women",
-        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f4.m3u8?auth_key=1788616261-0-0-0cc54179bc2356d635004eefbba9ffae"
+        "url": "https://pull.fmp.live/sla/1-6a99a0b2fb009bc39fbd63f4.m3u8?auth_key=1788616802-0-0-ce3f5fbabe783baf47115e475f21db34"
       }
     ]
   },
@@ -162,11 +86,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Subiaco AFC VS Balga SC",
-        "url": "https://pull.fmp.live/sla/1-6a9a819fcc54bda3f6b37c2c.m3u8?auth_key=1788616261-0-0-1e51e051a46c45c026324df4bc70c2e6"
+        "url": "https://pull.fmp.live/sla/1-6a9a819fcc54bda3f6b37c2c.m3u8?auth_key=1788616802-0-0-faa87317a79b3c900c03afd953c3d934"
       }
     ]
   },
@@ -181,11 +105,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Joondalup City VS Armadale SC",
-        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd78.m3u8?auth_key=1788616261-0-0-bebcce96cb5aef5b53d0ef36c6780a43"
+        "url": "https://pull.fmp.live/sla/1-6a984fd76b72017e628bfd78.m3u8?auth_key=1788616802-0-0-c4a64517677059fc1d3baf55fa399b41"
       }
     ]
   },
@@ -200,11 +124,11 @@
     "match_status": true,
     "homeScore": 2,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Peninsula Power VS Moreton City Excelsior FC",
-        "url": "https://pull.fmp.live/sla/1-6a95ba3793add94b379d42ad.m3u8?auth_key=1788616261-0-0-299d5fe13c7fa8ff0f992ed6b67b121f"
+        "url": "https://pull.fmp.live/sla/1-6a95ba3793add94b379d42ad.m3u8?auth_key=1788616802-0-0-7152e60b32409292617cfe92c66b2192"
       }
     ]
   },
@@ -219,11 +143,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Setagaya SfidWomen VS IGA Kunoichi Women",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34765.m3u8?auth_key=1788616261-0-0-f63eb2f623742a32e87f4e62401b9816"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34765.m3u8?auth_key=1788616802-0-0-5b481a111bd388ed426ebf74f9d5aac2"
       }
     ]
   },
@@ -238,11 +162,68 @@
     "match_status": true,
     "homeScore": 2,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "University of Fort Hare (W) VS City Lads FC Women",
-        "url": "https://pull.fmp.live/sla/1-6a9b9e1eb29a32ad12015f20.m3u8?auth_key=1788616261-0-0-2998b20a850f3d7cc25c5a58eb0dc311"
+        "url": "https://pull.fmp.live/sla/1-6a9b9e1eb29a32ad12015f20.m3u8?auth_key=1788616802-0-0-e5229e4caa440a362a008d17580df9b9"
+      }
+    ]
+  },
+  {
+    "id": "50870",
+    "home_name": "Pyeongchang United FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/20057.png",
+    "away_name": "Jecheon Citizen FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/92618.png",
+    "league": "Korean K League 4",
+    "match_time": "2026-09-05T14:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Pyeongchang United FC VS Jecheon Citizen FC",
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34759.m3u8?auth_key=1788616802-0-0-14cbc3becc7f5f1c1092c4b05f46455e"
+      }
+    ]
+  },
+  {
+    "id": "50871",
+    "home_name": "Changwon City",
+    "home_img": "https://s.fmp.live/live/teams/logos/19763.png",
+    "away_name": "Daejeon Korail",
+    "away_img": "https://s.fmp.live/live/teams/logos/19760.png",
+    "league": "Korean K League 3 ",
+    "match_time": "2026-09-05T14:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ချန်းဝမ် စီးတီး VS ဒယ်ဂျွန် ကိုရေးလ်",
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb34773.m3u8?auth_key=1788616802-0-0-474c3c99d2a06a94191f5d68cc3cc5f1"
+      }
+    ]
+  },
+  {
+    "id": "50872",
+    "home_name": "Geumsan Insam FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/92615.png",
+    "away_name": "Pyeongtaek Citizen",
+    "away_img": "https://s.fmp.live/live/teams/logos/40097.png",
+    "league": "Korean K League 4",
+    "match_time": "2026-09-05T14:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Geumsan Insam FC VS Pyeongtaek Citizen",
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3475a.m3u8?auth_key=1788616802-0-0-f3561a9fbc65bd7a3f634259f907a54a"
       }
     ]
   }
