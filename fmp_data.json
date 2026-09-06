@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Yangpyeong VS စီဟီးရောင်း စီးတီး",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7bf8.m3u8?auth_key=1788708301-0-0-425203351d3cdf2f0cf76fe34641668a"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7bf8.m3u8?auth_key=1788708421-0-0-9258afdea3f11f70ad894d9bd852c348"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Haman FC VS Jincheon HR FC",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e198.m3u8?auth_key=1788708301-0-0-202f71c43817566e33a0ba56b6c4745e"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e198.m3u8?auth_key=1788708421-0-0-4924faf361d0550a861c9352b9323aec"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "မာ လွတ် ယူ နိုက် တက်(ဒ်) VS Garudayaksa FC",
-        "url": "https://pull.fmp.live/sla/1-6a7f1887eeaf4f1e6ae820f3.m3u8?auth_key=1788708241-0-0-9a079d65e1e75a747f71f3c0d6a06a5b"
+        "url": "https://pull.fmp.live/sla/1-6a7f1887eeaf4f1e6ae820f3.m3u8?auth_key=1788708421-0-0-70a197d08bc3f6b0e1c2884c461e13dd"
       }
     ]
   },
@@ -66,12 +66,12 @@
     "match_time": "2026-09-06T15:30:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "ကာရှီးမား အန်တလာစ် VS အူရာဝါ ရက်(ဒ်) ဒိုင်းယားမွန်စ်",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c03.m3u8?auth_key=1788708241-0-0-537fcec4121521e4f5c7fdc4c1a2a5c1"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c03.m3u8?auth_key=1788708421-0-0-8ea5cb743dd230424b83e7befdda9d7d"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "Chinese Taipei U20 VS Singapore U20",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c42.m3u8?auth_key=1788708241-0-0-961c8a23c70a8bb7550ede7aae973626"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c42.m3u8?auth_key=1788708421-0-0-bb093c0c533aee382b55e5ad3c7d5f07"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "ယိုကိုဟားမား အက်ဖ်စီ VS အယ်(လ်)ဘီရက်ခ်စ် နီအီဂါတား",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c04.m3u8?auth_key=1788708241-0-0-e6e8b1709e8b80d9fef8067f4ea96f0b"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c04.m3u8?auth_key=1788708421-0-0-f8983138bd06d8f6ae137c5b3b9ee1ef"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "ဂျေအီးအက်ဖ် ယူနိုက်တက် အိချီဟာရား ချီဘား VS ဂမ်ဘာ အိုဆာကာ",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c00.m3u8?auth_key=1788708241-0-0-a2fc98b5e3c4a563bbec7a583bf80b73"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c00.m3u8?auth_key=1788708421-0-0-cb20acedc44db8e6828cf6a95379f6f0"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "နာဂိုယား ဂရမ်ပို့စ် VS မာချီဒါ ဇယ်(လ်)ဗီယား",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c01.m3u8?auth_key=1788708241-0-0-80c94af3faaaa8b16d6620b6ed9e0954"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c01.m3u8?auth_key=1788708421-0-0-578a1bbd43be6b8b7a203567f0e733d8"
       }
     ]
   },
@@ -160,13 +160,13 @@
     "league": "Japanese J1 League",
     "match_time": "2026-09-06T15:30:00+08:00",
     "match_status": true,
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဖာဂျီယာနို အိုကာယာမား VS ဆန်ဖရက်ချဲ ဟီရိုရှိးမား",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c02.m3u8?auth_key=1788708241-0-0-e482286a76ccc6740e7c42f8c6675bac"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c02.m3u8?auth_key=1788708421-0-0-7de6c825c1906775b6fb3d4b6103f270"
       }
     ]
   },
@@ -185,7 +185,7 @@
     "links": [
       {
         "name": "ဖိုချောင်း အက်ဖ်စီ VS Yeoju Citizen",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c09.m3u8?auth_key=1788708241-0-0-12dbb9918f44b0998188343de45fbed3"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c09.m3u8?auth_key=1788708421-0-0-892a7053214b3ff01da904c845d25e17"
       }
     ]
   },
@@ -204,7 +204,7 @@
     "links": [
       {
         "name": "ရိုးအာဆို ခူမာမိုတို VS နာရား ကလပ်(ဘ်)",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c08.m3u8?auth_key=1788708241-0-0-e094ec8268037fbaf980cf54902371a7"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c08.m3u8?auth_key=1788708421-0-0-de5e336c75fcbe1eda0df1de49366a5f"
       }
     ]
   },
@@ -223,7 +223,7 @@
     "links": [
       {
         "name": "ဘလောက်ဘလစ်ဇ် အာကီတား VS အာဘီ အိုမီယား အာဒီဂျား",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c05.m3u8?auth_key=1788708241-0-0-a4c88ea2720447a49789949896a67997"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c05.m3u8?auth_key=1788708421-0-0-245c65d511cedf6bb8f05bf0191380a7"
       }
     ]
   },
@@ -242,7 +242,7 @@
     "links": [
       {
         "name": "Jinju Citizen VS Namyangju Citizen",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e19d.m3u8?auth_key=1788708241-0-0-7f6edaf4074e804beb0c2b512ae53842"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e19d.m3u8?auth_key=1788708421-0-0-851bbb3b82e4cc0d2181829f800467a0"
       }
     ]
   },
@@ -261,7 +261,7 @@
     "links": [
       {
         "name": "Korea DPR U20 VS Palestine U20",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c4f.m3u8?auth_key=1788708241-0-0-1a262b0d2bc311d001ee78c66e916d55"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c4f.m3u8?auth_key=1788708421-0-0-dd79f9be36d01106811d7b3e17fb4742"
       }
     ]
   },
@@ -280,7 +280,7 @@
     "links": [
       {
         "name": "Australia U20 VS Indonesia U20",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c46.m3u8?auth_key=1788708241-0-0-760f12e254f5f0d2f3a675624a997059"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c46.m3u8?auth_key=1788708421-0-0-9cc38436697b2695dd647d03f8a76e2f"
       }
     ]
   },
@@ -299,7 +299,7 @@
     "links": [
       {
         "name": "AC Milan U20 VS Juventus Youth",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3477e.m3u8?auth_key=1788708241-0-0-9132890edee0b266198ae45296c2214b"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3477e.m3u8?auth_key=1788708421-0-0-39ed4bf8297508b4e2f7725fc14cc2f1"
       }
     ]
   }
