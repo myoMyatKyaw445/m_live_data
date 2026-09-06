@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Yangpyeong VS စီဟီးရောင်း စီးတီး",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7bf8.m3u8?auth_key=1788706622-0-0-8e15e90f442634485d0edf56ef33a335"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7bf8.m3u8?auth_key=1788706861-0-0-3a3437f6c6e5873ddd62cb7a6dafe4b1"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Haman FC VS Jincheon HR FC",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e198.m3u8?auth_key=1788706622-0-0-f88bcf6139a06c6205bba06a85c0d2ab"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e198.m3u8?auth_key=1788706861-0-0-04296a48dd0e2a7d7df0ce2b42c0e38a"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "မာ လွတ် ယူ နိုက် တက်(ဒ်) VS Garudayaksa FC",
-        "url": "https://pull.fmp.live/sla/1-6a7f1887eeaf4f1e6ae820f3.m3u8?auth_key=1788706622-0-0-55473f9b15c3e3c91beb037ecd841240"
+        "url": "https://pull.fmp.live/sla/1-6a7f1887eeaf4f1e6ae820f3.m3u8?auth_key=1788706802-0-0-5965af922ecc72720ad44d9633a7955d"
       }
     ]
   },
@@ -71,7 +71,178 @@
     "links": [
       {
         "name": "ကာရှီးမား အန်တလာစ် VS အူရာဝါ ရက်(ဒ်) ဒိုင်းယားမွန်စ်",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c03.m3u8?auth_key=1788706622-0-0-d483ed1eae82f90b29b7b1576c7ed665"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c03.m3u8?auth_key=1788706802-0-0-edb499fa6add1c0b55e449f86fa209bc"
+      }
+    ]
+  },
+  {
+    "id": "51310",
+    "home_name": "Chinese Taipei U20",
+    "home_img": "https://s.fmp.live/live/teams/logos/72412.png",
+    "away_name": "Singapore U20",
+    "away_img": "https://s.fmp.live/live/teams/logos/19523.png",
+    "league": "AFC U20 Asian Cup",
+    "match_time": "2026-09-06T15:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Chinese Taipei U20 VS Singapore U20",
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c42.m3u8?auth_key=1788706802-0-0-4b41e41ab5e458171a6b8ed63f63b4f3"
+      }
+    ]
+  },
+  {
+    "id": "51311",
+    "home_name": "Yokohama FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/13756.png",
+    "away_name": "Albirex Niigata",
+    "away_img": "https://s.fmp.live/live/teams/logos/10066.png",
+    "league": "Japanese J2 League",
+    "match_time": "2026-09-06T15:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ယိုကိုဟားမား အက်ဖ်စီ VS အယ်(လ်)ဘီရက်ခ်စ် နီအီဂါတား",
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c04.m3u8?auth_key=1788706802-0-0-80a8de1dda61ce07ba22f1dba7881597"
+      }
+    ]
+  },
+  {
+    "id": "51312",
+    "home_name": "JEF United Ichihara Chiba",
+    "home_img": "https://s.fmp.live/live/teams/logos/10060.png",
+    "away_name": "Gamba Osaka",
+    "away_img": "https://s.fmp.live/live/teams/logos/10071.png",
+    "league": "Japanese J1 League",
+    "match_time": "2026-09-06T15:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ဂျေအီးအက်ဖ် ယူနိုက်တက် အိချီဟာရား ချီဘား VS ဂမ်ဘာ အိုဆာကာ",
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c00.m3u8?auth_key=1788706802-0-0-6240ede758b43d66f85ccecea16ad6dd"
+      }
+    ]
+  },
+  {
+    "id": "51313",
+    "home_name": "Nagoya Grampus",
+    "home_img": "https://s.fmp.live/live/teams/logos/10525.png",
+    "away_name": "Machida Zelvia",
+    "away_img": "https://s.fmp.live/live/teams/logos/25413.png",
+    "league": "Japanese J1 League",
+    "match_time": "2026-09-06T15:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "နာဂိုယား ဂရမ်ပို့စ် VS မာချီဒါ ဇယ်(လ်)ဗီယား",
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c01.m3u8?auth_key=1788706802-0-0-cbfa3826cd89eeaa8e96d3588c4b4335"
+      }
+    ]
+  },
+  {
+    "id": "51314",
+    "home_name": "Fagiano Okayama",
+    "home_img": "https://s.fmp.live/live/teams/logos/21978.png",
+    "away_name": "Sanfrecce Hiroshima",
+    "away_img": "https://s.fmp.live/live/teams/logos/10062.png",
+    "league": "Japanese J1 League",
+    "match_time": "2026-09-06T15:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ဖာဂျီယာနို အိုကာယာမား VS ဆန်ဖရက်ချဲ ဟီရိုရှိးမား",
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c02.m3u8?auth_key=1788706802-0-0-401b86ad75d44102092142517c68106c"
+      }
+    ]
+  },
+  {
+    "id": "51315",
+    "home_name": "Pocheon FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/20061.png",
+    "away_name": "Yeoju Citizen",
+    "away_img": "https://s.fmp.live/live/teams/logos/45259.png",
+    "league": "Korean K League 3 ",
+    "match_time": "2026-09-06T15:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "ဖိုချောင်း အက်ဖ်စီ VS Yeoju Citizen",
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c09.m3u8?auth_key=1788706802-0-0-1e0d468dac407f75c006650c4cedcab2"
+      }
+    ]
+  },
+  {
+    "id": "51316",
+    "home_name": "Roasso Kumamoto",
+    "home_img": "https://s.fmp.live/live/teams/logos/23959.png",
+    "away_name": "Nara Club",
+    "away_img": "https://s.fmp.live/live/teams/logos/27116.png",
+    "league": "Japanese J3 League",
+    "match_time": "2026-09-06T15:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ရိုးအာဆို ခူမာမိုတို VS နာရား ကလပ်(ဘ်)",
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c08.m3u8?auth_key=1788706802-0-0-e2737088da0d8960ee3eb72be82b9f17"
+      }
+    ]
+  },
+  {
+    "id": "51317",
+    "home_name": "Blaublitz Akita",
+    "home_img": "https://s.fmp.live/live/teams/logos/25412.png",
+    "away_name": "RB Omiya Ardija",
+    "away_img": "https://s.fmp.live/live/teams/logos/13543.png",
+    "league": "Japanese J2 League",
+    "match_time": "2026-09-06T15:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ဘလောက်ဘလစ်ဇ် အာကီတား VS အာဘီ အိုမီယား အာဒီဂျား",
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c05.m3u8?auth_key=1788706802-0-0-416a0b0a3ecf7038f4a60544bd471eb5"
+      }
+    ]
+  },
+  {
+    "id": "51318",
+    "home_name": "Jinju Citizen",
+    "home_img": "https://s.fmp.live/live/teams/logos/56749.png",
+    "away_name": "Namyangju Citizen",
+    "away_img": "https://s.fmp.live/live/teams/logos/19172.png",
+    "league": "Korean K League 4",
+    "match_time": "2026-09-06T15:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Jinju Citizen VS Namyangju Citizen",
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e19d.m3u8?auth_key=1788706802-0-0-9d92cb30fd4088cb92500a00d543d135"
       }
     ]
   }
