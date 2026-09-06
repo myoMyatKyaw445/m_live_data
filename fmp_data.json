@@ -10,11 +10,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 2,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Yangpyeong VS စီဟီးရောင်း စီးတီး",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7bf8.m3u8?auth_key=1788706081-0-0-12d097b11e06bca8b66fc8a504d14571"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7bf8.m3u8?auth_key=1788706262-0-0-8c2a472daa29c938c1046afcf8a16524"
       }
     ]
   },
@@ -29,11 +29,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Haman FC VS Jincheon HR FC",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e198.m3u8?auth_key=1788706081-0-0-c2498fe2ba7bd9faeb284a78b86786c6"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e198.m3u8?auth_key=1788706262-0-0-297075fcaad7894cc79c8f13af5b1b61"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "မာ လွတ် ယူ နိုက် တက်(ဒ်) VS Garudayaksa FC",
-        "url": "https://pull.fmp.live/sla/1-6a7f1887eeaf4f1e6ae820f3.m3u8?auth_key=1788706081-0-0-b835dfaffe6cef6dc964431590871bd5"
+        "url": "https://pull.fmp.live/sla/1-6a7f1887eeaf4f1e6ae820f3.m3u8?auth_key=1788706262-0-0-41d1a86ff5dc9b2dbd1a734e4a85ec6d"
       }
     ]
   }
