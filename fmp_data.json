@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Yangpyeong VS စီဟီးရောင်း စီးတီး",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7bf8.m3u8?auth_key=1788709501-0-0-0719b5d126ed1b3b3d9836d29cd9e993"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7bf8.m3u8?auth_key=1788709741-0-0-8fbf381ea10215c0cc6af840e25da5fe"
       }
     ]
   },
@@ -27,13 +27,13 @@
     "league": "Korean K League 4",
     "match_time": "2026-09-06T14:30:00+08:00",
     "match_status": true,
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Haman FC VS Jincheon HR FC",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e198.m3u8?auth_key=1788709501-0-0-8b6300f25d8e934c4794fbca86f8a184"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e198.m3u8?auth_key=1788709682-0-0-1a0dde924cb91b3f040b683e758420f5"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "မာ လွတ် ယူ နိုက် တက်(ဒ်) VS Garudayaksa FC",
-        "url": "https://pull.fmp.live/sla/1-6a7f1887eeaf4f1e6ae820f3.m3u8?auth_key=1788709501-0-0-f69abf3690285b2ae3f6f300af222039"
+        "url": "https://pull.fmp.live/sla/1-6a7f1887eeaf4f1e6ae820f3.m3u8?auth_key=1788709682-0-0-fa20d04fd95c0752b7720ca9ef09869c"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "ကာရှီးမား အန်တလာစ် VS အူရာဝါ ရက်(ဒ်) ဒိုင်းယားမွန်စ်",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c03.m3u8?auth_key=1788709501-0-0-07986090436c19e51b6349f7fd33e0ee"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c03.m3u8?auth_key=1788709682-0-0-8ed5a49323bb915fafad50c6e6ca76e2"
       }
     ]
   },
@@ -86,11 +86,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Chinese Taipei U20 VS Singapore U20",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c42.m3u8?auth_key=1788709501-0-0-ce68e7b47bbab58e0c533fc8598817ad"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c42.m3u8?auth_key=1788709682-0-0-6a317df11480c1793fc72a247c555fc4"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "ယိုကိုဟားမား အက်ဖ်စီ VS အယ်(လ်)ဘီရက်ခ်စ် နီအီဂါတား",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c04.m3u8?auth_key=1788709501-0-0-9f346b4d03e96fe2d31f709b13330304"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c04.m3u8?auth_key=1788709682-0-0-551ac98d21f7145156ea51c904699bb9"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "ဂျေအီးအက်ဖ် ယူနိုက်တက် အိချီဟာရား ချီဘား VS ဂမ်ဘာ အိုဆာကာ",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c00.m3u8?auth_key=1788709501-0-0-ca78f66f599bc33c1fbdb5383947e483"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c00.m3u8?auth_key=1788709682-0-0-3348cbd561c45543bbd6696f9fad85cc"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "နာဂိုယား ဂရမ်ပို့စ် VS မာချီဒါ ဇယ်(လ်)ဗီယား",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c01.m3u8?auth_key=1788709501-0-0-1820807ebfcbcca56c93a871a3c2b68c"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c01.m3u8?auth_key=1788709682-0-0-e20c5d46aebb8d1890a01ca422f2751f"
       }
     ]
   },
@@ -166,7 +166,7 @@
     "links": [
       {
         "name": "ဖာဂျီယာနို အိုကာယာမား VS ဆန်ဖရက်ချဲ ဟီရိုရှိးမား",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c02.m3u8?auth_key=1788709501-0-0-bcdad91c2a95a01220fbe9a2f714e80e"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c02.m3u8?auth_key=1788709682-0-0-097f2c67f638cdc2d62a0e7db755b089"
       }
     ]
   },
@@ -185,7 +185,7 @@
     "links": [
       {
         "name": "ဖိုချောင်း အက်ဖ်စီ VS Yeoju Citizen",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c09.m3u8?auth_key=1788709501-0-0-53aa446ac5e0ccf908c1bcdc2685d1aa"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c09.m3u8?auth_key=1788709682-0-0-7c98885f9a0aa3d189da068e0083c43b"
       }
     ]
   },
@@ -204,7 +204,7 @@
     "links": [
       {
         "name": "ရိုးအာဆို ခူမာမိုတို VS နာရား ကလပ်(ဘ်)",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c08.m3u8?auth_key=1788709501-0-0-f8f71d50b5a86dcef46be0fc806ba3f5"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c08.m3u8?auth_key=1788709682-0-0-15b7ee41c56ee1368d8c84eee81d3600"
       }
     ]
   },
@@ -223,7 +223,7 @@
     "links": [
       {
         "name": "ဘလောက်ဘလစ်ဇ် အာကီတား VS အာဘီ အိုမီယား အာဒီဂျား",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c05.m3u8?auth_key=1788709501-0-0-bf71483033818ced67511d31961cc7ae"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c05.m3u8?auth_key=1788709682-0-0-2aa1ca477c58cd210df1965f14bdb54f"
       }
     ]
   },
@@ -242,7 +242,7 @@
     "links": [
       {
         "name": "Jinju Citizen VS Namyangju Citizen",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e19d.m3u8?auth_key=1788709501-0-0-ba4b56eb274c7a526b7e068dcb8ea794"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6e15cf29d83c5e19d.m3u8?auth_key=1788709682-0-0-36716bfe7b8632a374d505d2bda5c212"
       }
     ]
   },
@@ -261,7 +261,7 @@
     "links": [
       {
         "name": "Korea DPR U20 VS Palestine U20",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c4f.m3u8?auth_key=1788709501-0-0-9011765628f0e45e396e2402b6391896"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c4f.m3u8?auth_key=1788709682-0-0-26c7fdad67bbeb9b26eba3523beec6c2"
       }
     ]
   },
@@ -280,7 +280,7 @@
     "links": [
       {
         "name": "AC Milan U20 VS Juventus Youth",
-        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3477e.m3u8?auth_key=1788709501-0-0-8642525b6920da038888d748e731b146"
+        "url": "https://pull.fmp.live/sla/1-6a7b402efb009bc39fb3477e.m3u8?auth_key=1788709682-0-0-71e11d49c7f0b07eb565264dc68b6b0c"
       }
     ]
   },
@@ -299,7 +299,7 @@
     "links": [
       {
         "name": "Myanmar U20 VS Maldives U20",
-        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c40.m3u8?auth_key=1788709501-0-0-e2d9bb8edd87ffb9b73d671485447824"
+        "url": "https://pull.fmp.live/sla/1-6a7c91d6250dd162774a7c40.m3u8?auth_key=1788709682-0-0-8d47de47836710014f63d6e5aca63d53"
       }
     ]
   },
@@ -311,14 +311,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/76791.png",
     "league": "Philippines Football League",
     "match_time": "2026-09-06T16:15:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "Maharlika VS တူလွိုင်း အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a9492fcbcbb3676e99d1844.m3u8?auth_key=1788709501-0-0-fac1c64e1caef3a233de9a7678796122"
+        "url": "https://pull.fmp.live/sla/1-6a9492fcbcbb3676e99d1844.m3u8?auth_key=1788709682-0-0-e2fb06fd1eddf54054eecad1bd1d50cd"
       }
     ]
   }
