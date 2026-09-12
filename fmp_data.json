@@ -1,24 +1,5 @@
 [
   {
-    "id": "52747",
-    "home_name": "Go Ahead Eagles",
-    "home_img": "https://s.fmp.live/live/teams/logos/10426.png",
-    "away_name": "Groningen",
-    "away_img": "https://s.fmp.live/live/teams/logos/10454.png",
-    "league": "Netherlands Eredivisie",
-    "match_time": "2026-09-12T23:15:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "ဂိုး အဟက်ဒ် အီးဂဲလ်စ် VS Groningen",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd7.m3u8?auth_key=1789253101-0-0-4739775bcf8facdbbfa0c75980dbdd7e"
-      }
-    ]
-  },
-  {
     "id": "52748",
     "home_name": "FK Čukarički",
     "home_img": "https://s.fmp.live/live/teams/logos/13076.png",
@@ -33,7 +14,26 @@
     "links": [
       {
         "name": "အက်ဖ်ကေ ချူကာရစ်ချ်ကီ VS နိုဗီ ပါဇာရ်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bb.m3u8?auth_key=1789253101-0-0-83dd7b1741e9b87588d5f918591b628e"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bb.m3u8?auth_key=1789253281-0-0-20203aebdbbba9c36c4052a949421845"
+      }
+    ]
+  },
+  {
+    "id": "52749",
+    "home_name": "Kolding FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/11046.png",
+    "away_name": "Fredericia",
+    "away_img": "https://s.fmp.live/live/teams/logos/10670.png",
+    "league": "Danish 1st Division",
+    "match_time": "2026-09-12T23:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Kolding FC VS Fredericia",
+        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54333.m3u8?auth_key=1789253281-0-0-2c10d858abd8d08fcd4ae568c17b5e55"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "တေ ယူ တာ ဒူ ရပ် စ် VS အက်ဖ် ကေ ဗို ရာ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd5.m3u8?auth_key=1789253101-0-0-572e3d0dfa74bc02bd3e7b104def313a"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd5.m3u8?auth_key=1789253281-0-0-987849fae74cd3cf9368929077a9442b"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "AC Palazzolo VS မီလန် ဖူတူရို",
-        "url": "https://pull.fmp.live/sla/1-6a9dcd6e5213cd25c02fd9b2.m3u8?auth_key=1789253101-0-0-a3efbb0a41dc1abe7fd631eedf188094"
+        "url": "https://pull.fmp.live/sla/1-6a9dcd6e5213cd25c02fd9b2.m3u8?auth_key=1789253341-0-0-9490b807569288c1fbfbdd92c51a1072"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "AS Sorrento Calcio VS AZ Picerno ASD",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bd.m3u8?auth_key=1789253162-0-0-d618cf04d5eb977fd9e68e48a43b6e7d"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bd.m3u8?auth_key=1789253341-0-0-f92dd45e90651f6f5e3ce7e9b041ae32"
       }
     ]
   },
@@ -109,26 +109,7 @@
     "links": [
       {
         "name": "Valadares Gaia FC Women VS အက်ဖ်စီ   ပေါ်တိုအမျိုးသမီ",
-        "url": "https://pull.fmp.live/sla/1-6aa4e375fb009bc39f2aa781.m3u8?auth_key=1789253101-0-0-d0a3e45ac759c4e32a5764580c7f2426"
-      }
-    ]
-  },
-  {
-    "id": "52754",
-    "home_name": "Racing Club Montevideo",
-    "home_img": "https://s.fmp.live/live/teams/logos/23810.png",
-    "away_name": "CA Boston River",
-    "away_img": "https://s.fmp.live/live/teams/logos/14806.png",
-    "league": "Uruguay Primera Division",
-    "match_time": "2026-09-12T22:25:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "ရာစင်း ကလပ် မွန်တီဗီဒေအို VS ဘော့စ်တွန် ရီဗာ",
-        "url": "https://pull.fmp.live/sla/1-6a9c7bee9a962fec68d550b8.m3u8?auth_key=1789253101-0-0-e776bbe5126cd36b576f9f409105e91b"
+        "url": "https://pull.fmp.live/sla/1-6aa4e375fb009bc39f2aa781.m3u8?auth_key=1789253281-0-0-a679f5b760fd49ac3d1373e07f29fba7"
       }
     ]
   },
@@ -147,7 +128,26 @@
     "links": [
       {
         "name": "ကီလ်မာနော့ခ် VS အက်ဘာဒင်း",
-        "url": "https://pull.fmp.live/sla/1-6a8ea436daf8f9c59c03dbfc.m3u8?auth_key=1789253101-0-0-cad98ffd5350c981ee120027a6d3e625"
+        "url": "https://pull.fmp.live/sla/1-6a8ea436daf8f9c59c03dbfc.m3u8?auth_key=1789253281-0-0-c7ef568c81b3dc2ff80a4a1b35fa14e2"
+      }
+    ]
+  },
+  {
+    "id": "52756",
+    "home_name": "Agia Napa FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/22978.png",
+    "away_name": "Asil Lysi",
+    "away_img": "https://s.fmp.live/live/teams/logos/21457.png",
+    "league": "Cypriot 2nd Division",
+    "match_time": "2026-09-12T22:40:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Agia Napa FC VS Asil Lysi",
+        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54293.m3u8?auth_key=1789253281-0-0-9279a3cb4aa7ddc5ff19185e0dab2476"
       }
     ]
   }
