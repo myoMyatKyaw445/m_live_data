@@ -1,24 +1,5 @@
 [
   {
-    "id": "52745",
-    "home_name": "Granada CF",
-    "home_img": "https://s.fmp.live/live/teams/logos/10044.png",
-    "away_name": "Albacete Balompié SAD",
-    "away_img": "https://s.fmp.live/live/teams/logos/10031.png",
-    "league": "Spanish Segunda Division",
-    "match_time": "2026-09-12T23:00:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "ဂရာနာဒါ စီအက်ဖ် VS အယ်လ်ဘာစီတီ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0234.m3u8?auth_key=1789252381-0-0-2eb9b1493229dd34f095ebf3f37036a7"
-      }
-    ]
-  },
-  {
     "id": "52746",
     "home_name": "Girona FC",
     "home_img": "https://s.fmp.live/live/teams/logos/10808.png",
@@ -33,7 +14,7 @@
     "links": [
       {
         "name": "ဂျီရိုနာ VS ကာစတာလ်ယွန်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0235.m3u8?auth_key=1789252381-0-0-84dfc2ab8a3cc9597a4afcda3788d465"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0235.m3u8?auth_key=1789252561-0-0-f90323b393e96524a6c51120e298ad84"
       }
     ]
   },
@@ -52,7 +33,7 @@
     "links": [
       {
         "name": "ဂိုး အဟက်ဒ် အီးဂဲလ်စ် VS Groningen",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd7.m3u8?auth_key=1789252381-0-0-c6a64ee7bdf8efedf08a94efe076e049"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd7.m3u8?auth_key=1789252561-0-0-f877e62c509ff105839dc796236e960d"
       }
     ]
   },
@@ -71,7 +52,7 @@
     "links": [
       {
         "name": "အက်ဖ်ကေ ချူကာရစ်ချ်ကီ VS နိုဗီ ပါဇာရ်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bb.m3u8?auth_key=1789252381-0-0-a1b2cb05157ffea902543cb3107fee2a"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bb.m3u8?auth_key=1789252561-0-0-3d13dd819600599e23a4738aa6497413"
       }
     ]
   },
@@ -90,7 +71,7 @@
     "links": [
       {
         "name": "Kolding FC VS Fredericia",
-        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54333.m3u8?auth_key=1789252381-0-0-a9566641a301631e09443819f06bcc61"
+        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54333.m3u8?auth_key=1789252561-0-0-bde138b6fc850ac52e4e5505e5960dc4"
       }
     ]
   },
@@ -109,7 +90,7 @@
     "links": [
       {
         "name": "တေ ယူ တာ ဒူ ရပ် စ် VS အက်ဖ် ကေ ဗို ရာ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd5.m3u8?auth_key=1789252381-0-0-d1c81d4507f928cff8bd99f162c46552"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd5.m3u8?auth_key=1789252561-0-0-1f3287e56130b18de87226f47d4705a5"
       }
     ]
   },
@@ -128,7 +109,7 @@
     "links": [
       {
         "name": "AC Palazzolo VS မီလန် ဖူတူရို",
-        "url": "https://pull.fmp.live/sla/1-6a9dcd6e5213cd25c02fd9b2.m3u8?auth_key=1789252441-0-0-85dc701f3c8db879614cdd8ab1c86f7a"
+        "url": "https://pull.fmp.live/sla/1-6a9dcd6e5213cd25c02fd9b2.m3u8?auth_key=1789252561-0-0-fcbbcdc24a09207750bcc18eabceb87c"
       }
     ]
   },
@@ -147,7 +128,26 @@
     "links": [
       {
         "name": "AS Sorrento Calcio VS AZ Picerno ASD",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bd.m3u8?auth_key=1789252441-0-0-d492ecb76796348446e83a58e3c2f034"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bd.m3u8?auth_key=1789252561-0-0-85c97e76d498a4b83736ff7102267cb5"
+      }
+    ]
+  },
+  {
+    "id": "52753",
+    "home_name": "Valadares Gaia FC Women",
+    "home_img": "https://s.fmp.live/live/teams/logos/37414.png",
+    "away_name": "FC Porto (W)",
+    "away_img": "https://s.fmp.live/live/teams/logos/86774.png",
+    "league": "Portugal Campeonato Nacional Feminino",
+    "match_time": "2026-09-12T22:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Valadares Gaia FC Women VS အက်ဖ်စီ   ပေါ်တိုအမျိုးသမီ",
+        "url": "https://pull.fmp.live/sla/1-6aa4e375fb009bc39f2aa781.m3u8?auth_key=1789252561-0-0-b5d5b3e8bfb35875aedafed3a94c60c6"
       }
     ]
   }
