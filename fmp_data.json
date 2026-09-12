@@ -1,11 +1,11 @@
 [
   {
-    "id": "52746",
-    "home_name": "Girona FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/10808.png",
-    "away_name": "Castellon",
-    "away_img": "https://s.fmp.live/live/teams/logos/12097.png",
-    "league": "Spanish Segunda Division",
+    "id": "52749",
+    "home_name": "Kolding FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/11046.png",
+    "away_name": "Fredericia",
+    "away_img": "https://s.fmp.live/live/teams/logos/10670.png",
+    "league": "Danish 1st Division",
     "match_time": "2026-09-12T23:00:00+08:00",
     "match_status": false,
     "homeScore": 0,
@@ -13,37 +13,18 @@
     "status": "NOT_STARTED",
     "links": [
       {
-        "name": "ဂျီရိုနာ VS ကာစတာလ်ယွန်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0235.m3u8?auth_key=1789253461-0-0-a4bcdd410faf55cf70c556e73a1c45a3"
+        "name": "Kolding FC VS Fredericia",
+        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54333.m3u8?auth_key=1789253702-0-0-4ca82229faa2fd545923745786105e2f"
       }
     ]
   },
   {
-    "id": "52747",
-    "home_name": "Go Ahead Eagles",
-    "home_img": "https://s.fmp.live/live/teams/logos/10426.png",
-    "away_name": "Groningen",
-    "away_img": "https://s.fmp.live/live/teams/logos/10454.png",
-    "league": "Netherlands Eredivisie",
-    "match_time": "2026-09-12T23:15:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "ဂိုး အဟက်ဒ် အီးဂဲလ်စ် VS Groningen",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd7.m3u8?auth_key=1789253461-0-0-cd75611681287d6178531886bbf4e8b5"
-      }
-    ]
-  },
-  {
-    "id": "52748",
-    "home_name": "FK Čukarički",
-    "home_img": "https://s.fmp.live/live/teams/logos/13076.png",
-    "away_name": "Novi Pazar",
-    "away_img": "https://s.fmp.live/live/teams/logos/10961.png",
-    "league": "Serbian Mozzart Bet Superliga",
+    "id": "52750",
+    "home_name": "Teuta Durres",
+    "home_img": "https://s.fmp.live/live/teams/logos/11366.png",
+    "away_name": "FK Vora",
+    "away_img": "https://s.fmp.live/live/teams/logos/29727.png",
+    "league": "Albanian Super league",
     "match_time": "2026-09-12T23:00:00+08:00",
     "match_status": false,
     "homeScore": 0,
@@ -51,8 +32,8 @@
     "status": "NOT_STARTED",
     "links": [
       {
-        "name": "အက်ဖ်ကေ ချူကာရစ်ချ်ကီ VS နိုဗီ ပါဇာရ်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bb.m3u8?auth_key=1789253461-0-0-bebe6b08ea90447fd79497a88a025b68"
+        "name": "တေ ယူ တာ ဒူ ရပ် စ် VS အက်ဖ် ကေ ဗို ရာ",
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd5.m3u8?auth_key=1789253641-0-0-e0ecda14696859ef28fdcb19ce11c875"
       }
     ]
   },
@@ -71,7 +52,7 @@
     "links": [
       {
         "name": "AC Palazzolo VS မီလန် ဖူတူရို",
-        "url": "https://pull.fmp.live/sla/1-6a9dcd6e5213cd25c02fd9b2.m3u8?auth_key=1789253461-0-0-9926a40735d03ec587dc55a823c742e5"
+        "url": "https://pull.fmp.live/sla/1-6a9dcd6e5213cd25c02fd9b2.m3u8?auth_key=1789253641-0-0-ab331aa238e585e9fa99a47b6e234152"
       }
     ]
   },
@@ -90,26 +71,26 @@
     "links": [
       {
         "name": "AS Sorrento Calcio VS AZ Picerno ASD",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bd.m3u8?auth_key=1789253461-0-0-05d31cbe20c198ef7f9a939501aa1719"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bd.m3u8?auth_key=1789253702-0-0-05098d5a1c4ec19ea3315bc93ad55c2a"
       }
     ]
   },
   {
-    "id": "52753",
-    "home_name": "Valadares Gaia FC Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/37414.png",
-    "away_name": "FC Porto (W)",
-    "away_img": "https://s.fmp.live/live/teams/logos/86774.png",
-    "league": "Portugal Campeonato Nacional Feminino",
-    "match_time": "2026-09-12T22:30:00+08:00",
+    "id": "52754",
+    "home_name": "Racing Club Montevideo",
+    "home_img": "https://s.fmp.live/live/teams/logos/23810.png",
+    "away_name": "CA Boston River",
+    "away_img": "https://s.fmp.live/live/teams/logos/14806.png",
+    "league": "Uruguay Primera Division",
+    "match_time": "2026-09-12T22:25:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
+    "awayScore": 0,
+    "status": "HALF_TIME",
     "links": [
       {
-        "name": "Valadares Gaia FC Women VS အက်ဖ်စီ   ပေါ်တိုအမျိုးသမီ",
-        "url": "https://pull.fmp.live/sla/1-6aa4e375fb009bc39f2aa781.m3u8?auth_key=1789253461-0-0-bb5ac136650579d752f80316883b5a87"
+        "name": "ရာစင်း ကလပ် မွန်တီဗီဒေအို VS ဘော့စ်တွန် ရီဗာ",
+        "url": "https://pull.fmp.live/sla/1-6a9c7bee9a962fec68d550b8.m3u8?auth_key=1789253702-0-0-381e82d1a0d5e28530e7c545e415248a"
       }
     ]
   },
@@ -128,7 +109,7 @@
     "links": [
       {
         "name": "ကီလ်မာနော့ခ် VS အက်ဘာဒင်း",
-        "url": "https://pull.fmp.live/sla/1-6a8ea436daf8f9c59c03dbfc.m3u8?auth_key=1789253461-0-0-da5fc1b0fd035b47891a60b2cbeee937"
+        "url": "https://pull.fmp.live/sla/1-6a8ea436daf8f9c59c03dbfc.m3u8?auth_key=1789253641-0-0-ce10c9f85f898ea42f57b5e13cbf77e6"
       }
     ]
   },
@@ -147,7 +128,26 @@
     "links": [
       {
         "name": "Agia Napa FC VS Asil Lysi",
-        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54293.m3u8?auth_key=1789253461-0-0-d0f18c239e6eb70ffc10bda20fe58bfd"
+        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54293.m3u8?auth_key=1789253702-0-0-44181080f035e47215008ef8020f1dd9"
+      }
+    ]
+  },
+  {
+    "id": "52757",
+    "home_name": "Marseillaises Women",
+    "home_img": "https://s.fmp.live/live/teams/logos/29287.png",
+    "away_name": "Lens Women",
+    "away_img": "https://s.fmp.live/live/teams/logos/62728.png",
+    "league": "French Division 1 Feminine",
+    "match_time": "2026-09-12T22:30:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Marseillaises Women VS Lens Women",
+        "url": "https://pull.fmp.live/sla/1-6a9c8a0ce4f896100f4cff8c.m3u8?auth_key=1789253641-0-0-a12f4e173f223bb9d9976bef808c63fd"
       }
     ]
   }
