@@ -1,43 +1,5 @@
 [
   {
-    "id": "52743",
-    "home_name": "Athletic Club",
-    "home_img": "https://s.fmp.live/live/teams/logos/10027.png",
-    "away_name": "Elche CF",
-    "away_img": "https://s.fmp.live/live/teams/logos/10301.png",
-    "league": "Spanish La Liga",
-    "match_time": "2026-09-12T23:00:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "အက်သလက်တစ် ကလပ် VS အယ်လ်ချေ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd001a.m3u8?auth_key=1789252202-0-0-6509463d67fbed6cb3e0d119368c5884"
-      }
-    ]
-  },
-  {
-    "id": "52744",
-    "home_name": "Spezia",
-    "home_img": "https://s.fmp.live/live/teams/logos/11503.png",
-    "away_name": "Livorno",
-    "away_img": "https://s.fmp.live/live/teams/logos/11371.png",
-    "league": "Italian Serie C",
-    "match_time": "2026-09-12T22:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "Spezia VS Livorno",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c0.m3u8?auth_key=1789252202-0-0-c305035cb1d891979ea41326fe76a6b8"
-      }
-    ]
-  },
-  {
     "id": "52745",
     "home_name": "Granada CF",
     "home_img": "https://s.fmp.live/live/teams/logos/10044.png",
@@ -52,7 +14,7 @@
     "links": [
       {
         "name": "ဂရာနာဒါ စီအက်ဖ် VS အယ်လ်ဘာစီတီ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0234.m3u8?auth_key=1789252202-0-0-4483500f56efdddad7bc37eedf217b6b"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0234.m3u8?auth_key=1789252381-0-0-2eb9b1493229dd34f095ebf3f37036a7"
       }
     ]
   },
@@ -71,7 +33,7 @@
     "links": [
       {
         "name": "ဂျီရိုနာ VS ကာစတာလ်ယွန်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0235.m3u8?auth_key=1789252202-0-0-312346cd6ff44931ccd45960f6ba6d24"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0235.m3u8?auth_key=1789252381-0-0-84dfc2ab8a3cc9597a4afcda3788d465"
       }
     ]
   },
@@ -90,7 +52,7 @@
     "links": [
       {
         "name": "ဂိုး အဟက်ဒ် အီးဂဲလ်စ် VS Groningen",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd7.m3u8?auth_key=1789252202-0-0-cc1f6763efce91820d4797e722a062bc"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd7.m3u8?auth_key=1789252381-0-0-c6a64ee7bdf8efedf08a94efe076e049"
       }
     ]
   },
@@ -109,7 +71,7 @@
     "links": [
       {
         "name": "အက်ဖ်ကေ ချူကာရစ်ချ်ကီ VS နိုဗီ ပါဇာရ်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bb.m3u8?auth_key=1789252202-0-0-3d8bf28fbb6461128198fff9c8cf4a4a"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bb.m3u8?auth_key=1789252381-0-0-a1b2cb05157ffea902543cb3107fee2a"
       }
     ]
   },
@@ -128,7 +90,7 @@
     "links": [
       {
         "name": "Kolding FC VS Fredericia",
-        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54333.m3u8?auth_key=1789252202-0-0-e76c0dedd84c7c423229ad784fbf5c65"
+        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54333.m3u8?auth_key=1789252381-0-0-a9566641a301631e09443819f06bcc61"
       }
     ]
   },
@@ -147,7 +109,45 @@
     "links": [
       {
         "name": "တေ ယူ တာ ဒူ ရပ် စ် VS အက်ဖ် ကေ ဗို ရာ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd5.m3u8?auth_key=1789252202-0-0-54df49f066afdc111779dd8b3f6bd573"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd5.m3u8?auth_key=1789252381-0-0-d1c81d4507f928cff8bd99f162c46552"
+      }
+    ]
+  },
+  {
+    "id": "52751",
+    "home_name": "AC Palazzolo",
+    "home_img": "https://s.fmp.live/live/teams/logos/44667.png",
+    "away_name": "Milan Futuro",
+    "away_img": "https://s.fmp.live/live/teams/logos/84971.png",
+    "league": "Italian Serie D",
+    "match_time": "2026-09-12T22:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "AC Palazzolo VS မီလန် ဖူတူရို",
+        "url": "https://pull.fmp.live/sla/1-6a9dcd6e5213cd25c02fd9b2.m3u8?auth_key=1789252441-0-0-85dc701f3c8db879614cdd8ab1c86f7a"
+      }
+    ]
+  },
+  {
+    "id": "52752",
+    "home_name": "AS Sorrento Calcio",
+    "home_img": "https://s.fmp.live/live/teams/logos/21037.png",
+    "away_name": "AZ Picerno ASD",
+    "away_img": "https://s.fmp.live/live/teams/logos/37693.png",
+    "league": "Italian Serie C",
+    "match_time": "2026-09-12T22:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "AS Sorrento Calcio VS AZ Picerno ASD",
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bd.m3u8?auth_key=1789252441-0-0-d492ecb76796348446e83a58e3c2f034"
       }
     ]
   }
