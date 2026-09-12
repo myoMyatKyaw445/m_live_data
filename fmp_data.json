@@ -1,5 +1,24 @@
 [
   {
+    "id": "52691",
+    "home_name": "RC Strasbourg Alsace",
+    "home_img": "https://s.fmp.live/live/teams/logos/10092.png",
+    "away_name": "AS Monaco",
+    "away_img": "https://s.fmp.live/live/teams/logos/10492.png",
+    "league": "French Ligue 1",
+    "match_time": "2026-09-12T21:45:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "စထရာ့စ်ဘော့ဂ် VS အေအက်စ် မိုနာကို",
+        "url": "https://pull.fmp.live/sla/1-6a847abb6c031c11fac46655.m3u8?auth_key=1789254601-0-0-0111224cc772ddf7a4120d8589979a19"
+      }
+    ]
+  },
+  {
     "id": "52736",
     "home_name": "FC Köln",
     "home_img": "https://s.fmp.live/live/teams/logos/10189.png",
@@ -14,7 +33,7 @@
     "links": [
       {
         "name": "အက်ဖ်စီ ကိုလုံး VS အက်စ်ဗီ ဝါဒါ ဘရီမင်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd4.m3u8?auth_key=1789254362-0-0-6d71608cc513d0894ddf56a8e105a54d"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd4.m3u8?auth_key=1789254542-0-0-d3107b49ad6d6f38d7561a9546b3b1c5"
       }
     ]
   },
@@ -33,26 +52,7 @@
     "links": [
       {
         "name": "အက်သလက်တစ် ကလပ် VS အယ်လ်ချေ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd001a.m3u8?auth_key=1789254302-0-0-0277bcc16a47bcbc4b814eac08086735"
-      }
-    ]
-  },
-  {
-    "id": "52760",
-    "home_name": "Lugano",
-    "home_img": "https://s.fmp.live/live/teams/logos/10642.png",
-    "away_name": "Young Boys",
-    "away_img": "https://s.fmp.live/live/teams/logos/10200.png",
-    "league": "Switzerland Super League",
-    "match_time": "2026-09-12T23:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "လူဂါနို VS ယန်း ဘွိုင်းစ်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0007.m3u8?auth_key=1789254362-0-0-279a0c29c2dc428441d2791212f8670e"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd001a.m3u8?auth_key=1789254542-0-0-6929de6a46953e388cc63bfdfc9aba46"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Gimnasia LP Women VS Racing Club Women",
-        "url": "https://pull.fmp.live/sla/1-6aa2db86018287f1cefa9fa8.m3u8?auth_key=1789254362-0-0-da81ba43437af731b1520ffc0df5c8f5"
+        "url": "https://pull.fmp.live/sla/1-6aa2db86018287f1cefa9fa8.m3u8?auth_key=1789254542-0-0-f9df3d1a3ad162fcdfe29c6c7551d362"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "ဘာချ်ကာ တိုပိုလာ VS FK Loznica",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c5.m3u8?auth_key=1789254362-0-0-b761f5e1fe67bc1d78d1434047f1cbfe"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c5.m3u8?auth_key=1789254542-0-0-36c928f197570d23635151f69c9728a0"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "ဟက်ဘစ်ဖာရမ် ယာဗော် VS FK Vozdovac Beograd",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3ca.m3u8?auth_key=1789254362-0-0-8bf47c7f3c9b456586249283079e3615"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3ca.m3u8?auth_key=1789254542-0-0-755741036464cb22bb067385f5a28aa1"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "နေမန်း ဂရော့ဒ်နို VS တော်ပီဒို ဇော်ဒီနို",
-        "url": "https://pull.fmp.live/sla/1-6a847abb6c031c11fac465f2.m3u8?auth_key=1789254362-0-0-7981af7f1ab1a230f087760abce8d294"
+        "url": "https://pull.fmp.live/sla/1-6a847abb6c031c11fac465f2.m3u8?auth_key=1789254542-0-0-32e9b053ca523d306114b93e6458589a"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "Jedinstvo UB VS Semendrija 1924",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c9.m3u8?auth_key=1789254362-0-0-92fb0c4dc0d7267086cb5b7429aa707d"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c9.m3u8?auth_key=1789254542-0-0-0d32648158424783ed863cfccd789f8a"
       }
     ]
   }
