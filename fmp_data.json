@@ -1,5 +1,24 @@
 [
   {
+    "id": "52745",
+    "home_name": "Granada CF",
+    "home_img": "https://s.fmp.live/live/teams/logos/10044.png",
+    "away_name": "Albacete Balompié SAD",
+    "away_img": "https://s.fmp.live/live/teams/logos/10031.png",
+    "league": "Spanish Segunda Division",
+    "match_time": "2026-09-12T23:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ဂရာနာဒါ စီအက်ဖ် VS အယ်လ်ဘာစီတီ",
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0234.m3u8?auth_key=1789252741-0-0-00c4138fc694a390f07b3fee4c4bee55"
+      }
+    ]
+  },
+  {
     "id": "52746",
     "home_name": "Girona FC",
     "home_img": "https://s.fmp.live/live/teams/logos/10808.png",
@@ -14,7 +33,7 @@
     "links": [
       {
         "name": "ဂျီရိုနာ VS ကာစတာလ်ယွန်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0235.m3u8?auth_key=1789252561-0-0-f90323b393e96524a6c51120e298ad84"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0235.m3u8?auth_key=1789252741-0-0-43d0086f8f233cc830a70e0e6fc08311"
       }
     ]
   },
@@ -33,7 +52,7 @@
     "links": [
       {
         "name": "ဂိုး အဟက်ဒ် အီးဂဲလ်စ် VS Groningen",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd7.m3u8?auth_key=1789252561-0-0-f877e62c509ff105839dc796236e960d"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd7.m3u8?auth_key=1789252741-0-0-2712917d5083243592582ec367cfd31c"
       }
     ]
   },
@@ -52,45 +71,7 @@
     "links": [
       {
         "name": "အက်ဖ်ကေ ချူကာရစ်ချ်ကီ VS နိုဗီ ပါဇာရ်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bb.m3u8?auth_key=1789252561-0-0-3d13dd819600599e23a4738aa6497413"
-      }
-    ]
-  },
-  {
-    "id": "52749",
-    "home_name": "Kolding FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/11046.png",
-    "away_name": "Fredericia",
-    "away_img": "https://s.fmp.live/live/teams/logos/10670.png",
-    "league": "Danish 1st Division",
-    "match_time": "2026-09-12T23:00:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Kolding FC VS Fredericia",
-        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54333.m3u8?auth_key=1789252561-0-0-bde138b6fc850ac52e4e5505e5960dc4"
-      }
-    ]
-  },
-  {
-    "id": "52750",
-    "home_name": "Teuta Durres",
-    "home_img": "https://s.fmp.live/live/teams/logos/11366.png",
-    "away_name": "FK Vora",
-    "away_img": "https://s.fmp.live/live/teams/logos/29727.png",
-    "league": "Albanian Super league",
-    "match_time": "2026-09-12T23:00:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "တေ ယူ တာ ဒူ ရပ် စ် VS အက်ဖ် ကေ ဗို ရာ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd5.m3u8?auth_key=1789252561-0-0-1f3287e56130b18de87226f47d4705a5"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bb.m3u8?auth_key=1789252741-0-0-04f1683ce20eac994ecea2bcf8d10285"
       }
     ]
   },
@@ -109,7 +90,7 @@
     "links": [
       {
         "name": "AC Palazzolo VS မီလန် ဖူတူရို",
-        "url": "https://pull.fmp.live/sla/1-6a9dcd6e5213cd25c02fd9b2.m3u8?auth_key=1789252561-0-0-fcbbcdc24a09207750bcc18eabceb87c"
+        "url": "https://pull.fmp.live/sla/1-6a9dcd6e5213cd25c02fd9b2.m3u8?auth_key=1789252741-0-0-5c5d2d17944bef1ae42e89ffa791c0c1"
       }
     ]
   },
@@ -128,7 +109,7 @@
     "links": [
       {
         "name": "AS Sorrento Calcio VS AZ Picerno ASD",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bd.m3u8?auth_key=1789252561-0-0-85c97e76d498a4b83736ff7102267cb5"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bd.m3u8?auth_key=1789252802-0-0-a72a4bd2c4c4ff89b90ac57a1877028c"
       }
     ]
   },
@@ -147,7 +128,26 @@
     "links": [
       {
         "name": "Valadares Gaia FC Women VS အက်ဖ်စီ   ပေါ်တိုအမျိုးသမီ",
-        "url": "https://pull.fmp.live/sla/1-6aa4e375fb009bc39f2aa781.m3u8?auth_key=1789252561-0-0-b5d5b3e8bfb35875aedafed3a94c60c6"
+        "url": "https://pull.fmp.live/sla/1-6aa4e375fb009bc39f2aa781.m3u8?auth_key=1789252741-0-0-2197c6d7187da240db7316cf5f4d22c8"
+      }
+    ]
+  },
+  {
+    "id": "52754",
+    "home_name": "Racing Club Montevideo",
+    "home_img": "https://s.fmp.live/live/teams/logos/23810.png",
+    "away_name": "CA Boston River",
+    "away_img": "https://s.fmp.live/live/teams/logos/14806.png",
+    "league": "Uruguay Primera Division",
+    "match_time": "2026-09-12T22:25:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "ရာစင်း ကလပ် မွန်တီဗီဒေအို VS ဘော့စ်တွန် ရီဗာ",
+        "url": "https://pull.fmp.live/sla/1-6a9c7bee9a962fec68d550b8.m3u8?auth_key=1789252802-0-0-4d2a37abf2c747a3be85f6cc80d20a0f"
       }
     ]
   }
