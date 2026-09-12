@@ -1,62 +1,5 @@
 [
   {
-    "id": "52739",
-    "home_name": "Guidonia",
-    "home_img": "https://s.fmp.live/live/teams/logos/21923.png",
-    "away_name": "A.C. Reggiana 1919",
-    "away_img": "https://s.fmp.live/live/teams/logos/16508.png",
-    "league": "Italian Serie C",
-    "match_time": "2026-09-12T22:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Guidonia VS A.C. Reggiana 1919",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c2.m3u8?auth_key=1789252022-0-0-39cbbf9ea109d409f2e43cd4e44d3c7e"
-      }
-    ]
-  },
-  {
-    "id": "52740",
-    "home_name": "Catania FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/11075.png",
-    "away_name": "Scafatese",
-    "away_img": "https://s.fmp.live/live/teams/logos/24621.png",
-    "league": "Italian Serie C",
-    "match_time": "2026-09-12T22:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Catania FC VS Scafatese",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bf.m3u8?auth_key=1789252022-0-0-b4a670d6b13af64602c4bcd187ad758c"
-      }
-    ]
-  },
-  {
-    "id": "52741",
-    "home_name": "Asd Pineto Calcio",
-    "home_img": "https://s.fmp.live/live/teams/logos/36315.png",
-    "away_name": "US Sambenedettese",
-    "away_img": "https://s.fmp.live/live/teams/logos/11476.png",
-    "league": "Italian Serie C",
-    "match_time": "2026-09-12T22:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Asd Pineto Calcio VS US Sambenedettese",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c1.m3u8?auth_key=1789252022-0-0-2669f0b400f76be4f0f89a9a7fadd29d"
-      }
-    ]
-  },
-  {
     "id": "52743",
     "home_name": "Athletic Club",
     "home_img": "https://s.fmp.live/live/teams/logos/10027.png",
@@ -71,7 +14,7 @@
     "links": [
       {
         "name": "အက်သလက်တစ် ကလပ် VS အယ်လ်ချေ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd001a.m3u8?auth_key=1789252022-0-0-25b0e24188b11ad883064a2cad40e41c"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd001a.m3u8?auth_key=1789252202-0-0-6509463d67fbed6cb3e0d119368c5884"
       }
     ]
   },
@@ -83,14 +26,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/11371.png",
     "league": "Italian Serie C",
     "match_time": "2026-09-12T22:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "Spezia VS Livorno",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c0.m3u8?auth_key=1789252022-0-0-4845cb6b2c89a2ab07d83a7b255f585e"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c0.m3u8?auth_key=1789252202-0-0-c305035cb1d891979ea41326fe76a6b8"
       }
     ]
   },
@@ -109,7 +52,7 @@
     "links": [
       {
         "name": "ဂရာနာဒါ စီအက်ဖ် VS အယ်လ်ဘာစီတီ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0234.m3u8?auth_key=1789252022-0-0-6010f2ae3ce1b3afca4ed67d1634ff3c"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0234.m3u8?auth_key=1789252202-0-0-4483500f56efdddad7bc37eedf217b6b"
       }
     ]
   },
@@ -128,7 +71,7 @@
     "links": [
       {
         "name": "ဂျီရိုနာ VS ကာစတာလ်ယွန်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0235.m3u8?auth_key=1789252022-0-0-823be5ea0e20390c755bd43e5b7ecb51"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0235.m3u8?auth_key=1789252202-0-0-312346cd6ff44931ccd45960f6ba6d24"
       }
     ]
   },
@@ -147,7 +90,64 @@
     "links": [
       {
         "name": "ဂိုး အဟက်ဒ် အီးဂဲလ်စ် VS Groningen",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd7.m3u8?auth_key=1789252022-0-0-54d3151f96307bf7ca20c070e365579a"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd7.m3u8?auth_key=1789252202-0-0-cc1f6763efce91820d4797e722a062bc"
+      }
+    ]
+  },
+  {
+    "id": "52748",
+    "home_name": "FK Čukarički",
+    "home_img": "https://s.fmp.live/live/teams/logos/13076.png",
+    "away_name": "Novi Pazar",
+    "away_img": "https://s.fmp.live/live/teams/logos/10961.png",
+    "league": "Serbian Mozzart Bet Superliga",
+    "match_time": "2026-09-12T23:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "အက်ဖ်ကေ ချူကာရစ်ချ်ကီ VS နိုဗီ ပါဇာရ်",
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3bb.m3u8?auth_key=1789252202-0-0-3d8bf28fbb6461128198fff9c8cf4a4a"
+      }
+    ]
+  },
+  {
+    "id": "52749",
+    "home_name": "Kolding FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/11046.png",
+    "away_name": "Fredericia",
+    "away_img": "https://s.fmp.live/live/teams/logos/10670.png",
+    "league": "Danish 1st Division",
+    "match_time": "2026-09-12T23:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Kolding FC VS Fredericia",
+        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54333.m3u8?auth_key=1789252202-0-0-e76c0dedd84c7c423229ad784fbf5c65"
+      }
+    ]
+  },
+  {
+    "id": "52750",
+    "home_name": "Teuta Durres",
+    "home_img": "https://s.fmp.live/live/teams/logos/11366.png",
+    "away_name": "FK Vora",
+    "away_img": "https://s.fmp.live/live/teams/logos/29727.png",
+    "league": "Albanian Super league",
+    "match_time": "2026-09-12T23:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "တေ ယူ တာ ဒူ ရပ် စ် VS အက်ဖ် ကေ ဗို ရာ",
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd5.m3u8?auth_key=1789252202-0-0-54df49f066afdc111779dd8b3f6bd573"
       }
     ]
   }
