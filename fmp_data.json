@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "အက်ဖ်စီ ကိုလုံး VS အက်စ်ဗီ ဝါဒါ ဘရီမင်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd4.m3u8?auth_key=1789254902-0-0-d902e9712d39a7ff6c44690fed6f8c63"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd4.m3u8?auth_key=1789255081-0-0-a2ad4ac7b527540351d691e053e6ed9b"
       }
     ]
   },
@@ -33,7 +33,26 @@
     "links": [
       {
         "name": "အက်သလက်တစ် ကလပ် VS အယ်လ်ချေ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd001a.m3u8?auth_key=1789254902-0-0-e015c5a70cfa5b41eb06779c272ef16d"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd001a.m3u8?auth_key=1789255081-0-0-f37edfe0fd7e6be4c50ffdc0c98beca8"
+      }
+    ]
+  },
+  {
+    "id": "52759",
+    "home_name": "Alanyaspor",
+    "home_img": "https://s.fmp.live/live/teams/logos/20678.png",
+    "away_name": "Goztepe",
+    "away_img": "https://s.fmp.live/live/teams/logos/16639.png",
+    "league": "Turkish Super League",
+    "match_time": "2026-09-12T23:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "အလာနယားစပေါ VS ဂိုးဇတက်ပီ",
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a462.m3u8?auth_key=1789255081-0-0-419601def2be964a4a9e645705050d0a"
       }
     ]
   },
@@ -52,26 +71,7 @@
     "links": [
       {
         "name": "လူဂါနို VS ယန်း ဘွိုင်းစ်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0007.m3u8?auth_key=1789254902-0-0-fb36b5def0cb0561bd36645d3b8ab7b1"
-      }
-    ]
-  },
-  {
-    "id": "52762",
-    "home_name": "Gimnasia LP Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/53940.png",
-    "away_name": "Racing Club Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/48589.png",
-    "league": "Argentine Women's League",
-    "match_time": "2026-09-12T23:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Gimnasia LP Women VS Racing Club Women",
-        "url": "https://pull.fmp.live/sla/1-6aa2db86018287f1cefa9fa8.m3u8?auth_key=1789254902-0-0-a9da68cea30834d9579cd502a1771870"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0007.m3u8?auth_key=1789255081-0-0-ebe815ea4f09565b0d9ed2a4a971b477"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "ဘာချ်ကာ တိုပိုလာ VS FK Loznica",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c5.m3u8?auth_key=1789254902-0-0-d469b0fceb736491e4af749a17aba94d"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c5.m3u8?auth_key=1789255081-0-0-68efe4871b3b09d427e651be2a71fee9"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "ဟက်ဘစ်ဖာရမ် ယာဗော် VS FK Vozdovac Beograd",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3ca.m3u8?auth_key=1789254902-0-0-b701183df6f450146b14f6151287943a"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3ca.m3u8?auth_key=1789255081-0-0-d6b90a7c0ad11efd13eeca7f54819b8d"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "နေမန်း ဂရော့ဒ်နို VS တော်ပီဒို ဇော်ဒီနို",
-        "url": "https://pull.fmp.live/sla/1-6a847abb6c031c11fac465f2.m3u8?auth_key=1789254902-0-0-8a58b953c0a95c2b704e162f9bedaef3"
+        "url": "https://pull.fmp.live/sla/1-6a847abb6c031c11fac465f2.m3u8?auth_key=1789255081-0-0-6e717b6df361f1ee7603bec98d294955"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "Jedinstvo UB VS Semendrija 1924",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c9.m3u8?auth_key=1789254902-0-0-cbdf53e16244d516345091bba6e1e681"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c9.m3u8?auth_key=1789255081-0-0-05e6b76b9ef4137cbd39572d2792a30e"
       }
     ]
   }
