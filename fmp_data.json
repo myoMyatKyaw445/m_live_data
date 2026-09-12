@@ -7,14 +7,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/10036.png",
     "league": "Bundesliga",
     "match_time": "2026-09-12T23:00:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
+    "match_status": true,
+    "homeScore": 1,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "အက်ဖ်စီ ကိုလုံး VS အက်စ်ဗီ ဝါဒါ ဘရီမင်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd4.m3u8?auth_key=1789255621-0-0-1361a5dc7cad2cad484a927bbb6a8c35"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11faccffd4.m3u8?auth_key=1789255801-0-0-f76518bf514c4b15931eb8758fbc78f1"
       }
     ]
   },
@@ -26,52 +26,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/10301.png",
     "league": "Spanish La Liga",
     "match_time": "2026-09-12T23:00:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "အက်သလက်တစ် ကလပ် VS အယ်လ်ချေ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd001a.m3u8?auth_key=1789255621-0-0-2ba3b282cc702c6caf08fa15ea646132"
-      }
-    ]
-  },
-  {
-    "id": "52760",
-    "home_name": "Lugano",
-    "home_img": "https://s.fmp.live/live/teams/logos/10642.png",
-    "away_name": "Young Boys",
-    "away_img": "https://s.fmp.live/live/teams/logos/10200.png",
-    "league": "Switzerland Super League",
-    "match_time": "2026-09-12T23:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "လူဂါနို VS ယန်း ဘွိုင်းစ်",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd0007.m3u8?auth_key=1789255621-0-0-c6647e6d12e4faf3cad4c39a4abeef2a"
-      }
-    ]
-  },
-  {
-    "id": "52762",
-    "home_name": "Gimnasia LP Women",
-    "home_img": "https://s.fmp.live/live/teams/logos/53940.png",
-    "away_name": "Racing Club Women",
-    "away_img": "https://s.fmp.live/live/teams/logos/48589.png",
-    "league": "Argentine Women's League",
-    "match_time": "2026-09-12T23:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "Gimnasia LP Women VS Racing Club Women",
-        "url": "https://pull.fmp.live/sla/1-6aa2db86018287f1cefa9fa8.m3u8?auth_key=1789255621-0-0-b38446515f8ec336b8af4bbd3f0a7fc1"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd001a.m3u8?auth_key=1789255801-0-0-3392d25b7382412e939d721f49102774"
       }
     ]
   },
@@ -83,14 +45,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/24762.png",
     "league": "Serbian Mozzart Bet Prva Liga",
     "match_time": "2026-09-12T23:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဘာချ်ကာ တိုပိုလာ VS FK Loznica",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c5.m3u8?auth_key=1789255621-0-0-d3ff6230735d3ddd9935ad1194ed45d5"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c5.m3u8?auth_key=1789255801-0-0-64a76c61558ec30f8f9e82117218e207"
       }
     ]
   },
@@ -102,14 +64,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/12353.png",
     "league": "Serbian Mozzart Bet Prva Liga",
     "match_time": "2026-09-12T23:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဟက်ဘစ်ဖာရမ် ယာဗော် VS FK Vozdovac Beograd",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3ca.m3u8?auth_key=1789255621-0-0-66266ed4213305a6492d47e30249206c"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3ca.m3u8?auth_key=1789255801-0-0-e6709727fd98dd4d0fe347bd788b2e75"
       }
     ]
   },
@@ -121,14 +83,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/11950.png",
     "league": "Belarusian Premier League",
     "match_time": "2026-09-12T23:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "နေမန်း ဂရော့ဒ်နို VS တော်ပီဒို ဇော်ဒီနို",
-        "url": "https://pull.fmp.live/sla/1-6a847abb6c031c11fac465f2.m3u8?auth_key=1789255621-0-0-e788b9c8ced580b2f9e13dc5dc2a453b"
+        "url": "https://pull.fmp.live/sla/1-6a847abb6c031c11fac465f2.m3u8?auth_key=1789255801-0-0-ed363c8c70d14d5de677ab81e977f234"
       }
     ]
   },
@@ -140,14 +102,52 @@
     "away_img": "https://s.fmp.live/live/teams/logos/52472.png",
     "league": "Serbian Mozzart Bet Prva Liga",
     "match_time": "2026-09-12T23:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Jedinstvo UB VS Semendrija 1924",
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c9.m3u8?auth_key=1789255801-0-0-67e29d4c2693d7b1be2213be3c6a49ba"
+      }
+    ]
+  },
+  {
+    "id": "52767",
+    "home_name": "Wolfsberger AC",
+    "home_img": "https://s.fmp.live/live/teams/logos/10207.png",
+    "away_name": "SK Rapid Wien",
+    "away_img": "https://s.fmp.live/live/teams/logos/10134.png",
+    "league": "Austrian Bundesliga",
+    "match_time": "2026-09-13T00:00:00+08:00",
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
     "status": "NOT_STARTED",
     "links": [
       {
-        "name": "Jedinstvo UB VS Semendrija 1924",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a3c9.m3u8?auth_key=1789255621-0-0-0e1ee759c2266522a71a91a451b75b97"
+        "name": "ဝုဖ်စဘာဂါ အေစီ VS ရပ်ပစ် ဗီယင်နာ",
+        "url": "https://pull.fmp.live/sla/1-6a847abb6c031c11fac465ca.m3u8?auth_key=1789255801-0-0-3544610832f8e9d5537ee39ee0537971"
+      }
+    ]
+  },
+  {
+    "id": "52769",
+    "home_name": "Al-Salt",
+    "home_img": "https://s.fmp.live/live/teams/logos/33400.png",
+    "away_name": "Al Wehdat",
+    "away_img": "https://s.fmp.live/live/teams/logos/45241.png",
+    "league": "Jordan Premier League",
+    "match_time": "2026-09-13T00:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Al-Salt VS Al Wehdat",
+        "url": "https://pull.fmp.live/sla/1-6a9b469bcfbac0cba819f1cc.m3u8?auth_key=1789255801-0-0-448cd36b0a663b4c7efd79a0f01fef22"
       }
     ]
   }
