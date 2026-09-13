@@ -10,11 +10,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "HALF_TIME",
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "ကျယ်ကျန်း ပရိုဖက်ရှင်နယ် အက်ဖ်စီ ယူ-၁၅ VS ပေကျင်း အမှတ် (၃) အထက်တန်းကျောင်း ယူ-၁၅",
-        "url": "https://pull.fmp.live/sla/1-6aa197e4b6fa125e7d4beae8.m3u8?auth_key=1789307882-0-0-8c06cbebcf098bd2bcfb3803e084507a"
+        "url": "https://pull.fmp.live/sla/1-6aa197e4b6fa125e7d4beae8.m3u8?auth_key=1789308182-0-0-3fce2cf5e15234bd310221e3148f1a56"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဂယောင်းနမ် အက်ဖ်စီ VS ဆောင်နမ် အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44e.m3u8?auth_key=1789307882-0-0-84cfc2330faafda278d3149a20de69a6"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44e.m3u8?auth_key=1789308182-0-0-c3dea7d32e23e94dfab51445218f8e8b"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "ဂင်ချောင်း ဆန်မူ ဘောလုံးအသင်း VS ဂန်ဝမ် ဘောလုံးအသင်း",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44c.m3u8?auth_key=1789307882-0-0-6b532bb8111642f442da0656e997de2d"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44c.m3u8?auth_key=1789308182-0-0-3d49d9dc6cd8daf9da1361551b3af029"
       }
     ]
   },
@@ -71,26 +71,7 @@
     "links": [
       {
         "name": "ဂျွန်နမ် ဒရက်ဂွန်စ် VS ဂင်ပို အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44d.m3u8?auth_key=1789307882-0-0-497900d1684e730e82f08f7c51308861"
-      }
-    ]
-  },
-  {
-    "id": "52911",
-    "home_name": "Siheung City",
-    "home_img": "https://s.fmp.live/live/teams/logos/34267.png",
-    "away_name": "Changwon City",
-    "away_img": "https://s.fmp.live/live/teams/logos/19763.png",
-    "league": "Korean K League 3 ",
-    "match_time": "2026-09-13T14:30:00+08:00",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "NOT_STARTED",
-    "links": [
-      {
-        "name": "စီဟီးရောင်း စီးတီး VS ချန်းဝမ် စီးတီး",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a452.m3u8?auth_key=1789307882-0-0-18670e0e60a7786d02dc16c7417402fb"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44d.m3u8?auth_key=1789308182-0-0-0546f125c753957cb628dafa18457a35"
       }
     ]
   },
@@ -102,14 +83,90 @@
     "away_img": "https://s.fmp.live/live/teams/logos/40097.png",
     "league": "Korean K League 4",
     "match_time": "2026-09-13T14:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "Namyangju Citizen VS Pyeongtaek Citizen",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a442.m3u8?auth_key=1789307882-0-0-ae81f54bf4061e254fdea50023ac6a82"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a442.m3u8?auth_key=1789308182-0-0-673ec3c66f7af92af343421c662c715b"
+      }
+    ]
+  },
+  {
+    "id": "52913",
+    "home_name": "Hang Yuan Football Club",
+    "home_img": "https://s.fmp.live/live/teams/logos/45199.png",
+    "away_name": "Tainan City Steel",
+    "away_img": "https://s.fmp.live/live/teams/logos/40268.png",
+    "league": "Chinese Taipei Intercity League",
+    "match_time": "2026-09-13T14:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Hang Yuan Football Club VS Tainan City Steel",
+        "url": "https://pull.fmp.live/sla/1-6aa2db86018287f1cefa9fae.m3u8?auth_key=1789308182-0-0-f24ab6568b1a547a80d700b72340c599"
+      }
+    ]
+  },
+  {
+    "id": "52914",
+    "home_name": "Jeonbuk Hyundai Motors II",
+    "home_img": "https://s.fmp.live/live/teams/logos/69451.png",
+    "away_name": "Mokpo City",
+    "away_img": "https://s.fmp.live/live/teams/logos/26502.png",
+    "league": "Korean K League 3 ",
+    "match_time": "2026-09-13T14:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Jeonbuk Hyundai Motors II VS မု(ခ်)ပို စီးတီး",
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a453.m3u8?auth_key=1789308182-0-0-0f4e8ec1f8d2483f6e0ec82c5beb710d"
+      }
+    ]
+  },
+  {
+    "id": "52915",
+    "home_name": "Gijang United",
+    "home_img": "https://s.fmp.live/live/teams/logos/87443.png",
+    "away_name": "Geumsan Insam FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/92615.png",
+    "league": "Korean K League 4",
+    "match_time": "2026-09-13T14:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "ဂီဂျန်း ယူနိုက်တက်(ဒ်) VS Geumsan Insam FC",
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a443.m3u8?auth_key=1789308182-0-0-b2d9bd845c627d285303d0e422358e93"
+      }
+    ]
+  },
+  {
+    "id": "52916",
+    "home_name": "Yangpyeong",
+    "home_img": "https://s.fmp.live/live/teams/logos/34265.png",
+    "away_name": "Pocheon FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/20061.png",
+    "league": "Korean K League 3 ",
+    "match_time": "2026-09-13T14:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Yangpyeong VS ဖိုချောင်း အက်ဖ်စီ",
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a451.m3u8?auth_key=1789308182-0-0-32bcd14ae20a513a296bb3e655c9f049"
       }
     ]
   }
