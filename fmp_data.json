@@ -8,13 +8,13 @@
     "league": "China Youth Football League (Men's U15 Group)",
     "match_time": "2026-09-13T13:30:00+08:00",
     "match_status": true,
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "ကျယ်ကျန်း ပရိုဖက်ရှင်နယ် အက်ဖ်စီ ယူ-၁၅ VS ပေကျင်း အမှတ် (၃) အထက်တန်းကျောင်း ယူ-၁၅",
-        "url": "https://pull.fmp.live/sla/1-6aa197e4b6fa125e7d4beae8.m3u8?auth_key=1789310942-0-0-6a19e581a53bb73a7ba674fd2577a10d"
+        "url": "https://pull.fmp.live/sla/1-6aa197e4b6fa125e7d4beae8.m3u8?auth_key=1789311122-0-0-88fd492cac3ac1599d97055bee6438ae"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဂယောင်းနမ် အက်ဖ်စီ VS ဆောင်နမ် အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44e.m3u8?auth_key=1789310942-0-0-cefd8128be32e9ba2daa28ad13576ec7"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44e.m3u8?auth_key=1789311122-0-0-eecee4367ec82a29c43ecd3f3816cf61"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "ဂင်ချောင်း ဆန်မူ ဘောလုံးအသင်း VS ဂန်ဝမ် ဘောလုံးအသင်း",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44c.m3u8?auth_key=1789310942-0-0-e0454174eb05c9a28fea483414883eae"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44c.m3u8?auth_key=1789311122-0-0-5d1a6eb76d04321508e22a899379d5ca"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "ဂျွန်နမ် ဒရက်ဂွန်စ် VS ဂင်ပို အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44d.m3u8?auth_key=1789310942-0-0-5df1fdd584c42f5fc59f2546e93fffcd"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a44d.m3u8?auth_key=1789311122-0-0-85cb50ddbfa1750df1677a3df4629264"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "စီဟီးရောင်း စီးတီး VS ချန်းဝမ် စီးတီး",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a452.m3u8?auth_key=1789310942-0-0-a55af3b3cfd2724ee9a0091a4ff2a8b5"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a452.m3u8?auth_key=1789311122-0-0-42f573d2dcba1f0311a4796fd17845df"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "Namyangju Citizen VS Pyeongtaek Citizen",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a442.m3u8?auth_key=1789310942-0-0-d465f4bffe84096567ab8420bbaaead6"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a442.m3u8?auth_key=1789311122-0-0-53327e8ad1aee6ea9935705fac39449c"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "Hang Yuan Football Club VS Tainan City Steel",
-        "url": "https://pull.fmp.live/sla/1-6aa2db86018287f1cefa9fae.m3u8?auth_key=1789310942-0-0-9b3fc0dbb9fe6c709d1ecd95dfc1603a"
+        "url": "https://pull.fmp.live/sla/1-6aa2db86018287f1cefa9fae.m3u8?auth_key=1789311122-0-0-4d0ea6b8c0fbdb8c9930a94a508e991d"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "Jeonbuk Hyundai Motors II VS မု(ခ်)ပို စီးတီး",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a453.m3u8?auth_key=1789310942-0-0-3e094b00f513938e119f00bfd5f33fbf"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a453.m3u8?auth_key=1789311122-0-0-f4178507d6e639bac5cc8504a306cfdb"
       }
     ]
   },
@@ -162,11 +162,11 @@
     "match_status": true,
     "homeScore": 2,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "ဂီဂျန်း ယူနိုက်တက်(ဒ်) VS Geumsan Insam FC",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a443.m3u8?auth_key=1789310942-0-0-b0fbddf56ab1893ef4257b0d37014c2d"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a443.m3u8?auth_key=1789311122-0-0-75e837b73d4904b9164c8b97cac27146"
       }
     ]
   },
@@ -185,7 +185,7 @@
     "links": [
       {
         "name": "Yangpyeong VS ဖိုချောင်း အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a451.m3u8?auth_key=1789310942-0-0-0e14e5bf84ad0cca6db90862a4280144"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b8f7c293f9fe4a451.m3u8?auth_key=1789311122-0-0-b09bcad6b26d4aabb263656b9a4f5f98"
       }
     ]
   },
@@ -200,11 +200,11 @@
     "match_status": true,
     "homeScore": 3,
     "awayScore": 2,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Dangjin Citizen VS ပူဆန် ထရန်စ်ပေါ်တေးရှင်း ကော်ပိုရေးရှင်း",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd00a5.m3u8?auth_key=1789310942-0-0-16b96d4f48ab6a5e80cb60abddd86b16"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd00a5.m3u8?auth_key=1789311122-0-0-832cbe7a9a18fe8ca0d39a91de8f3cef"
       }
     ]
   },
@@ -223,7 +223,26 @@
     "links": [
       {
         "name": "TSC Backa Topola U19 VS Red Star Belgrade U19",
-        "url": "https://pull.fmp.live/sla/1-6aa60abdcf074f0d50028174.m3u8?auth_key=1789310942-0-0-2292bc96e81d5df1974bb3565fbd530f"
+        "url": "https://pull.fmp.live/sla/1-6aa60abdcf074f0d50028174.m3u8?auth_key=1789311122-0-0-da1fa52f3d2dfb80bfaa8c01f2a8e630"
+      }
+    ]
+  },
+  {
+    "id": "52919",
+    "home_name": "SK Slavia Praha B",
+    "home_img": "https://s.fmp.live/live/teams/logos/21430.png",
+    "away_name": "FK Viktoria Žižkov",
+    "away_img": "https://s.fmp.live/live/teams/logos/13768.png",
+    "league": "Chance Národní Liga",
+    "match_time": "2026-09-13T14:45:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "SK Slavia Praha B VS FK Viktoria Žižkov",
+        "url": "https://pull.fmp.live/sla/1-6a847abbe9d80a100ce54425.m3u8?auth_key=1789311122-0-0-3de7f3c8aabd82310cd515d47beec404"
       }
     ]
   },
@@ -242,7 +261,7 @@
     "links": [
       {
         "name": "အက်ဖ် စီ လီး ဖာ ရင်း VS အက်စ် ကေ အန် ဆန့် ပို(လ်) တန်",
-        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54288.m3u8?auth_key=1789310942-0-0-580ccb888a7786743d1aac3c31cd478a"
+        "url": "https://pull.fmp.live/sla/1-6a847abae9d80a100ce54288.m3u8?auth_key=1789311122-0-0-fac6aaa994010b697ef02f4e642134ab"
       }
     ]
   },
@@ -261,7 +280,7 @@
     "links": [
       {
         "name": "ပါရ် ဆာ တူ အန် ဆဲ ပါ(ခ်) ဘို လာ မာ ကာ ဆာ(ရ်) VS အာ ရေ မာ အက်ဖ် စီ",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd009a.m3u8?auth_key=1789310942-0-0-299c8010d23f21411ed5754a701c1c2e"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd009a.m3u8?auth_key=1789311122-0-0-a385bade33f0efc4d470348f20cb70b6"
       }
     ]
   },
@@ -280,7 +299,7 @@
     "links": [
       {
         "name": "Slovan HAC VS Vorwarts Brigittenau",
-        "url": "https://pull.fmp.live/sla/1-6aa4b974f2fa6c299e9a5fe3.m3u8?auth_key=1789310942-0-0-ea58cf6e86e8d757a63acc254124e35c"
+        "url": "https://pull.fmp.live/sla/1-6aa4b974f2fa6c299e9a5fe3.m3u8?auth_key=1789311122-0-0-abb4d4708548e44a63c45859536fed5e"
       }
     ]
   },
@@ -299,7 +318,7 @@
     "links": [
       {
         "name": "Futera United VS စင်ဂ်ဘူရီ ဝါးရီးယားစ် အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6aa4b974f2fa6c299e9a5fe2.m3u8?auth_key=1789310942-0-0-5ba0143383a3096486df113070aa0b05"
+        "url": "https://pull.fmp.live/sla/1-6aa4b974f2fa6c299e9a5fe2.m3u8?auth_key=1789311122-0-0-a951bf07c817ddaa57b6e9259f218b0d"
       }
     ]
   },
@@ -318,7 +337,7 @@
     "links": [
       {
         "name": "ပါရ် စီ တာ တန် ဂါ ရန်(ဂ်) VS မာ လွတ် ယူ နိုက် တက်(ဒ်)",
-        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd009b.m3u8?auth_key=1789310942-0-0-0db8a1a05b2dba9286ca59930efe56a4"
+        "url": "https://pull.fmp.live/sla/1-6a85cc6b6c031c11facd009b.m3u8?auth_key=1789311122-0-0-91ef77dde730267ab47b06742152b63b"
       }
     ]
   }
