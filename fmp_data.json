@@ -10,30 +10,11 @@
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SCHEDULED",
+    "status": "OPENED",
     "links": [
       {
         "name": "FK Andijon VS အက်ဖ်ကေ အိုလံပစ် တပ်ရှ်ကန့်(တ်)",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ada.m3u8?auth_key=1789510561-0-0-ce807790c8b0b2541e97f8a99d974488"
-      }
-    ]
-  },
-  {
-    "id": "53370",
-    "home_name": "Slovenia U16",
-    "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/9867bbcb-640f-425d-b579-214da5ca7312.jpg",
-    "away_name": "Hungary U16",
-    "away_img": "",
-    "league": "",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SCHEDULED",
-    "links": [
-      {
-        "name": "Slovenia U16 VS Hungary U16",
-        "url": "https://pull.fmp.live/sla/1-6aa91a9d44fd96a7d133b6e9.m3u8?auth_key=1789510561-0-0-03268eccc3a5719e6e1701d2f2b00d7f"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ada.m3u8?auth_key=1789510802-0-0-ba8e6c560a09d8c14deddc15ecc47648"
       }
     ]
   },
@@ -48,11 +29,11 @@
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SCHEDULED",
+    "status": "OPENED",
     "links": [
       {
         "name": "Al-Adalah VS အယ်လ်-ဂျန်ဒယ်လ်",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b06.m3u8?auth_key=1789510561-0-0-b150a2e9f12b40cce0cc98e71a80d9ed"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b06.m3u8?auth_key=1789510802-0-0-857f985b643fe3af6234598771ad3411"
       }
     ]
   },
@@ -71,7 +52,7 @@
     "links": [
       {
         "name": "အယ်လ်-အိုင်းန် အက်ဖ်စီ VS အယ်လ် နာဆာ အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4d.m3u8?auth_key=1789510561-0-0-06fa6ae17c209255e91fad35eca99864"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4d.m3u8?auth_key=1789510802-0-0-ac669c105782de0e4c5d4bc24282836b"
       }
     ]
   },
@@ -90,7 +71,7 @@
     "links": [
       {
         "name": "ဂျီနိုအာ VS SudTirol",
-        "url": "https://pull.fmp.live/sla/1-6a853f66018287f1cee2af18.m3u8?auth_key=1789510561-0-0-4257869218da27020d4fcd78f2359b0e"
+        "url": "https://pull.fmp.live/sla/1-6a853f66018287f1cee2af18.m3u8?auth_key=1789510802-0-0-c7aa5e2260c102132a74d5e268dd457d"
       }
     ]
   },
@@ -109,7 +90,7 @@
     "links": [
       {
         "name": "အက်စ်ကေ စူပါ နိုဗာ VS ရီဂါ အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a4532ab4e6abdac6128ae96.m3u8?auth_key=1789510561-0-0-55fba54c9a5578694f6d6af7004985c1"
+        "url": "https://pull.fmp.live/sla/1-6a4532ab4e6abdac6128ae96.m3u8?auth_key=1789510802-0-0-50aee59835d39b4d5dbbc107e96ef15b"
       }
     ]
   },
@@ -128,7 +109,26 @@
     "links": [
       {
         "name": "Al-Orobah FC VS Al Jeel",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4e.m3u8?auth_key=1789510561-0-0-d7ee3d15803765f729b016d4a175bad6"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4e.m3u8?auth_key=1789510802-0-0-c08e955e12321920e71a23fbbdd54fc1"
+      }
+    ]
+  },
+  {
+    "id": "53376",
+    "home_name": "Skovshoved",
+    "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/203d9d59-350b-48c1-a0ba-039860645cca.jpg",
+    "away_name": "အက်စီ ကိုပင်ဟေဂင်",
+    "away_img": "",
+    "league": "",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "SCHEDULED",
+    "links": [
+      {
+        "name": "Skovshoved VS အက်စီ ကိုပင်ဟေဂင်",
+        "url": "https://pull.fmp.live/sla/1-6a98f7defbc4c8ef09f21fc5.m3u8?auth_key=1789510802-0-0-e695cf5724b73308dbd92b0d6cf93d9d"
       }
     ]
   }
