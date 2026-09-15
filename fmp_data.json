@@ -10,11 +10,11 @@
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SCHEDULED",
+    "status": "OPENED",
     "links": [
       {
         "name": "Al-Adalah VS အယ်လ်-ဂျန်ဒယ်လ်",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b06.m3u8?auth_key=1789512062-0-0-7fb448a54c0f8a96c029c8818194670e"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b06.m3u8?auth_key=1789512242-0-0-ca32e9836ce55e389e9c45edb91671fd"
       }
     ]
   },
@@ -29,11 +29,11 @@
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SCHEDULED",
+    "status": "OPENED",
     "links": [
       {
         "name": "အယ်လ်-အိုင်းန် အက်ဖ်စီ VS အယ်လ် နာဆာ အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4d.m3u8?auth_key=1789512062-0-0-2c350a921fd6551a167c2ea9c181ca41"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4d.m3u8?auth_key=1789512242-0-0-9f66ae733ba90061b5650ef3847377e9"
       }
     ]
   },
@@ -48,11 +48,11 @@
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SCHEDULED",
+    "status": "OPENED",
     "links": [
       {
         "name": "ဂျီနိုအာ VS SudTirol",
-        "url": "https://pull.fmp.live/sla/1-6a853f66018287f1cee2af18.m3u8?auth_key=1789512062-0-0-b694974359415c9c54677ecfaaeb2064"
+        "url": "https://pull.fmp.live/sla/1-6a853f66018287f1cee2af18.m3u8?auth_key=1789512242-0-0-70380f59810202142683c7882a152742"
       }
     ]
   },
@@ -67,11 +67,11 @@
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SCHEDULED",
+    "status": "OPENED",
     "links": [
       {
         "name": "အက်စ်ကေ စူပါ နိုဗာ VS ရီဂါ အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a4532ab4e6abdac6128ae96.m3u8?auth_key=1789512062-0-0-b0fdd055a32dccfa53f513e60b973e04"
+        "url": "https://pull.fmp.live/sla/1-6a4532ab4e6abdac6128ae96.m3u8?auth_key=1789512242-0-0-54ee58017f9726618cfd4d3c004a9d1d"
       }
     ]
   },
@@ -86,11 +86,11 @@
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SCHEDULED",
+    "status": "OPENED",
     "links": [
       {
         "name": "Al-Orobah FC VS Al Jeel",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4e.m3u8?auth_key=1789512062-0-0-8ec19d0b4f9f707b3192dad4b2c6f662"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4e.m3u8?auth_key=1789512242-0-0-07fe0bd6d446597fad24fb23487dc83e"
       }
     ]
   },
@@ -105,11 +105,11 @@
     "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SCHEDULED",
+    "status": "OPENED",
     "links": [
       {
         "name": "Skovshoved VS အက်စီ ကိုပင်ဟေဂင်",
-        "url": "https://pull.fmp.live/sla/1-6a98f7defbc4c8ef09f21fc5.m3u8?auth_key=1789512062-0-0-7086e5dae109cc2ceebae3fce67548fc"
+        "url": "https://pull.fmp.live/sla/1-6a98f7defbc4c8ef09f21fc5.m3u8?auth_key=1789512242-0-0-d49b961fc34a214ba214229f525631e5"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "အီရိုနီ တီဗီရိယတ်စ်  VS ဟာပိုအဲလ် ယေရူရှလင်",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ac7.m3u8?auth_key=1789512062-0-0-50a0e059d81e0fdc9bb0af82d45b3ce9"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ac7.m3u8?auth_key=1789512242-0-0-660c614afbce155187ca8b4173c27306"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "A.S.D. Giugliano Calcio 1928 VS Cosenza Calcio 1914",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b50.m3u8?auth_key=1789512062-0-0-a81b191f7e9d8057d1451fd851fb0547"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b50.m3u8?auth_key=1789512242-0-0-79332ee60620951b1f94545c33293b76"
       }
     ]
   },
@@ -166,7 +166,7 @@
     "links": [
       {
         "name": "Crotone VS အင်တာ မီလန် ယူ-၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b51.m3u8?auth_key=1789512062-0-0-5c2efeb938d08fda39796c49f9662238"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b51.m3u8?auth_key=1789512242-0-0-e0a23efeb8c48301cdedfd71054ed0ce"
       }
     ]
   },
@@ -185,7 +185,7 @@
     "links": [
       {
         "name": "AZ Picerno ASD VS Catania FC",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4f.m3u8?auth_key=1789512062-0-0-c592aac7d432ee413218e17f4833b185"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4f.m3u8?auth_key=1789512242-0-0-238104634ea243735a77727441723c8f"
       }
     ]
   },
@@ -204,7 +204,7 @@
     "links": [
       {
         "name": "US Casertana 1908 VS Altamura",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b52.m3u8?auth_key=1789512062-0-0-86a960f3cbe8aa48d691579fb051a75e"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b52.m3u8?auth_key=1789512242-0-0-a61b847aa0c8166f6d7088ae4abda9e4"
       }
     ]
   },
@@ -223,7 +223,7 @@
     "links": [
       {
         "name": "ရာယို ဗယ်လီကာနို VS အက်စ်ပါညောလ်",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b93.m3u8?auth_key=1789512062-0-0-9ed213307d4f1cd33eb74a050be6fe48"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b93.m3u8?auth_key=1789512242-0-0-796f788470e5dba58829799e15874f42"
       }
     ]
   }
