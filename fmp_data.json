@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "ဝါဒီ ဒေဂလာ အက်စ်စီ VS El Mokawloon El Arab",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af8.m3u8?auth_key=1789509361-0-0-1181d0a7fc1face6eb1158d05a20b2a1"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af8.m3u8?auth_key=1789509542-0-0-c34855784a9757e688900fc086b8c0c3"
       }
     ]
   },
@@ -33,45 +33,7 @@
     "links": [
       {
         "name": "Asyut Petroleum VS မော်ဒန် စပို့တ် အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af9.m3u8?auth_key=1789509361-0-0-8d4398add732a951ead0a865c896d7cf"
-      }
-    ]
-  },
-  {
-    "id": "53365",
-    "home_name": "Vizela U23",
-    "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/b39d5e7d-fe73-4905-aee8-12ef8b12023c.jpg",
-    "away_name": "Maritimo U23",
-    "away_img": "",
-    "league": "",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SCHEDULED",
-    "links": [
-      {
-        "name": "Vizela U23 VS Maritimo U23",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351afd.m3u8?auth_key=1789509361-0-0-0f6290f91162fcede96a133074e91e6c"
-      }
-    ]
-  },
-  {
-    "id": "53366",
-    "home_name": "Sporting CP U23",
-    "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/981e3955-7ff6-4019-82c1-a9144203dd09.jpg",
-    "away_name": "အာကာဒေးမီကို ဗီဇူး ယူ-၂၃",
-    "away_img": "",
-    "league": "",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SCHEDULED",
-    "links": [
-      {
-        "name": "Sporting CP U23 VS အာကာဒေးမီကို ဗီဇူး ယူ-၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351aff.m3u8?auth_key=1789509361-0-0-6aada84509eab8401d31666b58d86608"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af9.m3u8?auth_key=1789509542-0-0-30953c0ad2981afc415141aaa8f5be7a"
       }
     ]
   },
@@ -90,7 +52,7 @@
     "links": [
       {
         "name": "FK Andijon VS အက်ဖ်ကေ အိုလံပစ် တပ်ရှ်ကန့်(တ်)",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ada.m3u8?auth_key=1789509361-0-0-e2e909cdd798522bdf27f0543aa95202"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ada.m3u8?auth_key=1789509542-0-0-ce471d6f75752ac1b6512cc89a1a2519"
       }
     ]
   },
@@ -109,7 +71,7 @@
     "links": [
       {
         "name": "Slovenia U16 VS Hungary U16",
-        "url": "https://pull.fmp.live/sla/1-6aa91a9d44fd96a7d133b6e9.m3u8?auth_key=1789509361-0-0-6094250e1da56a9ddbce6d27f7852c5a"
+        "url": "https://pull.fmp.live/sla/1-6aa91a9d44fd96a7d133b6e9.m3u8?auth_key=1789509542-0-0-053d548e08d1db83e172002581e57415"
       }
     ]
   },
@@ -128,7 +90,7 @@
     "links": [
       {
         "name": "Al-Adalah VS အယ်လ်-ဂျန်ဒယ်လ်",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b06.m3u8?auth_key=1789509361-0-0-b6dcc1a41e7d29c1aed816389cd66841"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b06.m3u8?auth_key=1789509542-0-0-65dd96c7cc1d81e6a6284e51b6568da1"
       }
     ]
   },
@@ -147,7 +109,7 @@
     "links": [
       {
         "name": "အယ်လ်-အိုင်းန် အက်ဖ်စီ VS အယ်လ် နာဆာ အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4d.m3u8?auth_key=1789509361-0-0-b7b83428a42ccda4e4d67d71aa4c20d7"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4d.m3u8?auth_key=1789509542-0-0-5efb13524278a08d4318c06633bda9b0"
       }
     ]
   },
@@ -166,7 +128,26 @@
     "links": [
       {
         "name": "ဂျီနိုအာ VS SudTirol",
-        "url": "https://pull.fmp.live/sla/1-6a853f66018287f1cee2af18.m3u8?auth_key=1789509361-0-0-2abfba206f434cc7f2a8f15aff8419e8"
+        "url": "https://pull.fmp.live/sla/1-6a853f66018287f1cee2af18.m3u8?auth_key=1789509542-0-0-39deab2c8c3e323ea02e6057eda96a3c"
+      }
+    ]
+  },
+  {
+    "id": "53374",
+    "home_name": "အက်စ်ကေ စူပါ နိုဗာ",
+    "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/7809a047-c6d8-4636-b943-710c054f7209.jpg",
+    "away_name": "ရီဂါ အက်ဖ်စီ",
+    "away_img": "",
+    "league": "",
+    "match_time": "",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "SCHEDULED",
+    "links": [
+      {
+        "name": "အက်စ်ကေ စူပါ နိုဗာ VS ရီဂါ အက်ဖ်စီ",
+        "url": "https://pull.fmp.live/sla/1-6a4532ab4e6abdac6128ae96.m3u8?auth_key=1789509542-0-0-13c1627f63f93f9d554ac23f4f6cada8"
       }
     ]
   }
