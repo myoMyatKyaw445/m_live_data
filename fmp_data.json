@@ -8,7 +8,7 @@
     "links": [
       {
         "name": "Victoriano Arenas Reserves VS စီအေ လူဂါနို ရီဇာ့ဗ်စ်",
-        "url": "https://pull.fmp.live/sla/1-6aa9172de607ff5ae42b2f10.m3u8?auth_key=1789508401-0-0-abaadd8813d3442342df047e44d3d0bb"
+        "url": "https://pull.fmp.live/sla/1-6aa9172de607ff5ae42b2f10.m3u8?auth_key=1789508582-0-0-36db9e91dece0ebfb15d9dc43ca740ee"
       }
     ],
     "home_name": "Victoriano Arenas Reserves",
@@ -24,7 +24,7 @@
     "links": [
       {
         "name": "ဝါဒီ ဒေဂလာ အက်စ်စီ VS El Mokawloon El Arab",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af8.m3u8?auth_key=1789508401-0-0-f8045e64ab8c6752ed14f4bb8d42848f"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af8.m3u8?auth_key=1789508582-0-0-ac4bb519790bc0ce368045a4bbcc79cc"
       }
     ],
     "home_name": "ဝါဒီ ဒေဂလာ အက်စ်စီ",
@@ -40,7 +40,7 @@
     "links": [
       {
         "name": "Asyut Petroleum VS မော်ဒန် စပို့တ် အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af9.m3u8?auth_key=1789508401-0-0-9d7d7c7ef85598b15b1f34f92b39f15c"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af9.m3u8?auth_key=1789508582-0-0-bb43dbc1d762538dc300a6ee1bc86e95"
       }
     ],
     "home_name": "Asyut Petroleum",
@@ -56,7 +56,7 @@
     "links": [
       {
         "name": "Vizela U23 VS Maritimo U23",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351afd.m3u8?auth_key=1789508401-0-0-fa69813f990bde59ffd6fcfed1688bc2"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351afd.m3u8?auth_key=1789508582-0-0-6c4fc6717d27727182bcdf8c7450e4f5"
       }
     ],
     "home_name": "Vizela U23",
@@ -72,7 +72,7 @@
     "links": [
       {
         "name": "Sporting CP U23 VS အာကာဒေးမီကို ဗီဇူး ယူ-၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351aff.m3u8?auth_key=1789508401-0-0-8c7e7bc79337babed2908095d9cf9163"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351aff.m3u8?auth_key=1789508582-0-0-01ceb20a8ceaf078c04781762d6af940"
       }
     ],
     "home_name": "Sporting CP U23",
@@ -88,7 +88,7 @@
     "links": [
       {
         "name": "ဥဇဘက်ကစ္စတန် ယူ-၁၇ အမျိုးသမီး VS တာဂျီကစ္စတန် ယူ-၁၇ အမျိုးသမီး",
-        "url": "https://pull.fmp.live/sla/1-6aa9172de607ff5ae42b2f0f.m3u8?auth_key=1789508401-0-0-c4e74c61b1a0cf8e492de91cbc7ba486"
+        "url": "https://pull.fmp.live/sla/1-6aa9172de607ff5ae42b2f0f.m3u8?auth_key=1789508582-0-0-5d6f9442367e8243c8fb56d95a3cd86c"
       }
     ],
     "home_name": "ဥဇဘက်ကစ္စတန် ယူ-၁၇ အမျိုးသမီး",
@@ -99,12 +99,12 @@
     "id": "53369",
     "homeScore": 0,
     "awayScore": 0,
-    "status": "OPENED",
-    "match_status": true,
+    "status": "SCHEDULED",
+    "match_status": false,
     "links": [
       {
         "name": "Afyonkarahisaspor VS Urgupspor Kulubu",
-        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc01.m3u8?auth_key=1789508401-0-0-1f6c93c6b73da5084d98d3c781cfabb9"
+        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc01.m3u8?auth_key=1789508582-0-0-d9ebddf7bf4faed392f372dd63466969"
       }
     ],
     "home_name": "Afyonkarahisaspor",
@@ -120,7 +120,7 @@
     "links": [
       {
         "name": "Slovenia U16 VS Hungary U16",
-        "url": "https://pull.fmp.live/sla/1-6aa91a9d44fd96a7d133b6e9.m3u8?auth_key=1789508401-0-0-1f7c9a9475acd131ed224d89e29ae1af"
+        "url": "https://pull.fmp.live/sla/1-6aa91a9d44fd96a7d133b6e9.m3u8?auth_key=1789508582-0-0-92afa5bafd11e4090a9751f5ee42d2a4"
       }
     ],
     "home_name": "Slovenia U16",
@@ -136,7 +136,7 @@
     "links": [
       {
         "name": "Al-Adalah VS အယ်လ်-ဂျန်ဒယ်လ်",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b06.m3u8?auth_key=1789508401-0-0-740bd52d1568bcb69c0e1dc31a0a4977"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b06.m3u8?auth_key=1789508582-0-0-23dfcf614e0749bb05c9c25bc938e983"
       }
     ],
     "home_name": "Al-Adalah",
