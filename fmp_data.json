@@ -6,7 +6,7 @@
     "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/d462098c-d3f5-4c08-aa0c-dde2c54c99a7.jpg",
     "away_img": "",
     "league": "",
-    "match_time": "2026-09-15T12:00:12.111Z",
+    "match_time": "2026-09-15T12:03:13.490Z",
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Iran Women U17 VS ကာဂျစ္စတန် ယူ-၁၇ အမျိုးသမီး",
-        "url": "https://pull.fmp.live/sla/1-6aa8ecfbcf074f0d501a6a67.m3u8?auth_key=1789495202-0-0-b29533f5d558cd1bdace2fea0533d6e6"
+        "url": "https://pull.fmp.live/sla/1-6aa8ecfbcf074f0d501a6a67.m3u8?auth_key=1789495381-0-0-8de55688c961bee57dab88a27f261d0d"
       }
     ]
   },
@@ -25,7 +25,7 @@
     "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/9ca1e62c-8d11-424c-a935-5331eb14fa21.jpg",
     "away_img": "",
     "league": "",
-    "match_time": "2026-09-15T12:00:12.111Z",
+    "match_time": "2026-09-15T12:03:13.490Z",
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Chiangmai United FC VS Khonkaen United",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ae9.m3u8?auth_key=1789495202-0-0-226b5c1e4816491fbbfdecc7e10f6a0f"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ae9.m3u8?auth_key=1789495381-0-0-602a5451fe7b01aa45347b016e5dadd0"
       }
     ]
   },
@@ -44,7 +44,7 @@
     "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/e872590e-7b1c-4eb6-82d1-46820671ac09.jpg",
     "away_img": "",
     "league": "",
-    "match_time": "2026-09-15T12:00:12.111Z",
+    "match_time": "2026-09-15T12:03:13.490Z",
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "FC Bengaluru United VS Kickstart Karnataka FC",
-        "url": "https://pull.fmp.live/sla/1-6aa8e5f444fd96a7d131d864.m3u8?auth_key=1789495202-0-0-3c72d09b523f51f803ff1c94f248088f"
+        "url": "https://pull.fmp.live/sla/1-6aa8e5f444fd96a7d131d864.m3u8?auth_key=1789495381-0-0-efe084f184b429332188499174a7100b"
       }
     ]
   },
@@ -63,7 +63,7 @@
     "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/3bda5db6-b967-49f9-8ba7-ee6f11dfe359.jpg",
     "away_img": "",
     "league": "",
-    "match_time": "2026-09-15T12:00:12.111Z",
+    "match_time": "2026-09-15T12:03:13.490Z",
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
@@ -71,26 +71,7 @@
     "links": [
       {
         "name": "Qatar U23 VS တောင်ကိုရီးယား ယူ-၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ae8.m3u8?auth_key=1789495202-0-0-5a69e4731e2da062ce55acbf671c3560"
-      }
-    ]
-  },
-  {
-    "id": "53349",
-    "home_name": "ဖာရန်ဆေ ယူ-၂၃",
-    "away_name": "Leixoes U23",
-    "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/9b56caa1-80c5-40fe-89d3-9d6973c76604.jpg",
-    "away_img": "",
-    "league": "",
-    "match_time": "2026-09-15T12:00:12.111Z",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "UNKNOWN",
-    "links": [
-      {
-        "name": "ဖာရန်ဆေ ယူ-၂၃ VS Leixoes U23",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b00.m3u8?auth_key=1789495202-0-0-1853b8861c428a829689e0fd0f685d33"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ae8.m3u8?auth_key=1789495381-0-0-57412c4ce462d261a5a83105c5022951"
       }
     ]
   }
