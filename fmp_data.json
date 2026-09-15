@@ -1,24 +1,5 @@
 [
   {
-    "id": "53362",
-    "home_name": "Victoriano Arenas Reserves",
-    "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/e3a5fb3e-e95e-4287-8b81-cc38e58e5587.jpg",
-    "away_name": "စီအေ လူဂါနို ရီဇာ့ဗ်စ်",
-    "away_img": "",
-    "league": "",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SCHEDULED",
-    "links": [
-      {
-        "name": "Victoriano Arenas Reserves VS စီအေ လူဂါနို ရီဇာ့ဗ်စ်",
-        "url": "https://pull.fmp.live/sla/1-6aa9172de607ff5ae42b2f10.m3u8?auth_key=1789509181-0-0-46db9a1bf0d885d4323b0e06a6e3174b"
-      }
-    ]
-  },
-  {
     "id": "53363",
     "home_name": "ဝါဒီ ဒေဂလာ အက်စ်စီ",
     "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/cefe745c-8a88-4597-bd0b-1757cff6340f.jpg",
@@ -33,7 +14,7 @@
     "links": [
       {
         "name": "ဝါဒီ ဒေဂလာ အက်စ်စီ VS El Mokawloon El Arab",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af8.m3u8?auth_key=1789509181-0-0-4e4f08e9ce800153fdc3623bc34440ec"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af8.m3u8?auth_key=1789509361-0-0-1181d0a7fc1face6eb1158d05a20b2a1"
       }
     ]
   },
@@ -52,7 +33,7 @@
     "links": [
       {
         "name": "Asyut Petroleum VS မော်ဒန် စပို့တ် အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af9.m3u8?auth_key=1789509181-0-0-b03ec3d61bec71311e5e9b37f4bc720a"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351af9.m3u8?auth_key=1789509361-0-0-8d4398add732a951ead0a865c896d7cf"
       }
     ]
   },
@@ -71,7 +52,7 @@
     "links": [
       {
         "name": "Vizela U23 VS Maritimo U23",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351afd.m3u8?auth_key=1789509181-0-0-42531ede02a0e59aa9f6d7fe38eef6d5"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351afd.m3u8?auth_key=1789509361-0-0-0f6290f91162fcede96a133074e91e6c"
       }
     ]
   },
@@ -90,7 +71,7 @@
     "links": [
       {
         "name": "Sporting CP U23 VS အာကာဒေးမီကို ဗီဇူး ယူ-၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351aff.m3u8?auth_key=1789509181-0-0-d259135cc09cbd8ba13eb24200252e00"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351aff.m3u8?auth_key=1789509361-0-0-6aada84509eab8401d31666b58d86608"
       }
     ]
   },
@@ -109,26 +90,7 @@
     "links": [
       {
         "name": "FK Andijon VS အက်ဖ်ကေ အိုလံပစ် တပ်ရှ်ကန့်(တ်)",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ada.m3u8?auth_key=1789509181-0-0-d8219369e6766a8604ef493ae3a9bf20"
-      }
-    ]
-  },
-  {
-    "id": "53369",
-    "home_name": "Afyonkarahisaspor",
-    "home_img": "https://s.fmp.live/live/lives/covers/2026/09/15/0a8d3e48-181d-4dbf-ac9e-301b763c6967.jpg",
-    "away_name": "Urgupspor Kulubu",
-    "away_img": "",
-    "league": "",
-    "match_time": "",
-    "match_status": false,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "SCHEDULED",
-    "links": [
-      {
-        "name": "Afyonkarahisaspor VS Urgupspor Kulubu",
-        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc01.m3u8?auth_key=1789509181-0-0-18eaf048f97fa0232a7b939cda9f076e"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351ada.m3u8?auth_key=1789509361-0-0-e2e909cdd798522bdf27f0543aa95202"
       }
     ]
   },
@@ -147,7 +109,7 @@
     "links": [
       {
         "name": "Slovenia U16 VS Hungary U16",
-        "url": "https://pull.fmp.live/sla/1-6aa91a9d44fd96a7d133b6e9.m3u8?auth_key=1789509181-0-0-7a81caab581bf0bb27549244ab50c7a5"
+        "url": "https://pull.fmp.live/sla/1-6aa91a9d44fd96a7d133b6e9.m3u8?auth_key=1789509361-0-0-6094250e1da56a9ddbce6d27f7852c5a"
       }
     ]
   },
@@ -166,7 +128,7 @@
     "links": [
       {
         "name": "Al-Adalah VS အယ်လ်-ဂျန်ဒယ်လ်",
-        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b06.m3u8?auth_key=1789509181-0-0-29b4ad17cdeed6fc9adfd83559d05f1b"
+        "url": "https://pull.fmp.live/sla/1-6a886f1ffbc4c8ef09351b06.m3u8?auth_key=1789509361-0-0-b6dcc1a41e7d29c1aed816389cd66841"
       }
     ]
   },
@@ -185,7 +147,7 @@
     "links": [
       {
         "name": "အယ်လ်-အိုင်းန် အက်ဖ်စီ VS အယ်လ် နာဆာ အက်ဖ်စီ",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4d.m3u8?auth_key=1789509181-0-0-1ee1f25e2b0162f3b0b78220eb50ff4f"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245b4d.m3u8?auth_key=1789509361-0-0-b7b83428a42ccda4e4d67d71aa4c20d7"
       }
     ]
   },
@@ -204,7 +166,7 @@
     "links": [
       {
         "name": "ဂျီနိုအာ VS SudTirol",
-        "url": "https://pull.fmp.live/sla/1-6a853f66018287f1cee2af18.m3u8?auth_key=1789509181-0-0-8f0746ff5f971f1c28e880439f79b774"
+        "url": "https://pull.fmp.live/sla/1-6a853f66018287f1cee2af18.m3u8?auth_key=1789509361-0-0-2abfba206f434cc7f2a8f15aff8419e8"
       }
     ]
   }
